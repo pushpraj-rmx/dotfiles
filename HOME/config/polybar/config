@@ -1,0 +1,833 @@
+;==========================================================
+;
+;
+;   ██████╗  ██████╗ ██╗  ██╗   ██╗██████╗  █████╗ ██████╗
+;   ██╔══██╗██╔═══██╗██║  ╚██╗ ██╔╝██╔══██╗██╔══██╗██╔══██╗
+;   ██████╔╝██║   ██║██║   ╚████╔╝ ██████╔╝███████║██████╔╝
+;   ██╔═══╝ ██║   ██║██║    ╚██╔╝  ██╔══██╗██╔══██║██╔══██╗
+;   ██║     ╚██████╔╝███████╗██║   ██████╔╝██║  ██║██║  ██║
+;   ╚═╝      ╚═════╝ ╚══════╝╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+;
+;
+;   To learn more about how to configure Polybar
+;   go to https://github.com/jaagr/polybar
+;
+;   The README contains alot of information
+;
+;==========================================================
+
+[settings]
+screenchange-reload = true
+;compositing-background = xor
+;compositing-background = screen
+;compositing-foreground = source
+;compositing-border = over
+;pseudo-transparency = false
+
+[global/wm]
+margin-top = 5
+margin-bottom = 5
+
+
+
+[colors]
+background = ${xrdb:polybar.background} 
+background-alt = ${xrdb:polybar.background-alt}
+
+foreground = ${xrdb:polybar.foreground}
+foreground-alt = ${xrdb:polybar.foreground-alt}
+
+primary = ${xrdb:polybar.primary}
+secondary = ${xrdb:polybar.secondary}
+tertiary = ${xrdb:polybar.tertiary}
+quaternary = ${xrdb:polybar.quaternary}
+quinary = ${xrdb:polybar.quinary}
+
+icon = ${xrdb:polybar.icon}
+alert = ${xrdb:polybar.alert}
+
+tag-focused-background = ${xrdb:polybar.tag-focused-background}
+tag-unfocused-background = ${xrdb:polybar.tag-unfocused-background}
+tag-visible-background = ${xrdb:polybar.tag-visible-background}
+tag-urgent-background = ${xrdb:polybar.tag-urgent-background}
+
+spotify = #1db954
+
+
+
+[bar/main]
+monitor = ${env:MONITOR:}
+monitor-fallback = eDP1
+monitor-strict = false
+width = 99.4%
+height = 24
+offset-x = 0.3%
+offset-y = 0.5%
+radius = 0
+fixed-center = true
+
+enable-ipc = true
+background = ${colors.background}
+foreground = ${colors.foreground}
+
+line-size = 0
+line-color = ${colors.icon}
+
+padding-right = 0
+
+font-0 = FantasqueSansMono NerdFont:size=10;2
+font-1 = FantasqueSansMono NerdFont:size=10;2
+font-2 = FantasqueSansMono NerdFont:size=10;2
+font-3 = FantasqueSansMono NerdFont:size=10;2
+font-4 = FantasqueSansMono NerdFont:size=10;2
+font-5 = FantasqueSansMono NerdFont:size=10;2
+font-6 = FantasqueSansMono NerdFont:size=10;2
+
+
+;font-0 = Iosevka NerdFont:size=10;2
+;font-1 = Iosevka NerdFont:size=10;2
+;font-2 = Iosevka NerdFont:size=10;2
+;font-3 = Iosevka NerdFont:size=10;2
+;font-4 = Iosevka NerdFont:size=10;2
+;font-5 = Iosevka NerdFont:size=10;2
+;font-6 = Iosevka NerdFont:size=10;2
+
+
+
+
+
+
+
+modules-left = dwm 
+;modules-right = termdown updates spotify previous playpause next pad weather-icon weather-temp pad memory pad cpu cpu-speed pad temperature wlan eth expressvpn openvpn battery backlight pulseaudio date restart lock notifications redshift powermenu
+
+modules-center = mpd 
+
+;modules-right = memory cpu wlan pulseaudio date restart powermenu
+modules-right = wlan pulseaudio date restart
+tray-position = right
+tray-detached = false
+;tray-offset-x = -5
+tray-padding = 0
+
+override-redirect = false
+
+cursor-click = pointer
+cursor-scroll = ns-resize
+
+
+
+[module/dwm]
+type = internal/dwm
+;format = <label-tags> <label-layout> <label-floating> <label-title>
+format = <label-tags> <label-layout> <label-title>
+;socket-path = /tmp/dwm.sock
+
+enable-tags-click = true
+enable-tags-scroll = true
+tags-scroll-empty = true
+tags-scroll-reverse = true
+tags-scroll-wrap = true
+enable-layout-click = true
+;enable-layout-scroll = true
+;layout-scroll-wrap = true
+;layout-scroll-reverse = true
+
+; If enable-layout-click = true, clicking the layout symbol will switch to this layout
+secondary-layout-symbol = [M]
+
+; Tagas:
+; Available tokens:
+;   %name%
+
+;label-floating = 
+
+label-title = "%title%"
+label-title-maxlen = 35
+label-title-padding = 1
+label-title-foreground = ${colors.foreground}
+label-title-background = ${colors.background}
+
+label-layout = %symbol%
+label-layout-padding = 1
+label-layout-foreground = ${colors.foreground}
+label-layout-background = ${colors.background}
+
+; focused = Active tag on focused monitor
+label-focused = %name%
+label-focused-background = ${colors.tag-focused-background}
+label-focused-foreground = ${colors.foreground}
+label-focused-padding = 1
+label-focused-font = 7
+
+; unfocused = Inactive tag on any monitor
+label-unfocused = %name%
+label-unfocused-background = ${colors.tag-unfocused-background}
+label-unfocused-foreground = ${colors.foreground}
+label-unfocused-padding = 1
+label-unfocused-font = 7
+
+; visible = Active tag on unfocused monitor
+label-visible = %name%
+label-visible-background = ${colors.tag-visible-background}
+label-visible-foreground = ${colors.foreground}
+label-visible-padding = 1
+label-visible-font = 7
+
+; urgent = Tag with urgency hint set
+label-urgent = %name%
+label-urgent-background = ${colors.tag-urgent-background}
+label-urgent-padding = 2
+label-urgent-font = 7
+
+; empty = Tags with no windows assigned
+; This can be set to an empty string to hide empty tags
+label-empty =
+;label-empty = "  "
+
+; Separator in between workspaces
+; label-separator = |
+
+[module/mpd]
+type = internal/mpd
+
+;format-online = <label-song>  <icon-prev> <icon-stop> <toggle> <icon-next>
+format-online = <label-song>  <icon-prev> <icon-stop> <toggle> <icon-next>
+
+icon-prev = 玲 
+icon-stop = 栗 
+icon-play = 
+icon-pause = 
+icon-next = 怜
+
+label-song = ﱘ  %title%
+label-song-maxlen = 30
+;label-offline = 🎜 mpd is offline
+label-song-ellipsis = true
+
+
+
+
+[module/title]
+type = internal/xwindow
+
+
+[module/termdown]
+type = custom/script
+interval = 1
+
+exec-if = [[ -f "/tmp/termdown" ]]
+exec = cat /tmp/termdown
+tail = false
+
+label = %output%
+
+format = <label>
+
+format-prefix = 
+format-prefix-font = 6
+format-prefix-padding-right = 1
+format-prefix-foreground = ${colors.icon}
+
+format-padding = 1
+format-margin = 1
+format-background = ${colors.background-alt}
+format-overline = ${colors.background}
+format-underline = ${colors.background}
+
+
+
+[module/spotify]
+type = custom/ipc
+
+hook-0 = echo ""
+hook-1 = spotifyctl -q status --format '%artist%: %title%' --max-length 30 --max-title-length 20 --max-artist-length 10 --trunc '...'
+initial = 1
+
+format-prefix = 
+format-prefix-padding-right = 1
+format-prefix-font = 2
+
+format-padding = 1
+
+
+
+[module/previous]
+type = custom/ipc
+
+click-left = "spotifyctl -q previous"
+hook-0 = echo
+hook-1 = echo 
+
+format-font = 6
+format-padding = 1
+
+
+
+[module/playpause]
+type = custom/ipc
+
+click-left = "spotifyctl playpause"
+; Default
+hook-0 = echo
+; Playing
+hook-1 = echo 
+; Paused
+hook-2 = echo 
+initial = 1
+
+format-font = 6
+
+
+
+[module/next]
+type = custom/ipc
+
+click-left = "spotifyctl -q next"
+hook-0 = echo
+hook-1 = echo 
+
+format-font = 6
+format-padding = 1
+
+
+
+[module/updates]
+type = custom/script
+interval = 3600
+
+click-left = ~/.scripts/update &
+exec = echo $(yay -Qu | wc -l)
+exec-if = [  $(yay -Qu | wc -l) -ne "0" ]
+tail = true
+
+label = %output%
+
+format = <label>
+format-prefix = 
+format-prefix-padding-right = 1
+format-prefix-font = 6
+format-prefix-foreground = ${colors.icon}
+format-prefix-background = ${colors.background-alt}
+
+format-padding = 1
+format-margin = 1
+format-foreground = ${colors.foreground}
+format-background = ${colors.background-alt}
+format-overline = ${colors.background}
+format-underline = ${colors.background}
+
+
+
+[module/weather-icon]
+type = custom/script
+interval = 1800
+
+exec-if = ls ~/.apikeys/openweathermap.key
+exec = ~/.scripts/get-weather --icon-only
+tail = true
+
+label = %output%
+label-padding-left = 1
+label-font = 5
+
+format = <label>
+format-foreground = ${colors.icon}
+format-background = ${colors.background-alt}
+format-underline = ${colors.background}
+format-overline = ${colors.background}
+
+
+
+[module/weather-temp]
+type = custom/script
+interval = 1800
+
+exec-if = ls ~/.apikeys/openweathermap.key
+exec = ~/.scripts/get-weather --temp-only
+tail = false
+
+label = %output%
+
+format = <label>
+format-padding = 1
+format-foreground = ${colors.foreground}
+format-background = ${colors.background-alt}
+format-underline = ${colors.background}
+format-overline = ${colors.background}
+
+
+
+;[module/filesystem]
+;type = internal/fs
+;interval = 25
+;mount-0 = /home
+
+;label-mounted = "%percentage_used%%"
+;label-mounted-foreground = ${colors.foreground}
+
+;label-unmounted = %mountpoint% not mounted
+;label-unmounted-foreground = ${colors.icon}
+
+;format-unmounted-padding = 1
+;format-unmounted-margin = 1
+;format-unmounted-background= ${colors.background-alt}
+;format-unmounted-overline = ${colors.background}
+;format-unmounted-underline = ${colors.background}
+;format-unmounted-foreground = ${colors.foreground}
+
+;format-mounted-prefix = 
+;format-mounted-prefix-foreground = ${colors.icon}
+;format-mounted-prefix-padding-right = 1
+
+;;format-mounted-padding = 1
+;format-mounted-margin = 1
+;format-mounted-background= ${colors.background-alt}
+;format-mounted-overline = ${colors.background}
+;format-mounted-underline = ${colors.background}
+;format-mounted-foreground = ${colors.foreground}
+
+
+
+[module/memory]
+type = internal/memory
+interval = 2
+
+label = %percentage_used:3%%
+label-foreground = ${colors.foreground}
+
+format-prefix = ""
+format-prefix-font = 2
+format-prefix-foreground = ${colors.icon}
+
+format-padding = 0
+format-margin = 1
+format-background = ${colors.background-alt}
+format-underline = ${colors.background}
+format-overline = ${colors.background}
+
+
+[module/cpu]
+type = internal/cpu
+interval = 1
+
+label = %percentage:2%%
+label-foreground = ${colors.foreground}
+
+format-prefix = 
+font-prefix-font = 6
+format-prefix-padding-right = 1
+format-prefix-foreground = ${colors.icon}
+
+format-padding = 1
+format-background = ${colors.background-alt}
+format-underline = ${colors.background}
+format-overline = ${colors.background}
+
+
+
+[module/cpu-speed]
+type=custom/script
+interval = 1
+
+exec = ~/.scripts/cpu-speed
+
+label = %output%
+
+;format-prefix = 
+;format-prefix-font = 6
+;format-prefix-padding-right = 1
+;format-prefix-foreground = ${colors.icon}
+
+format-padding = 1
+format-background = ${colors.background-alt}
+format-overline = ${colors.background}
+format-underline = ${colors.background}
+
+
+
+[module/temperature]
+type = internal/temperature
+hwmon-path = ${env:HWMON_PATH}
+warn-temperature = 60
+base-temperature = 40
+
+ramp-0 = 
+ramp-1 = 
+ramp-2 = 
+ramp-3 = 
+ramp-4 = 
+ramp-foreground = ${colors.icon}
+ramp-font = 3
+
+label = %temperature-c%
+
+format = <ramp> <label>
+format-padding = 1
+format-margin = 1
+format-foreground = ${colors.foreground}
+format-background = ${colors.background-alt}
+format-underline = ${colors.background}
+format-overline = ${colors.background}
+
+label-warn = %temperature-c%
+label-warn-foreground = ${colors.alert}
+
+format-warn = <ramp> <label-warn>
+format-warn-padding = 1
+format-warn-margin = 1
+format-warn-foreground = ${colors.foreground}
+format-warn-background = ${colors.background-alt}
+format-warn-underline = ${colors.background}
+format-warn-overline = ${colors.background}
+
+
+
+[module/eth]
+type = internal/network
+interface = enp3s0
+interval = 3.0
+ping-interval = 3.0
+
+label-connected = %local_ip%
+label-connected-foreground = ${colors.foreground}
+
+label-packetloss = %local_ip%
+label-packetloss-foreground = ${colors.foreground}
+
+label-disconnected =
+
+format-connected = <label-connected>
+format-connected-prefix = 
+format-connected-prefix-font = 6
+format-connected-prefix-padding-right = 1
+format-connected-prefix-foreground = ${colors.icon}
+
+format-connected-padding = 1
+format-connected-margin = 1
+format-connected-underline = ${colors.background}
+format-connected-overline = ${colors.background}
+format-connected-background = ${colors.background-alt}
+
+format-packetloss-prefix = 
+format-packetloss-prefix-font = 6
+format-packetloss-prefix-padding-right = 1
+format-packetloss-prefix-foreground = ${colors.icon}
+
+format-packetloss-padding = 1
+format-packetloss-margin = 1
+format-packetloss-underline = ${colors.background}
+format-packetloss-overline = ${colors.background}
+format-packetloss-background = ${colors.background-alt}
+format-packetloss = <label-connected>
+
+
+
+[module/wlan]
+type = internal/network
+interface = wlp0s29f7u1
+interval = 1.0
+;ping-interval = 1.0
+udspeed-minwidth = 1
+
+accumulate-stats = true
+unknown-as-up = true
+
+
+;label-connected = %essid%: %local_ip%
+label-connected = " %essid%  %downspeed:9%"
+
+label-connected-foreground = ${colors.foreground}
+
+label-packetloss = %essid%: %local_ip%
+label-packetloss-foreground = ${colors.foreground}
+
+label-disconnected =
+
+format-connected-prefix = 
+format-connected-prefix-font = 6
+format-connected-prefix-padding-right = 1
+format-connected-prefix-foreground = ${colors.icon}
+
+format-connected = <label-connected>
+format-connected-padding = 1
+format-connected-margin = 1
+format-connected-underline = ${colors.background}
+format-connected-overline = ${colors.background}
+format-connected-background = ${colors.background-alt}
+
+format-packetloss-prefix = -
+format-packetloss-prefix-font = 6
+format-packetloss-prefix-padding-right = 1
+format-packetloss-prefix-foreground = ${colors.icon}
+
+format-packetloss = <label-connected>
+format-packetloss-padding = 1
+format-packetloss-margin = 1
+format-packetloss-underline = ${colors.background}
+format-packetloss-overline = ${colors.background}
+format-packetloss-background = ${colors.background-alt}
+
+
+
+[module/openvpn]
+type = custom/script
+interval = 3.0
+
+exec = systemctl list-units | grep openvpn-client | grep running | awk '{print $1};' | cut -d '@' -f2 | cut -d '.' -f1 
+exec-if = systemctl list-units | grep openvpn-client | grep running
+
+format-prefix = "  "
+format-prefix-font = 6
+format-prefix-foreground = ${colors.icon}
+
+format-padding = 1
+format-margin = 1
+format-foreground = ${colors.foreground}
+format-background = ${colors.background-alt}
+format-underline = ${colors.background}
+format-overline = ${colors.background}
+
+
+
+[module/expressvpn]
+type = custom/script
+interval = 3.0
+
+exec = cat /tmp/expressvpn-alias
+exec-if = [[ -f /tmp/expressvpn-alias ]]
+
+format-prefix = "  "
+format-prefix-font = 6
+format-prefix-foreground = ${colors.icon}
+
+format-padding = 1
+format-margin = 1
+format-foreground = ${colors.foreground}
+format-background = ${colors.background-alt}
+format-underline = ${colors.background}
+format-overline = ${colors.background}
+
+
+
+[module/battery]
+type = internal/battery
+battery = BAT0
+adapter = ADP1
+full-at = 99 
+
+ramp-capacity-0 = 
+ramp-capacity-1 = 
+ramp-capacity-2 = 
+ramp-capacity-3 = 
+ramp-capacity-4 = 
+ramp-capacity-font = 2
+format-capacity-foreground = ${colors.icon}
+
+animation-charging-0 = 
+animation-charging-1 = 
+animation-charging-2 = 
+animation-charging-3 = 
+animation-charging-4 = 
+animation-charging-font = 2
+animation-charging-foreground = ${colors.icon}
+animation-charging-framerate = 750
+
+format-full-prefix = 
+format-full-prefix-foreground = ${colors.icon}
+format-full-prefix-padding-right = 1
+format-full-prefix-padding-left = 0
+
+format-full = <label-full>
+format-full-margin = 1
+format-full-padding = 1
+format-full-underline = ${colors.background}
+format-full-overline = ${colors.background}
+format-full-background = ${colors.background-alt}
+
+format-charging = <animation-charging> <label-charging>
+format-charging-margin = 1
+format-charging-padding = 1
+format-charging-underline = ${colors.background}
+format-charging-overline = ${colors.background}
+format-charging-background = ${colors.background-alt}
+
+format-discharging = <ramp-capacity> <label-discharging>
+format-discharging-margin = 1
+format-discharging-padding = 1
+format-discharging-underline = ${colors.background}
+format-discharging-overline = ${colors.background}
+format-discharging-background = ${colors.background-alt}
+
+
+
+[module/backlight]
+type = internal/backlight
+card = ${env:BACKLIGHT_CARD}
+
+ramp-0 = 
+ramp-1 = 
+ramp-2 = 
+ramp-3 = 
+
+ramp-font = 6
+ramp-foreground = ${colors.icon}
+ramp-padding-right = 1
+
+label = %percentage%%
+
+format = <ramp><label>
+format-padding = 1
+format-margin = 1
+format-background = ${colors.background-alt}
+format-overline = ${colors.background}
+format-underline = ${colors.background}
+
+
+
+[module/pulseaudio]
+type = internal/pulseaudio
+
+use-ui-max = false
+
+
+ramp-volume-0 =
+ramp-volume-1 =墳
+ramp-volume-2 =
+
+ramp-volume-foreground = ${colors.icon}
+ramp-volume-font = 6
+ramp-volume-padding-right = 1
+
+
+label-volume = %percentage%%
+label-volume-foreground = ${colors.foreground}
+
+format-volume = <ramp-volume><label-volume>
+format-volume-padding = 0
+format-volume-margin = 0
+format-volume-background = ${colors.background-alt}
+format-volume-overline = ${colors.background}
+format-volume-underline = ${colors.background}
+
+;label-muted = %percentage%%
+label-muted = "    " 
+label-muted-foreground = #f00
+
+format-muted-prefix = 
+format-muted-prefix-padding-right = 1
+format-muted-prefix-foreground = ${colors.alert}
+
+format-muted-padding = 1
+format-muted-margin = 1
+format-muted-foreground = ${colors.alert}
+format-muted-background = ${colors.background-alt}
+format-muted-overline = ${colors.background}
+format-muted-underline = ${colors.background}
+
+
+
+[module/date]
+type = internal/date
+date = "%a %d %b"
+time = "%H:%M:%S"
+;date = "%a %m-%d-%Y"
+;time = %I:%M %p
+
+interval = 1
+
+label = %date%  %time%
+
+format-prefix =
+
+format-prefix-font = 6
+format-prefix-padding-right = 1
+format-prefix-padding-left = 0
+
+format-padding = 1
+format-margin = 1
+format-underline = ${colors.background}
+format-overline = ${colors.background}
+format-prefix-foreground = ${colors.icon}
+format-background = ${colors.background-alt}
+
+
+
+[module/restart]
+type = custom/text
+
+content = 
+content-margin = 1
+
+click-left = polybar-msg cmd restart
+
+
+
+[module/lock]
+type = custom/script
+interval = 1
+
+click-left = xautolock -locknow
+exec = ~/.scripts/lock status  
+tail = false
+
+label = %output%
+format = <label>
+format-padding = 1
+
+
+
+[module/notifications]
+type = custom/script
+interval = 1
+
+click-left = ~/.scripts/notifications/dunst/dunstctl toggle
+exec = ~/.scripts/notifications/dunst/dunstctl status  
+tail = false
+
+label = %output%
+
+format = <label>
+format-font = 6
+format-padding = 1
+
+
+
+[module/redshift]
+type = custom/script
+interval = 1
+
+exec-if = [[ -f "/tmp/.redshift-period" ]]
+exec = ~/.scripts/polybar/redshift-period   
+tail = false
+
+label = %output%
+
+format = <label>
+
+format-margin = 1
+format-background = ${colors.background}
+
+
+
+[module/powermenu]
+type = custom/text
+
+content = 
+content-foreground = ${colors.alert}
+content-margin = 1
+content-font = 6
+
+click-left = ~/.scripts/rofi/powermenu
+
+
+
+[module/pad]
+type = custom/text
+
+content = "|"
+content-background = ${colors.background}
+content-padding = 0
+
+
+; vim:ft=dosini

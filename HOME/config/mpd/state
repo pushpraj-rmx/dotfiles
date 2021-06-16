@@ -1,0 +1,418 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: play
+current: 61
+time: 120.058000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Bhakti/Aart-Jai_Santoshi_Mata.m4a
+1:Bhakti/Aarti_Hanuman_Ji.m4a
+2:Bhakti/Aarti_Laxmi_Mata.m4a
+3:Bhakti/Aarti_Saraswati_Mata.m4a
+4:Bhakti/Ambe_Tu_Hai_Jagdambe_Kali-1.m4a
+5:Bhakti/Ambe_Tu_Hai_Jagdambe_Kali-2.m4a
+6:Bhakti/Anjali_Jain,Vandana.m4a
+7:Bhakti/BARSANE_WALI_RADHE.m4a
+8:Bhakti/Bhor_Bhai_Din_Chad_Gaya_Meri_Ambe.m4a
+9:Bhakti/Duniya_Rachne_Wale_Ko.m4a
+10:Bhakti/Durga_Amritwani-Anuradha_Paudwal.m4a
+11:Bhakti/Gayatri_Mantra_108_times.m4a
+12:Bhakti/Hey_Dukh_Bhanjan_Maruti.m4a
+13:Bhakti/Hum_Katha_Sunate.m4a
+14:Bhakti/Jai_Ambe_Gauri.m4a
+15:Bhakti/Kabhi_Ram_Banke.m4a
+16:Bhakti/Kabir_Amritwani.mp3
+17:Bhakti/KARMA_YOGA_KRISHNA_&_ARJUN.m4a
+18:Bhakti/Radhe_Krishna_Ki_Jyoti.m4a
+19:Bhakti/Ram_Amritwani.m4a
+20:Bhakti/Sawali_Surat_pe__Mohan.m4a
+21:Bhakti/Shree_Krishna_Govind.mp3
+22:Bhakti/Shri_Ram_Chandra_Kripalu.m4a
+23:Bhakti/Shyam_Teri_Bansi.m4a
+24:Bhakti/Sukh_Karta_Dukh_Harta.m4a
+25:Hindi/Agar_Tum_Saath_Ho.mp3
+26:Hindi/arash-broken-angel-feat-helena-full-english-version-lyrics.mp3
+27:Hindi/Aye Dil Tu Use Bhul Ja.mp3
+28:Hindi/AYE WATAN TERE LIYE {KARMA}.mp3
+29:Hindi/aye_mere_watan_ke_logo.mp3
+30:Hindi/Balam_Pichkari.mp3
+31:Hindi/BHARAT KA RAHNEWALA HOON - INH109537210.mp3
+32:Hindi/Des Rangila.mp3
+33:Hindi/Dil_Mein_Ho_Tum_Cover_WHY_CHEAT.mp3
+34:Hindi/Duniyaa.mp3
+35:Hindi/Ghagra.mp3
+36:Hindi/har_dil_jo_pyar_karega_sad_version.mp3
+37:Hindi/Humnava_Mere_Song_Jubin_Nautiyal.mp3
+38:Hindi/Kabhi_Jo_Badal_BarseDil_De_Diya.mp3
+39:Hindi/Love Mashup 2018  DJ Vkey Mumbai.mp3
+40:Hindi/Love Mashup 2019  DJ Vkey Mumbai.mp3
+41:Hindi/Main Ishq Uska.mp3
+42:Hindi/Matargashti.mp3
+43:Hindi/mera-pyar-tera-pyar-full-song-arijit-singh-varun-rhea-jalebi.mp3
+44:Hindi/Na Ja - Official Music Video  Ayush Mishra.mp3
+45:Hindi/Oh Saaiyaan.mp3
+46:Hindi/Perfect_Full_Audio_Song_Gurinder.mp3
+47:Hindi/Tere_Liye.mp3
+48:Hindi/The Breakup Mashup 2  DJ Mans  Sunix Thakor.mp3
+49:Hindi/The Love Mashup (2020).mp3
+50:Hindi/The_Love_Mashup_TERE_BINSAKHIYAA.mp3
+51:Hindi/Valentine_Mashup_2019_Zee_Music.mp3
+52:Hindi/Valentines_Mashup_2019_KEDROCK_SD.mp3
+53:Hindi/Yeh_Dil_Deewana_Song_Cover_By_Gurnazar.mp3
+54:Hindi/Gaj Ka Daman - Renuka Panwar.mp3
+55:Hindi/Tere Bina Zindagi Se Koi Shikwa.mp3
+56:Hindi/Aashiq Mujhe Aashiq - Roop Kumar Rathod, Alka Yagnik.mp3
+57:Hindi/Ek Sanam Chahiye Aashiqui Ke Liye.mp3
+58:Hindi/Awaara Shaam hai.mp3
+59:Hindi/Humein Tumse Hua Hai Pyar Hum Kya Ka.mp3
+60:Hindi/Channa Mereya.mp3
+61:Hindi/Dua_Shanghai_Squashup_Aftermorning.mp3
+62:Hindi/Abhi Mujh Mein Kahin.mp3
+63:Hindi/Deva Shree Ganesha.mp3
+64:Hindi/Kisise Tum Pyaar Karo - Andaaz (2003) Full Video Song _HD_.mp3
+65:Hindi/Maula Mere Maula.mp3
+66:Hindi/Zaroori Tha.mp3
+67:Hindi/Guru Randhawa - Morni Banke.mp3
+68:Hindi/O Saki Saki - Batla House.mp3
+69:Hindi/Arijit Singh - Nashe Si Chadh Gayi.mp3
+70:Hindi/Bepanah Pyaar - Yasser Desai.mp3
+71:Hindi/Dhak Dhak Karne Laga - Udit Narayan.mp3
+72:Hindi/Zinda - Bharat.mp3
+73:Hindi/Gal Mitthi Mitthi - Songs.pk - 320Kbps.mp3
+74:Hindi/Vele - Songs.pk - 320Kbps.mp3
+75:Hindi/Sandese Aate Hai-Ke Ghar Kab Aaoge.mp3
+76:Hindi/Sandese Aate Hain.mp3
+77:Hindi/To Chaloon.mp3
+78:Hindi/Phir Mulaaqat - Cheat India.mp3
+79:Hindi/Dil Mein Ho Tum - Cheat India.mp3
+80:Hindi/khairiyat Pucho - Sushant Singh Rajput.mp3
+81:Hindi/Kaash Tu Mila Hota - Code Blue.mp3
+82:Hindi/Tu mile dil khile  HD - Kumar Sanu  Alka Yagnik.mp3
+83:Hindi/Dagabaaz Re.mp3
+84:Hindi/Made In India - Guru Randhawa - DJ Lemon.mp3
+85:Hindi/Bom Diggy - DJ Lemon.mp3
+86:Hindi/Hauli Hauli - De De Pyaar De.mp3
+87:Hindi/Sochenge Tumhe Pyar.mp3
+88:Hindi/Teri Umeed Tera Intezar.mp3
+89:Hindi/Best of Bollywood 2018 Mashup - DJ Shadow Dubai X DJ Ansh.mp3
+90:Hindi/Dil Ne Yeh Kaha Hain Dil Se.mp3
+91:Hindi/Tum Dil Ki Dhadkan Mein.mp3
+92:Hindi/Dil Kho Gaya - Udit Narayan, Anuradha Paudwal.mp3
+93:Hindi/Mera mulk mera desh @ Fmw11.com.mp3
+94:Hindi/Jeeta Tha Jiske Liye.mp3
+95:Hindi/Awari - Ek Villain (PagalWorld.com) 320Kbps.mp3
+96:Hindi/Banjaara - Ek Villain (PagalWorld.com) 320Kbps.mp3
+97:Hindi/Galliyan - Ek Villain (PagalWorld.com) 320Kbps.mp3
+98:Hindi/Hamdard - Ek Villain (PagalWorld.com) 320Kbps.mp3
+99:Hindi/Zaroorat - Ek Villain 320Kbps.mp3
+100:Hindi/Filhall.mp3
+101:Hindi/Kuchh To Duniya Ki Inayaat Ne Dil Tod Diya Ghazal - Begum Ak.mp3
+102:Hindi/Dil Maang Raha Hai Mohlat Tere Sath.mp3
+103:Hindi/Apna Time Aayega - Gully Boy.mp3
+104:Hindi/Asli Hip Hop - Gully Boy.mp3
+105:Hindi/Gulon Mein Rang Bhare - Haider - (2014) [SongsMp3.Com].mp3
+106:Hindi/Ek Aur Bismil - Haider - (2014) [SongsMp3.Com].mp3
+107:Hindi/So Jao - Haider - (2014) [SongsMp3.Com].mp3
+108:Hindi/Do Jahan - Haider - (2014) [SongsMp3.Com].mp3
+109:Hindi/Aaj Ke Naam - Haider - (2014) [SongsMp3.Com].mp3
+110:Hindi/Bismil (Haider) [SongsMp3.Com].mp3
+111:Hindi/Khul Kabhi (Haider)  [SongsMp3.Com].mp3
+112:Hindi/Baarish.mp3
+113:Hindi/Garry Sandhu - Hauli Hauli (From De De Pyaar De).mp3
+114:Hindi/Tere Pyar Mein Main - Jaspinder Narula, Roop Kumar Rathod.mp3
+115:Hindi/Hume Tumse Pyaar Kitna - Female.mp3
+116:Hindi/Hume Tumse Pyaar Kitna - Title Song.mp3
+117:Hindi/Mera Kuchh Samaan - Asha Bhosle.mp3
+118:Hindi/Watan Walo (IndianSoundtrack Version) - Roop Kumar Rathod.mp3
+119:Hindi/Kasam Khaake Kaho (MastiMag.com).mp3
+120:Hindi/Jab Teri Yaad Aayegi - I Shoj Kytrak.mp3
+121:Hindi/Aaoge Jab Tum.mp3
+122:Hindi/Tumse Hi.mp3
+123:Hindi/Pal-Javed-Mohsin.mp3
+124:Hindi/Hoton Se Choolo - Jagjit Singh.mp3
+125:Hindi/Hum Ne Ek Shaam - Hariharan.mp3
+126:Hindi/Vishal Mishra - Kaise Hua.mp3
+127:Hindi/Kaise Hua - Kabir Singh.mp3
+128:Hindi/Pehla Pyaar - Kabir Singh.mp3
+129:Hindi/Tera Ban Jaunga - Kabir Singh.mp3
+130:Hindi/Yeh Aaina - Kabir Singh.mp3
+131:Hindi/Pehla Pyaar.mp3
+132:Hindi/Yeh Aaina.mp3
+133:Hindi/Bekhayali - Kabir Singh.mp3
+134:Hindi/Tujhe Kitna Chahne Lage - Kabir Singh.mp3
+135:Hindi/Mere Sohneya - Kabir Singh.mp3
+136:Hindi/Manja.mp3
+137:Hindi/Meethi-Boliyaan.mp3
+138:Hindi/Shubhaarumbh.mp3
+139:Hindi/First Class - Kalank.mp3
+140:Hindi/Ghar More Pardesiya - Kalank.mp3
+141:Hindi/Zindagi Ban Gaye Ho.mp3
+142:Hindi/Teri Mitti.mp3
+143:Hindi/Sanu Kehndi - Kesari.mp3
+144:Hindi/Ve Maahi - Kesari.mp3
+145:Hindi/Long Drive - Mika Singh.mp3
+146:Hindi/Jaan Ban Gaye - Khuda Haafiz.mp3
+147:Hindi/Lamberghini.mp3
+148:Hindi/In Dino - Life In A Metro 320 Kbps.mp3
+149:Hindi/Sajna Ve.mp3
+150:Hindi/Barson Yaaron Banake Pyari - Vishal Dadlani, Roop Kumar Rath.mp3
+151:Hindi/Love Aaj Kal Mashup - DJ Kiran Kamath.mp3
+152:Hindi/Photo.mp3
+153:Hindi/Lut Gaye - Jubin Nautiyal.mp3
+154:Hindi/Palak Muchhal - Kaun Tujhe.mp3
+155:Hindi/Main Jis Din Bhulaa Du - Jubin Nautiyal.mp3
+156:Hindi/Chaaha Hai Tujhko.mp3
+157:Hindi/Thodi Jagah.mp3
+158:Hindi/Tum Hi Aana.mp3
+159:Hindi/Mein Chali Mein Chali Dekho Pyar Ki Gali.mp3
+160:Hindi/Choti Choti Raatein @ Mp3HunGama.Com.mp3
+161:Hindi/Rabba Mere Rabba - Sonu Nigam.mp3
+162:Hindi/Teri Jhuki Nazar (Film Version) - (amlijatt.in).mp3
+163:Hindi/Nazar Bharkar Dekh Loon - Suresh Wadkar.mp3
+164:Hindi/Barsaat Ke Mausam Mein - Kumar Sanu, Roop Kumar Rathod.mp3
+165:Hindi/Chitthi Aai Hai.mp3
+166:Hindi/Badshah - Proper Patola.mp3
+167:Hindi/High Rated Gabru.mp3
+168:Hindi/Guru Randhawa - High Rated Gabru.mp3
+169:Hindi/Thoda Thoda Pyaar_320(PagalWorld.com.se).mp3
+170:Hindi/Tune Jo Na Kaha (New York) - Mohit Chauhan - 320Kbps.mp3
+171:Hindi/Nikle Currant.mp3
+172:Hindi/Notebook Epilouge.mp3
+173:Hindi/O Sanam - Lucky Ali.mp3
+174:Hindi/Oh Bandeya - Ujda Chaman.mp3
+175:Hindi/Ye Tune Kya Kiya.mp3
+176:Hindi/Khud Ko Tere (1920 Evil Returns).mp3
+177:Hindi/Uska Hi Banana (1920 Evil Returns).mp3
+178:Hindi/Ik Pal - Parey Hut Love.mp3
+179:Hindi/Akhtar Channal - Afghan Jalebi (Film Version).mp3
+180:Hindi/Aapke Pyaar Mein Hum.mp3
+181:Hindi/Tujh Mein Rab Dikhta Hai.mp3
+182:Hindi/Chak De India.mp3
+183:Hindi/Pardesi Pardesi.mp3
+184:Hindi/Laal Ishq.mp3
+185:Hindi/Sach-Keh-Raha-Hai.mp3
+186:Hindi/Zara-Zara.mp3
+187:Hindi/Dilko Tumse Pyar Hua - Roop Kumar Rathod.mp3
+188:Hindi/Tum Itna Jo Muskura Rahe Ho - Live - Jagjit Singh.mp3
+189:Hindi/Rula Ke Gaya Ishq.mp3
+190:Hindi/Dhal-Jaun-Main-Jubin-Nautiyal-(DesiTrack.Com).mp3
+191:Hindi/Psycho Saiyaan - Saaho - Hindi.mp3
+192:Hindi/Sanam Teri Kasam.mp3
+193:Hindi/Haal - E - Dil (Female) - Sanam Teri Kasam (Neeti Mohan) 320Kbps.mp3
+194:Hindi/Haal - E - Dil (Male) - Sanam Teri Kasam 190Kbps.mp3
+195:Hindi/Tera Chehra - Sanam Teri Kasam (Arijit Singh) 320Kbps.mp3
+196:Hindi/Mujhe Raat Din Bas.mp3
+197:Hindi/Hosh Walon Ko Khabar Kya.mp3
+198:Hindi/Mera Rang De.mp3
+199:Hindi/Mangal Murti Ramdulare - Roop Kumar Rathod.mp3
+200:Hindi/Tere Bina (Guru).mp3
+201:Hindi/Sohnea 2 Miss Pooja  Millind Gaba .mp3
+202:Hindi/Piya.mp3
+203:Hindi/Tera Ghata - 320Kbps.mp3
+204:Hindi/Main Woh Chaand.mp3
+205:Hindi/Kabhi Yaadon Mein Aaun - (amlijatt.in).mp3
+206:Hindi/Hamari_Adhuri_Kahani_Lyrical_Robotic.mp3
+207:Hindi/NCS.mp3
+208:Hindi/Koi Fariyad - Jagjit Singh - 320Kbps (Original).mp3
+209:Hindi/Yeh Dhuan Dhuan - Roop Kumar Rathod, Shreya Ghoshal.mp3
+210:Hindi/Aankh-Hai-Bhari-Bhari-Kumar-Sanu-(pagalworldsongs.co.in).mp3
+211:Hindi/Salaam Aaya.mp3
+212:Hindi/Tere Liye.mp3
+213:Hindi/Chithi Na Koi Sandesh (From Dushman) - Jagjit Singh.mp3
+214:Hindi/Phir Bhi Dil Hai Hindustani.mp3
+215:Hindi/Buddhu-Sa-Mann_@hindigana.mp3
+216:Hindi/Dilliwaali_Girlfriend.mp3
+217:English/EMINEM/Higher_Emvidowealth.com.mp3
+218:English/EMINEM/Kamikaze.mp3
+219:English/EMINEM/Just Lose It.mp3
+220:English/EMINEM/Berzerk.mp3
+221:English/EMINEM/Love The Way You Lie (feat. Rihanna).mp3
+222:English/EMINEM/Guilty Conscience (feat. Dr. Dre).mp3
+223:English/EMINEM/Venom.mp3
+224:English/EMINEM/Walk On Water (feat. Beyoncé).mp3
+225:English/EMINEM/Forgot About Dre (feat. Dr. Dre).mp3
+226:English/EMINEM/Rap God.mp3
+227:English/EMINEM/Role Model.mp3
+228:English/EMINEM/Brain Damage.mp3
+229:English/EMINEM/Cleanin Out My Closet.mp3
+230:English/EMINEM/White America.mp3
+231:English/EMINEM/Not Afraid.mp3
+232:English/EMINEM/Untouchable.mp3
+233:English/EMINEM/Killshot.mp3
+234:English/EMINEM/Till I Collapse (feat. Nate Dogg).mp3
+235:English/EMINEM/No Love (feat. Lil Wayne).mp3
+236:English/EMINEM/Just Don't Give A Fuck.mp3
+237:English/EMINEM/Mockingbird.mp3
+238:English/EMINEM/Sing For The Moment.mp3
+239:English/EMINEM/The Monster (feat. Rihanna).mp3
+240:English/EMINEM/Love you more.mp3
+241:English/EMINEM/Darkness.mp3
+242:English/EMINEM/Lose Yourself.mp3
+243:English/EMINEM/My Name Is.mp3
+244:English/EMINEM/Without Me.mp3
+245:English/EMINEM/In Too Deep.mp3
+246:English/EMINEM/Berzerk-1.mp3
+247:English/EMINEM/Homicide.mp3
+248:English/EMINEM/Fast Lane.mp3
+249:English/EMINEM/8 Mile (Soundtrack Version).mp3
+250:English/EMINEM/Renegade.mp3
+251:English/EMINEM/Hailie's Song.mp3
+252:English/EMINEM/The Ringer.mp3
+253:English/EMINEM/Greatest.mp3
+254:English/EMINEM/Lucky You (feat. Joyner Lucas).mp3
+255:English/EMINEM/Paul (Skit).mp3
+256:English/EMINEM/Normal.mp3
+257:English/EMINEM/Em Calls Paul (Skit).mp3
+258:English/EMINEM/Stepping Stone.mp3
+259:English/EMINEM/Not Alike (feat. Royce da 5'9_).mp3
+260:English/EMINEM/Fall.mp3
+261:English/EMINEM/Nice Guy (feat. Jessie Reyez).mp3
+262:English/EMINEM/Good Guy (feat. Jessie Reyez).mp3
+263:English/EMINEM/Godzilla (feat. Juice WRLD).mp3
+264:English/EMINEM/Yah Yah (feat. Royce Da 5'9', Black Thought, Q-Tip, and dEnAuN).mp3
+265:English/EMINEM/Stepdad (Intro).mp3
+266:English/EMINEM/Stepdad.mp3
+267:English/EMINEM/Marsh.mp3
+268:English/EMINEM/Never Love Again.mp3
+269:English/EMINEM/River (feat. Ed Sheeran).mp3
+270:English/EMINEM/Stan.flac
+271:English/EMINEM/The Way I Am.flac
+272:English/EMINEM/The Real Slim Shady.flac
+273:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/25. Cyndi Lauper - The Goonies 'r' Good Enough (From "The Goonies" Soundtrack).mp3
+274:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/38. Ben E. King - Stand By Me.mp3
+275:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/77. Elvis Presley - Jailhouse Rock.mp3
+276:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/99. Kavinsky - Nightcall.mp3
+277:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/01. Huey Lewis And The News - The Power Of Love.mp3
+278:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/02. Kenny Loggins - Footloose (From "Footloose").mp3
+279:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/03. John Travolta, Olivia Newton-John - You're The One That I Want (From “Grease”).mp3
+280:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/04. Simon & Garfunkel - Mrs. Robinson (Single Mix).mp3
+281:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/05. Bee Gees - Stayin' Alive (From "Saturday Night Fever" Soundtrack).mp3
+282:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/06. Bill Medley, Jennifer Warnes - (I've Had) The Time of My Life.mp3
+283:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/07. Whitney Houston - I Will Always Love You.mp3
+284:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/08. Ryan Gosling, Emma Stone - City Of Stars (From "La La Land" Soundtrack).mp3
+285:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/09. Idina Menzel - Let It Go (From "Frozen"-Soundtrack Version).mp3
+286:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/10. Elton John - Circle of Life.mp3
+287:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/11. Keala Settle, The Greatest Showman Ensemble - This Is Me.mp3
+288:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/12. Dolly Parton - 9 to 5.mp3
+289:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/13. Paul McCartney & Wings - Live And Let Die.mp3
+290:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/14. Steppenwolf - Born To Be Wild (Single Version).mp3
+291:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/15. Survivor - Eye of the Tiger.mp3
+292:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/16. Irene Cara - Fame.mp3
+293:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/17. Billy Ocean - When the Going Gets Tough, The Tough Get Going.mp3
+294:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/18. Bryan Adams - (Everything I Do) I Do It For You.mp3
+295:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/19. James Horner, Céline Dion - My Heart Will Go On (Love Theme from "Titanic").mp3
+296:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/20. Destiny's Child - Independent Women, Pt. I (#1's Edit).mp3
+297:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/22. The Weeknd, Kendrick Lamar - Pray For Me.mp3
+298:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/23. Harold Faltermeyer - Axel F (From "Beverly Hills Cop" Soundtrack).mp3
+299:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/24. Ray Parker Jr. - Ghostbusters.mp3
+300:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/26. Berlin - Take My Breath Away.mp3
+301:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/27. The Righteous Brothers - Unchained Melody.mp3
+302:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/28. Dusty Springfield - Son Of A Preacher Man.mp3
+303:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/29. Carly Simon - Nobody Does It Better.mp3
+304:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/30. R. Kelly - I Believe I Can Fly.mp3
+305:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/31. Adele - Skyfall.mp3
+306:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/32. Bjork and David Arnold - Play Dead.mp3
+307:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/33. Bruce Springsteen - Streets of Philadelphia (Single Edit).mp3
+308:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/34. Coolio, L.V. - Gangsta's Paradise (feat. L.V.).mp3
+309:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/35. Public Enemy - Fight The Power.mp3
+310:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/36. Isaac Hayes - Theme From "Shaft".mp3
+311:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/37. Bobby Womack - Across 110th Street.mp3
+312:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/39. Harry Nilsson - Everybody's Talkin'.mp3
+313:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/40. Stealers Wheel - Stuck In The Middle With You.mp3
+314:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/41. Iggy Pop - Lust For Life.mp3
+315:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/42. Bonnie Tyler - Holding Out For A Hero.mp3
+316:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/43. Duran Duran - A View to a Kill.mp3
+317:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/44. Simple Minds - Don't You (Forget About Me).mp3
+318:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/45. Starship - Nothing's Gonna Stop Us Now.mp3
+319:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/46. Aerosmith - I Don't Want to Miss a Thing (From "Armageddon" Soundtrack).mp3
+320:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/47. Christina Perri - A Thousand Years.mp3
+321:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/48. Randy Newman - You've Got a Friend in Me.mp3
+322:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/49. Louis Prima, Phil Harris, Bruce Reitherman - I Wan'na Be Like You (The Monkey Song).mp3
+323:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/50. Roy Orbison - Oh, Pretty Woman.mp3
+324:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/51. Dick Dale & the Del-Tones - Misirlou.mp3
+325:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/52. The Beatles - Help! (Remastered 2009).mp3
+326:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/53. Burt Bacharach, The Duo - Raindrops Keep Fallin' On My Head.mp3
+327:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/54. Barbra Streisand - The Way We Were.mp3
+328:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/55. Bette Midler - Wind Beneath My Wings.mp3
+329:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/56. Jon Bon Jovi - Blaze Of Glory (From "Young Guns II" Soundtrack).mp3
+330:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/57. Joe Cocker - You Can Leave Your Hat On.mp3
+331:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/58. Christina Aguilera, Lil' Kim, Mýa, P!nk - Lady Marmalade (From "Moulin Rouge" Soundtrack).mp3
+332:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/59. Pharrell Williams - Happy.mp3
+333:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/60. Tegan and Sara, The Lonely Island - Everything Is AWESOME!!! (feat. The Lonely Island).mp3
+334:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/61. Underworld - Born Slippy (Nuxx).mp3
+335:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/62. The Cardigans - Lovefool.mp3
+336:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/63. Tears for Fears - Everybody Wants To Rule The World.mp3
+337:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/64. Tina Turner - We Don't Need Another Hero (Thunderdome).mp3
+338:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/65. Roxette - It Must Have Been Love (From.mp3
+339:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/66. Madonna - Don't Cry for Me Argentina.mp3
+340:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/67. Gary Jules - Mad World.mp3
+341:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/68. Ellie Goulding - Love Me Like You Do (From "Fifty Shades Of Grey").mp3
+342:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/69. Guns N' Roses - You Could Be Mine.mp3
+343:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/70. Kenny Loggins - Danger Zone (From "Top Gun" Original Soundtrack).mp3
+344:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/71. Donna Summer - Hot Stuff (Single Version).mp3
+345:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/72. Common & John Legend - Glory (From the Motion Picture Selma).mp3
+346:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/73. David Bowie - Magic Dance (7" Version).mp3
+347:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/74. UB40 - (I Can't Help) Falling In Love With You.mp3
+348:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/75. Philip Oakey, Giorgio Moroder - Together In Electric Dreams (Remastered - From "Electric Dreams" Original Motion Picture Soundtrack).mp3
+349:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/76. George Baker Selection - Little Green Bag (Single Edit).mp3
+350:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/78. Little Richard - Long Tall Sally.mp3
+351:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/79. The 5.6.7.8's - Woo Hoo.mp3
+352:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/80. Los Lobos - La Bamba.mp3
+353:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/81. The Beach Boys - Kokomo.mp3
+354:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/98. Glenn Frey - The Heat Is On (From "Beverly Hills Cop" Soundtrack).mp3
+355:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/100. Pixies - Where Is My Mind?.mp3
+356:English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/21. Eminem - Lose Yourself (Soundtrack Version).mp3
+357:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/01. Luis Fonsi - Despacito.mp3
+358:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/18. DNCE - Cake By The Ocean.mp3
+359:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/02. Maroon 5 - Sugar.mp3
+360:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/03. Shawn Mendes - There's Nothing Holdin' Me Back.mp3
+361:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/04. Justin Bieber - What Do You Mean_.mp3
+362:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/05. Psy - Gangnam Style (강남스타일).mp3
+363:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/06. Avicii - Wake Me Up (Radio Edit).mp3
+364:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/07. Lady Gaga - Born This Way.mp3
+365:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/08. Imagine Dragons - On Top Of The World.mp3
+366:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/09. Mike Posner - I Took A Pill In Ibiza (Seeb Remix).mp3
+367:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/10. Robin Thicke - Blurred Lines (Physical Version) (feat. T.I. & Pharrell Williams).mp3
+368:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/11. Taio Cruz - Break Your Heart.mp3
+369:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/12. Mabel - Don't Call Me Up.mp3
+370:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/13. Jennifer Lopez - On The Floor (Radio Edit) (feat. Pitbull).mp3
+371:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/14. will.i.am - Scream & Shout (feat. Britney Spears).mp3
+372:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/15. LMFAO - Sexy And I Know It.mp3
+373:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/16. Black Eyed Peas - The Time (Dirty Bit).mp3
+374:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/17. DJ Snake - Let Me Love You (feat. Justin Bieber).mp3
+375:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/19. Lorde - Royals.mp3
+376:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/20. OneRepublic - Counting Stars.mp3
+377:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/21. John Newman - Love Me Again.mp3
+378:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/22. Jonas Brothers - Sucker.mp3
+379:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/23. Ellie Goulding - Burn.mp3
+380:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/24. Jessie J - Price Tag (feat. B.o.B).mp3
+381:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/25. Justin Bieber - Sorry.mp3
+382:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/26. Maroon 5 - Girls Like You (feat. Cardi B).mp3
+383:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/27. Stromae - Papaoutai.mp3
+384:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/28. Felix Jaehn - Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson).mp3
+385:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/29. Kiesza - Hideaway.mp3
+386:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/30. Kungs - This Girl (Kungs Vs. Cookin' On 3 Burners).mp3
+387:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/31. Swedish House Mafia - One (Your Name) (Radio Edit) (feat. Pharrell Williams).mp3
+388:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/32. Emeli Sandé - Next To Me.mp3
+389:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/33. Hooverphonic - Romantic.mp3
+390:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/34. Marshmello - Happier.mp3
+391:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/35. Years & Years - Breathe.mp3
+392:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/36. Bastille - Pompeii.mp3
+393:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/37. Jax Jones - You Don't Know Me (Radio Edit).mp3
+394:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/38. Capital Cities - Safe And Sound.mp3
+395:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/39. Angèle - Balance ton quoi.mp3
+396:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/40. Iggy Azalea - Black Widow (feat. RITA ORA).mp3
+397:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/41. Far East Movement - Like A G6 (feat. The Cataracs & Dev).mp3
+398:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/42. Psy - Gentleman.mp3
+399:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/43. Anna Kendrick - Cups (Pitch Perfect’s “When I’m Gone”) (Pop Version).mp3
+400:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/44. Ellie Goulding - Lights (Single Version).mp3
+401:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/45. Major Lazer - Lean On (feat. DJ Snake & MØ).mp3
+402:English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/46. Tourist LeMC - Horizon (feat. Wally).mp3
+playlist_end

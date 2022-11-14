@@ -20,7 +20,7 @@
 *.color7:  #a89984
 *.color15: #ebdbb2
 !--------------------------------------------------------------------
-!! URXVT 
+!! URXVT
 !--------------------------------------------------------------------
 URxvt.background: [75]#282828
 URxvt.cursorColor:  #fce8c3
@@ -31,7 +31,7 @@ URxvt.scrollBar:    false
 URxvt.saveLines:    65535
 URxvt.cursorBlink:  true
 URxvt.jumpScroll:   true
-URxvt.font: xft:FantasqueSansMono  NerdFontMono:pixelsize=13:antialias=true:hinting=true:autohint=true
+URxvt.font: xft:FantasqueSansMono  NerdFontMono:pixelsize=14:antialias=true:hinting=true:autohint=true
 URxvt.termName: rxvt-unicode-256color
 
 !--------------------------------------
@@ -40,8 +40,8 @@ URxvt.termName: rxvt-unicode-256color
 !dwm.normbgcolor:	#e5d4a0
 !dwm.normbordercolor:	#454418
 !dwm.normfgcolor:	#454418
-!dwm.selfgcolor:		#050400 
-!dwm.selbordercolor:	#f59419 
+!dwm.selfgcolor:		#050400
+!dwm.selbordercolor:	#f59419
 !dwm.selbgcolor:		#f59419
 !-------------------------------------
 !! POLYBAR
@@ -53,7 +53,7 @@ URxvt.termName: rxvt-unicode-256color
 
 polybar.background :  #75000000
 polybar.background-alt :#75000000
- 
+
 polybar.foreground : #ffffff
 polybar.foreground-alt:#0000ff
 
@@ -62,10 +62,10 @@ polybar.secondary:#00ff00
 polybar.tertiary:#0000ff
 polybar.quaternary:#ffff00
 polybar.quinary:00ffff
- 
+
 polybar.icon:#ffffff
 polybar.alert:#ffffff
- 
+
 polybar.tag-focused-background:dd000000
 polybar.tag-unfocused-background:#00ff00
 polybar.tag-visible-background:#88000000

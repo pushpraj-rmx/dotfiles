@@ -31,7 +31,7 @@ margin-bottom = 5
 
 
 [colors]
-background = ${xrdb:polybar.background} 
+background = ${xrdb:polybar.background}
 background-alt = ${xrdb:polybar.background-alt}
 
 foreground = ${xrdb:polybar.foreground}
@@ -84,27 +84,14 @@ font-5 = FantasqueSansMono NerdFont:size=10;2
 font-6 = FantasqueSansMono NerdFont:size=10;2
 
 
-;font-0 = Iosevka NerdFont:size=10;2
-;font-1 = Iosevka NerdFont:size=10;2
-;font-2 = Iosevka NerdFont:size=10;2
-;font-3 = Iosevka NerdFont:size=10;2
-;font-4 = Iosevka NerdFont:size=10;2
-;font-5 = Iosevka NerdFont:size=10;2
-;font-6 = Iosevka NerdFont:size=10;2
 
-
-
-
-
-
-
-modules-left = dwm 
+modules-left = dwm
 ;modules-right = termdown updates spotify previous playpause next pad weather-icon weather-temp pad memory pad cpu cpu-speed pad temperature wlan eth expressvpn openvpn battery backlight pulseaudio date restart lock notifications redshift powermenu
 
-modules-center = mpd 
+modules-center = mpd
 
 ;modules-right = memory cpu wlan pulseaudio date restart powermenu
-modules-right = wlan pulseaudio date restart
+modules-right = wlan pulseaudio date backlight battery  restart
 tray-position = right
 tray-detached = false
 ;tray-offset-x = -5
@@ -114,6 +101,65 @@ override-redirect = false
 
 cursor-click = pointer
 cursor-scroll = ns-resize
+
+
+
+
+
+
+[bar/second]
+monitor = ${env:MONITOR:}
+monitor-fallback = eDP1
+monitor-strict = false
+width = 99.4%
+height = 24
+offset-x = 0.3%
+offset-y = 95.5%
+radius = 0
+fixed-center = true
+
+enable-ipc = true
+background = ${colors.background}
+foreground = ${colors.foreground}
+
+line-size = 0
+line-color = ${colors.icon}
+
+padding-right = 0
+
+font-0 = FantasqueSansMono NerdFont:size=10;2
+font-1 = FantasqueSansMono NerdFont:size=10;2
+font-2 = FantasqueSansMono NerdFont:size=10;2
+font-3 = FantasqueSansMono NerdFont:size=10;2
+font-4 = FantasqueSansMono NerdFont:size=10;2
+font-5 = FantasqueSansMono NerdFont:size=10;2
+font-6 = FantasqueSansMono NerdFont:size=10;2
+
+
+
+modules-left = dwm
+;modules-right = termdown updates spotify previous playpause next pad weather-icon weather-temp pad memory pad cpu cpu-speed pad temperature wlan eth expressvpn openvpn battery backlight pulseaudio date restart lock notifications redshift powermenu
+
+modules-center = mpd
+
+;modules-right = memory cpu wlan pulseaudio date restart powermenu
+modules-right = wlan pulseaudio date backlight battery  restart
+tray-position = right
+tray-detached = false
+;tray-offset-x = -5
+tray-padding = 0
+
+override-redirect = false
+
+cursor-click = pointer
+cursor-scroll = ns-resize
+
+
+
+
+
+
+
 
 
 
@@ -192,15 +238,15 @@ label-empty =
 type = internal/mpd
 
 ;format-online = <label-song>  <icon-prev> <icon-stop> <toggle> <icon-next>
-format-online = <label-song>  <icon-prev> <icon-stop> <toggle> <icon-next>
+format-online = <label-song>  <icon-prev> <toggle> <icon-next>
 
-icon-prev = 玲 
-icon-stop = 栗 
-icon-play = 
-icon-pause = 
+icon-prev = 玲
+icon-stop = 栗
+icon-play = " "
+icon-pause = " "
 icon-next = 怜
 
-label-song = ﱘ  %title%
+label-song =  %title%
 label-song-maxlen = 30
 ;label-offline = 🎜 mpd is offline
 label-song-ellipsis = true
@@ -357,38 +403,6 @@ format-underline = ${colors.background}
 format-overline = ${colors.background}
 
 
-
-;[module/filesystem]
-;type = internal/fs
-;interval = 25
-;mount-0 = /home
-
-;label-mounted = "%percentage_used%%"
-;label-mounted-foreground = ${colors.foreground}
-
-;label-unmounted = %mountpoint% not mounted
-;label-unmounted-foreground = ${colors.icon}
-
-;format-unmounted-padding = 1
-;format-unmounted-margin = 1
-;format-unmounted-background= ${colors.background-alt}
-;format-unmounted-overline = ${colors.background}
-;format-unmounted-underline = ${colors.background}
-;format-unmounted-foreground = ${colors.foreground}
-
-;format-mounted-prefix = 
-;format-mounted-prefix-foreground = ${colors.icon}
-;format-mounted-prefix-padding-right = 1
-
-;;format-mounted-padding = 1
-;format-mounted-margin = 1
-;format-mounted-background= ${colors.background-alt}
-;format-mounted-overline = ${colors.background}
-;format-mounted-underline = ${colors.background}
-;format-mounted-foreground = ${colors.foreground}
-
-
-
 [module/memory]
 type = internal/memory
 interval = 2
@@ -525,7 +539,7 @@ format-packetloss = <label-connected>
 
 [module/wlan]
 type = internal/network
-interface = wlp0s29f7u1
+interface = wlp1s0
 interval = 1.0
 ;ping-interval = 1.0
 udspeed-minwidth = 1
@@ -574,7 +588,7 @@ format-packetloss-background = ${colors.background-alt}
 type = custom/script
 interval = 3.0
 
-exec = systemctl list-units | grep openvpn-client | grep running | awk '{print $1};' | cut -d '@' -f2 | cut -d '.' -f1 
+exec = systemctl list-units | grep openvpn-client | grep running | awk '{print $1};' | cut -d '@' -f2 | cut -d '.' -f1
 exec-if = systemctl list-units | grep openvpn-client | grep running
 
 format-prefix = "  "
@@ -614,24 +628,24 @@ format-overline = ${colors.background}
 type = internal/battery
 battery = BAT0
 adapter = ADP1
-full-at = 99 
+full-at = 99
 
-ramp-capacity-0 = 
-ramp-capacity-1 = 
-ramp-capacity-2 = 
-ramp-capacity-3 = 
-ramp-capacity-4 = 
+ramp-capacity-0 = " "
+ramp-capacity-1 = " "
+ramp-capacity-2 = " "
+ramp-capacity-3 = " "
+ramp-capacity-4 = " "
 ramp-capacity-font = 2
 format-capacity-foreground = ${colors.icon}
 
-animation-charging-0 = 
-animation-charging-1 = 
-animation-charging-2 = 
-animation-charging-3 = 
-animation-charging-4 = 
+animation-charging-0 = " "
+animation-charging-1 = " "
+animation-charging-2 = " "
+animation-charging-3 = " "
+animation-charging-4 = " "
 animation-charging-font = 2
 animation-charging-foreground = ${colors.icon}
-animation-charging-framerate = 750
+animation-charging-framerate = 200
 
 format-full-prefix = 
 format-full-prefix-foreground = ${colors.icon}
@@ -663,12 +677,12 @@ format-discharging-background = ${colors.background-alt}
 
 [module/backlight]
 type = internal/backlight
-card = ${env:BACKLIGHT_CARD}
-
-ramp-0 = 
-ramp-1 = 
-ramp-2 = 
-ramp-3 = 
+# card = ${env:BACKLIGHT_CARD}
+card = amdgpu_bl0
+ramp-0 = 
+ramp-1 = 
+ramp-2 = 
+ramp-3 = 
 
 ramp-font = 6
 ramp-foreground = ${colors.icon}
@@ -683,12 +697,12 @@ format-background = ${colors.background-alt}
 format-overline = ${colors.background}
 format-underline = ${colors.background}
 
-
+enable-scroll = true
 
 [module/pulseaudio]
 type = internal/pulseaudio
 
-use-ui-max = false
+use-ui-max = true
 
 
 ramp-volume-0 =
@@ -711,7 +725,7 @@ format-volume-overline = ${colors.background}
 format-volume-underline = ${colors.background}
 
 ;label-muted = %percentage%%
-label-muted = "    " 
+label-muted = "    "
 label-muted-foreground = #f00
 
 format-muted-prefix = 

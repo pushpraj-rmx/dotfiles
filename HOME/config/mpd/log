@@ -17540,3 +17540,1654 @@ Jun 16 10:48 : player: played "Hindi/Ek Sanam Chahiye Aashiqui Ke Liye.mp3"
 Jun 16 10:53 : player: played "Hindi/Awaara Shaam hai.mp3"
 Jun 16 10:59 : player: played "Hindi/Humein Tumse Hua Hai Pyar Hum Kya Ka.mp3"
 Jun 16 11:04 : player: played "Hindi/Channa Mereya.mp3"
+Sep 22 12:36 : exception: Failed to access /storage/Music: No such file or directory
+Sep 22 12:36 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 22 12:36 : config: option 'device' on line 15 was not recognized
+Sep 22 12:36 : exception: Failed to open /home/akshay/.config/mpd/playlists: No such file or directory
+Sep 22 12:39 : exception: Failed to open /home/akshay/.config/mpd/playlists: No such file or directory
+Sep 22 12:40 : config: option 'device' on line 15 was not recognized
+Sep 22 12:40 : exception: Failed to open /home/akshay/.config/mpd/playlists: No such file or directory
+Sep 22 12:50 : update: added /Tum Itna Jo Muskura Rahe Ho - Live - Jagjit Singh.mp3
+Sep 22 12:50 : update: added /Aaj Jaane Ki Zid - Naamkrann (Arijit Singh).mp3
+Sep 22 12:50 : update: added /Dil Ne Yeh Kaha Hain Dil Se.mp3
+Sep 22 12:50 : update: added /01 Soch Na Sake - Version 1 Airlift (Arijit Singh) 320Kbps.mp3
+Sep 22 12:50 : update: added /Kajra_Kajra_Kajraare_Full_HD_Video_Song___Mona_Laizza,_Himesh_Reshammiya.mp3
+Sep 22 12:50 : update: added /Khud Ko Tere (1920 Evil Returns).mp3
+Sep 22 12:50 : update: added /Iktara_Wake_Up_Sid.mp3
+Sep 22 12:50 : update: added /Main Woh Chaand.mp3
+Sep 22 12:50 : update: added /Tumse_Bhi_Zyada__Slowed___Reverb____Arijit_Singh.mp3
+Sep 22 12:50 : update: added /05 Teri Khushboo (Male Version) Mr. X (Arijit Singh) 190Kbps.mp3
+Sep 22 12:50 : update: added /Zindagi Do Pal Ki - Kites 320 Kbps.mp3
+Sep 22 12:50 : update: added /40_min_of_Indian_LoFi_to_relax_sleep.mp3
+Sep 22 12:50 : update: added /05-Dhal-Jaun-Main-Jubin-Nautiyal-(DesiTrack.Com).mp3
+Sep 22 12:50 : update: added /Hamne_Tumko_Dil_Ye_De_Diya_Full_Video___Gunaah_Dino__Bipasha_Alka_Yagnik_Babul_Supriyo.mp3
+Sep 22 12:50 : update: added /Passenger+Let+Her+Go+Official+Video.mp3
+Sep 22 12:50 : update: added /Baat Niklegi - Chausar.mp3
+Sep 22 12:50 : update: added /The_Love_Mashup.mp3
+Sep 22 12:50 : update: added /01 Sanu Kehndi - Kesari.mp3
+Sep 22 12:50 : update: added /Awaara 7 Khoon Maaf 320 Kbps.mp3
+Sep 22 12:50 : update: added /03 - Khul Kabhi (Haider)  [SongsMp3.Com].mp3
+Sep 22 12:50 : update: added /Teri Ore Singh Is Kinng 320 Kbps.mp3
+Sep 22 12:50 : update: added /O Sanam - Lucky Ali.mp3
+Sep 22 12:50 : update: added /02 Saware (Phantom) Arijit Singh 190Kbps.mp3
+Sep 22 12:50 : update: added /01 - Kal Ho Na Ho-(MyMp3Singer.com).mp3
+Sep 22 12:50 : update: added /Ashq-Na-Ho-Holiday_Bestwap.mp3
+Sep 22 12:50 : update: added /01 Jeene Laga Hoon (Ramaiya Vastavaiya) Atif.mp3
+Sep 22 12:50 : update: added /Jab Teri Yaad Aayegi - I Shoj Kytrak.mp3
+Sep 22 12:50 : update: added /The Killer - O Sanam.mp3
+Sep 22 12:50 : update: added /05 - Abhi Mujh Mein Kahin.mp3
+Sep 22 12:50 : update: added /Mere_Bina_Full_Video_Crook_Emraan_Hashmi_Neha_Sharma_Nikhil_D_Souza.mp3
+Sep 22 12:50 : update: added /Chori Kiya Re Jiya Male Dabangg 320 Kbps.mp3
+Sep 22 12:50 : update: added /02 Sun Saathiya (ABCD 2) Divya Kumar 190kbps.mp3
+Sep 22 12:50 : update: added /Kyon_Papon_Harrlin_Flip.mp3
+Sep 22 12:50 : update: added /Thodi Jagah.mp3
+Sep 22 12:50 : update: added /Mitwa_LoFi_Lyrics_Yash_Kshirsagar___Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /Aankh-Hai-Bhari-Bhari-Kumar-Sanu-(pagalworldsongs.co.in).mp3
+Sep 22 12:50 : update: added /Bol Na Halke Halke Jhoom Barabar Jhoom 320 Kbps.mp3
+Sep 22 12:50 : update: added /Chitthi Aai Hai.mp3
+Sep 22 12:50 : update: added /Ilahi__LoFi___Lyrics____S_L_E_E_P_flip___Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /06 - Afreen Afreen - S09E02.mp3
+Sep 22 12:50 : update: added /02-20Jeena-20Jeena-20-Badlapur.mp3
+Sep 22 12:50 : update: added /Valentines_Mashup_2019_KEDROCK_SD.mp3
+Sep 22 12:50 : update: added /Baarish_Reverb_Iss_darde_dil_ki_sifarish.mp3
+Sep 22 12:50 : update: added /Vaada Raha Vaada Raha... I Promise 320 Kbps.mp3
+Sep 22 12:50 : update: added /Kuchh To Duniya Ki Inayaat Ne Dil Tod Diya Ghazal - Begum Ak.mp3
+Sep 22 12:50 : update: added /Lut Jaaon Lut Jaaon Karzzzz 320 Kbps.mp3
+Sep 22 12:50 : update: added /India Se Aaya Tera Dost Chandni Chowk To China 320 Kbps.mp3
+Sep 22 12:50 : update: added /Kasam Khaake Kaho (MastiMag.com).mp3
+Sep 22 12:50 : update: added /Kabira_Slowed_Down_Reverbed_asthethic_songs_Lofi_night.mp3
+Sep 22 12:50 : update: added /Ishq_Sufiyana_Slowed.mp3
+Sep 22 12:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 22 12:50 : update: added /Baat-Niklegi-To-Jagjit-Singh.m4a
+Sep 22 12:50 : update: added /10. Tere Bina (Guru).mp3
+Sep 22 12:50 : update: added /04 - Tanha Jeeya Na Jaye-(MyMp3Singer.com).mp3
+Sep 22 12:50 : update: added /Matargashti.mp3
+Sep 22 12:50 : update: added /06 Tum Todo Na - Female-PagalWorld.Com--320Kbps.mp3
+Sep 22 12:50 : update: added /Chor Bazari Love Aaj Kal 320 Kbps.mp3
+Sep 22 12:50 : update: added /01 - Youngistaan - Suno Na Sangemarmar(DJGoogle.in)(DjGol.co.mp3
+Sep 22 12:50 : update: added /01 - Raanjhanaa - DownloadMing.SE.mp3
+Sep 22 12:50 : update: added /Tere_Bina__Lofi_Lyrics_A_R_Rahman_Harrlin_Flip_Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /Namaste London - Yahi Hota Pyar.mp3
+Sep 22 12:50 : update: added /Dil Ne Yeh Kaha Hain Dil Se - Dhadkan 320 Kbps.mp3
+Sep 22 12:50 : update: added /Lovers Quest (Romantic Medley 5) - Sarmad Qadeer n Harshdeep Kaur_320(MyMp3Song).mp3
+Sep 22 12:50 : update: added /01 Sawan Aaya Hai - Creature 3D (PagalWorld.com) -320Kbps.mp3
+Sep 22 12:50 : update: added /Aadat_Slowed_Reverb_Atif_Aslam_Juda_Hoke_Bhi_Night_Songs.mp3
+Sep 22 12:50 : update: added /05. Chupke Chupke Raat Din.mp3
+Sep 22 12:50 : update: added /Tere Bina Guru 320 Kbps.mp3
+Sep 22 12:50 : update: added /O Bekhabar O Bekadar - Action Replayy 320 Kbps.mp3
+Sep 22 12:50 : update: added /Dilliwaali_Girlfriend.mp3
+Sep 22 12:50 : update: added /Tu_Hi_Haqeeqat_Pritam_Javed_Ali_Shadab.mp3
+Sep 22 12:50 : update: added /Dil Dance Maare Tashan 320 Kbps.mp3
+Sep 22 12:50 : update: added /Barso Re Guru 320 Kbps.mp3
+Sep 22 12:50 : update: added /02 Banjaara - Ek Villain ( PagalWorld.com ).mp3
+Sep 22 12:50 : update: added /khairiyat Pucho - Sushant Singh Rajput.mp3
+Sep 22 12:50 : update: added /Gangster 2006 - Tu Hi Meri Shab Hai.mp3
+Sep 22 12:50 : update: added /Sawan_Aaya_Hai_FULL_VIDEO_Song__Arijit_Singh__Bipasha_Basu__Imran_Abbas_Naqvi(256k).mp3
+Sep 22 12:50 : update: added /06. Aaoge Jab Tum.mp3
+Sep 22 12:50 : update: added /Mora Piya - Raajneeti 320 Kbps.mp3
+Sep 22 12:50 : update: added /EDKL - Solah Baras Ki Bali.mp3
+Sep 22 12:50 : update: added /BB-Bhool Bhulaiyaa.mp3
+Sep 22 12:50 : update: added /Radha_Hi_BawariLo_fi_Prod_byVedang_Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /aye_mere_watan_ke_logo.mp3
+Sep 22 12:50 : update: added /Des Rangila.mp3
+Sep 22 12:50 : update: added /Suraj_Hua_Maddham_Full_Video_-_K3GShah_Rukh_Khan,_Kajol_Sonu_Nigam,_Alka_Yagnik(256k).mp3
+Sep 22 12:50 : update: added /Saans_-_Full_Song__Jab_Tak_Hai_Jaan__Shah_Rukh_Khan__Katrina_Kaif__Shreya_Ghoshal__A._R._Rahman(256k).mp3
+Sep 22 12:50 : update: added /Dil Kyun Yeh Mera - Kites 320 Kbps.mp3
+Sep 22 12:50 : update: added /Ghagra.mp3
+Sep 22 12:50 : update: added /Aap Mujhe Achche Lagne Lage - Aap Mujhe Achche Lagne Lage 320 Kbps.mp3
+Sep 22 12:50 : update: added /Nikle Currant.mp3
+Sep 22 12:50 : update: added /Surili Akiyon Wale - Veer 320 Kbps.mp3
+Sep 22 12:50 : update: added /Ilahi_LoFi.mp3
+Sep 22 12:50 : update: added /The_Love_Mashup__TERE_BIN_SAKHIYAAN_DARIYAA_ZAALIMA_QAAFIRANA_TERI_ORE_____SAURABH_KALSI.mp3
+Sep 22 12:50 : update: added /Jag Soona Soona Lage Om Shanti Om 320 Kbps.mp3
+Sep 22 12:50 : update: added /Tujh Mein Rab Dikhta Hai.mp3
+Sep 22 12:50 : update: added /1_Hour_Of_Night_Hindi_Lofi_Songs_To_Study.mp3
+Sep 22 12:50 : update: added /Barson Yaaron Banake Pyari - Vishal Dadlani, Roop Kumar Rath.mp3
+Sep 22 12:50 : update: added /Thoda Thoda Pyaar_320(PagalWorld.com.se).mp3
+Sep 22 12:50 : update: added /Yeh Dil Ye Pagal Dil Mera (Awargi) _ Shaam-E-Ghazal _ Ghulam Ali _ Mohsin Naqvi _ Romantic Ghazal.mp3
+Sep 22 12:50 : update: added /Teri Umeed Tera Intezar.mp3
+Sep 22 12:50 : update: added /Sanam Teri Kasam.mp3
+Sep 22 12:50 : update: added /Dil_Ibaadat_Slowed_KK.mp3
+Sep 22 12:50 : update: added /Laung Laachi - Mannat Noor.mp3
+Sep 22 12:50 : update: added /Laal Ishq@djmaza.mp3
+Sep 22 12:50 : update: added /Gangster 2006 - Ya Ali.mp3
+Sep 22 12:50 : update: added /07 Yeh Aaina - Kabir Singh.mp3
+Sep 22 12:50 : update: added /Ye Jo Halka Halka Saroor Hai - Ustad Nusrat Fateh Ali Khan - OSA Official HD Video.mp3
+Sep 22 12:50 : update: added /Khamoshiyan Jeet Gannguli 320 Kbps.mp3
+Sep 22 12:50 : update: added /Dhadak 2018 - Dhadak Title Song.mp3
+Sep 22 12:50 : update: added /Balam_Pichkari.mp3
+Sep 22 12:50 : update: added /Dagabaaz Re.mp3
+Sep 22 12:50 : update: added /52 Gaj Ka Daman - Renuka Panwar.mp3
+Sep 22 12:50 : update: added /Aye-dil aye-dil.mp3
+Sep 22 12:50 : update: added /Bakhuda Tumhi Ho Kismat Konnection 320 Kbps.mp3
+Sep 22 12:50 : update: added /Judai Jannat Original Motion Picturetrack 320 Kbps.mp3
+Sep 22 12:50 : update: added /Deewani_Mastani_Full_Video_Song___Bajirao_Mastani.mp3
+Sep 22 12:50 : update: added /Saans (Jab Tak Hai Jaan)-(MyMp3Singer.com).mp3
+Sep 22 12:50 : update: added /Kun Faaya Kun Rockstar 320 Kbps.mp3
+Sep 22 12:50 : update: added /To_Chalun_Full_HD_Video_Song__Border__Sunny_Deol,_Sunil_Shetty,_Akshaye_Khanna__90's_Hindi_Hits(256k).mp3
+Sep 22 12:50 : update: added /04 Lambiyaan Si Judaiyaan - Raabta (Arijit Singh) 190Kbps.mp3
+Sep 22 12:50 : update: added /Ek Haseena Thi Karzzzz 320 Kbps.mp3
+Sep 22 12:50 : update: added /Main Hoon Saath Tere.mp3
+Sep 22 12:50 : update: added /Tum Hi Aana.mp3
+Sep 22 12:50 : update: added /Sau Baar Yamla Pagla Deewana 320 Kbps.mp3
+Sep 22 12:50 : update: added /Kaash Tu Mila Hota - Code Blue.mp3
+Sep 22 12:50 : update: added /Tujhe_Kitna_Chahne_Lage_lofi__Lyrics.mp3
+Sep 22 12:50 : update: added /Falak Tak Tashan 320 Kbps.mp3
+Sep 22 12:50 : update: added /Sajde___Full_Song_Kill_Dil_Ranveer_Pr_Ehsaan_Loy__Gulzar.mp3
+Sep 22 12:50 : update: added /Tum Mile Tum Mile Original Motion Picturetrack 320 Kbps.mp3
+Sep 22 12:50 : update: added /arash-broken-angel-feat-helena-full-english-version-lyrics.mp3
+Sep 22 12:50 : update: added /Namaste London - Viraaniya.mp3
+Sep 22 12:50 : update: added /Aaya_woh_phir_nazar_Aise_Slowed_Reverbed.mp3
+Sep 22 12:50 : update: added /BB-Labon Ko.mp3
+Sep 22 12:50 : update: added /Do Jahan - Haider - (2014) [SongsMp3.Com].mp3
+Sep 22 12:50 : update: added /The Breakup Mashup 2  DJ Mans  Sunix Thakor.mp3
+Sep 22 12:50 : update: added /Filhaal2 Mohabbat B Praak 320 Kbps.mp3
+Sep 22 12:50 : update: added /ISHQ_MUBARAK_Aashim_Gulati.mp3
+Sep 22 12:50 : update: added /Rabba Mere Rabba - Sonu Nigam.mp3
+Sep 22 12:50 : update: added /Oh Bandeya - Ujda Chaman.mp3
+Sep 22 12:50 : update: added /Alone.mp3
+Sep 22 12:50 : update: added /Meethi-Boliyaan.mp3
+Sep 22 12:50 : update: added /05 Aankhon Mein Aansoo (Yasser Desai) 190Kbps.mp3
+Sep 22 12:50 : update: added /Midnight_Memories_Mashup_2021___Slowed_Reverb_Mashup__.mp3
+Sep 22 12:50 : update: added /Ek Din Teri Raahon Naqaab 320 Kbps.mp3
+Sep 22 12:50 : update: added /Cheater Mohan - Kanika Kapoor.mp3
+Sep 22 12:50 : update: added /Lagi_Aaj_Sawan_Ki___Full_Song___Chandni___Vinod_Khanna__Sridevi___Suresh_Wadkar__Anupama_Deshpande.mp3
+Sep 22 12:50 : update: added /Haan Tu Hain Jannat Original Motion Picturetrack 320 Kbps.mp3
+Sep 22 12:50 : update: added /Tu-Hi-Haqeeqat-20(SongsMp3.Com).mp3
+Sep 22 12:50 : update: added /Chand Ke Paar Chalo - Chand Ke Paar Chalo 320 Kbps.mp3
+Sep 22 12:50 : update: added /Nazrein Karam - Jashnn 320 Kbps.mp3
+Sep 22 12:50 : update: added /Jaisi Ho Waisi Raho - Pavitra Rishta.mp3
+Sep 22 12:50 : update: added /Zaroorat_Slowed_Reverb__Ek_Villain_Mithoon.mp3
+Sep 22 12:50 : update: added /Wo Ajnabee The Train 320 Kbps.mp3
+Sep 22 12:50 : update: added /Main Rahoon Ya Na Rahoon - Emraan Hashmi - 320Kbps.mp3
+Sep 22 12:50 : update: added /Ishq Ki Gali - Remix - Milenge Milenge 320 Kbps.mp3
+Sep 22 12:50 : update: added /mera-pyar-tera-pyar-full-song-arijit-singh-varun-rhea-jalebi.mp3
+Sep 22 12:50 : update: added /Hawayein_JAZ_Scape.mp3
+Sep 22 12:50 : update: added /Twist Love Aaj Kal 320 Kbps.mp3
+Sep 22 12:50 : update: added /Sun_meri_shehzadi_Slowed_Down_Reverb_Saaton_Janam_Mein_Tere____Night_Song.mp3
+Sep 22 12:50 : update: added /Maahi Raaz The Mystery Continues 320 Kbps.mp3
+Sep 22 12:50 : update: added /Jashn E Bahaaraa Jodhaa Akbar 320 Kbps.mp3
+Sep 22 12:50 : update: added /Maula Mere Maula.mp3
+Sep 22 12:50 : update: added /Mere_Nishaan_Full_Song_Oh_My_God_Akshay_Kumar_Paresh_Rawaln.mp3
+Sep 22 12:50 : update: added /02 Mann Mera (Table No 21).mp3
+Sep 22 12:50 : update: added /04 - Mera mulk mera desh @ Fmw11.com.mp3
+Sep 22 12:50 : update: added /Jaan_Nisaar_Lofi_Arijit_Singh__Sangeet_Karki_Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /In Dino - Life In A Metro 320 Kbps.mp3
+Sep 22 12:50 : update: added /Anwars Confession Into The Black Pankaj Awasthi 320 Kbps.mp3
+Sep 22 12:50 : update: added /Valentine_Mashup_2019_Zee_Music.mp3
+Sep 22 12:50 : update: added /Hamari_Adhuri_Kahani_Lyrical_Robotic.mp3
+Sep 22 12:50 : update: added /Sohnea__Full_Song_Miss_Pooja_Feat__Millind_Gaba___Latest_Punjabi_Songs_2017___.mp3
+Sep 22 12:50 : update: added /Nazar Bharkar Dekh Loon - Suresh Wadkar.mp3
+Sep 22 12:50 : update: added /Khuda Jaane Bachna Ae Haseeno 320 Kbps.mp3
+Sep 22 12:50 : update: added /Mix Track Bollywood Mashup - Aditya Narayan 320Kbps.mp3
+Sep 22 12:50 : update: added /Jiyein_Kyun_LoFi_Lyrics_Papon_Amyth_Beats_Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /Barsaat Ke Mausam Mein - Naajayaz 320 Kbps.mp3
+Sep 22 12:50 : update: added /02 Hue Bechain (Palak Muchhal) 320Kbps.mp3
+Sep 22 12:50 : update: added /Ishq Sufiyana Male The Dirty Picture 320 Kbps.mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Sep 22 12:50 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Sep 22 12:50 : update: added /Oh Saaiyaan.mp3
+Sep 22 12:50 : update: added /Tera Ghata - 320Kbps.mp3
+Sep 22 12:50 : update: added /So Jao - Haider - (2014) [SongsMp3.Com].mp3
+Sep 22 12:50 : update: added /Yeh Dil Yeh Paagal Dil (Live In India _ 1980).mp3
+Sep 22 12:50 : update: added /Ek Pyar Ka Nagma Hai - Aishwarya 320Kbps.mp3
+Sep 22 12:50 : update: added /05. Zindagi Ban Gaye Ho.mp3
+Sep 22 12:50 : update: added /Dilko Tumse Pyar Hua - Roop Kumar Rathod.mp3
+Sep 22 12:50 : update: added /01 Sanam Re (Title Song) Arijit Singh 190Kbps.mp3
+Sep 22 12:50 : update: added /Justin_Bieber___I_Don_t_Care__Official_Lyric_Video_.mp3
+Sep 22 12:50 : update: added /Ek_Ajnabee_Haseena_Se_Kya_Hua_Tera_Wada.mp3
+Sep 22 12:50 : update: added /04 Proper Patola - Namaste England.mp3
+Sep 22 12:50 : update: added /Dil_Mera_Chahe__Full_Song____Nafe_Khan___Sumi___Manish___Hindi_Song_2017___.mp3
+Sep 22 12:50 : update: added /Aawara Shaam Hai Meet Bros 320 Kbps.mp3
+Sep 22 12:50 : update: added /Na Milo Kahin Pyar - Badal 320 Kbps.mp3
+Sep 22 12:50 : update: added /Kabhii_Tumhhe_Lofi_Darshan_Raval_Hardik_Chauhan_Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /Abhi Kuch Dino Se Dil Toh Baccha Hai Ji 320 Kbps.mp3
+Sep 22 12:50 : update: added /Teri Meri Bodyguard 320 Kbps.mp3
+Sep 22 12:50 : update: added /Main Jahaan Rahoon Namastey London 320 Kbps.mp3
+Sep 22 12:50 : update: added /Set Fire to the Rain.mp3
+Sep 22 12:50 : update: added /Ishq_Sufiyana_LoFi.mp3
+Sep 22 12:50 : update: added /Choti Choti Raatein @ Mp3HunGama.Com.mp3
+Sep 22 12:50 : update: added /Ye+Dosti+Tere+Dam+Se+Hai-(Fun2desi.Com).mp3
+Sep 22 12:50 : update: added /Kiya Kiya Welcome 320 Kbps.mp3
+Sep 22 12:50 : update: added /Hawayein__LoFi__Arijit_Singh___JAZ_Scape__Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /Dil To Bachcha Hai - Ishqiya 320 Kbps.mp3
+Sep 22 12:50 : update: added /Akhtar Channal - Afghan Jalebi (Film Version).mp3
+Sep 22 12:50 : update: added /Teri Jhuki Nazar (Film Version) - (amlijatt.in).mp3
+Sep 22 12:50 : update: added /05 - Love Me Thoda Aur.mp3
+Sep 22 12:50 : update: added /02 Love Dose (Desi Kalakaar) Yo Yo Honey Singh 190Kbps.mp3
+Sep 22 12:50 : update: added /Yeh_Dil_Deewana_Song_Cover_By_Gurnazar.mp3
+Sep 22 12:50 : update: added /OSO 2007 - Main Agar Kahoon.mp3
+Sep 22 12:50 : update: added /Khaabon_ke_Parinday_Lofi_lyrics_Peaceslayer_Music_Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /First Class - Kalank.mp3
+Sep 22 12:50 : update: added /Suno Na Sangemarmar (Youngistaan) - 320Kbps -Arijit Singh-.mp3
+Sep 22 12:50 : update: added /Sham_LoFi_Remake_Aisha_JAZ_Scape_Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /Piya.mp3
+Sep 22 12:50 : update: added /Javeda Zindagi Tose Naina Lage Anwar 320 Kbps.mp3
+Sep 22 12:50 : update: added /Iktara Wake Up Sid 320 Kbps.mp3
+Sep 22 12:50 : update: added /06 - Deva Shree Ganesha.mp3
+Sep 22 12:50 : update: added /Chaaha Hai Tujhko.mp3
+Sep 22 12:50 : update: added /02 - Jannat 2 - Tera Deedar Hua.mp3
+Sep 22 12:50 : update: added /05 Hamdard - Ek Villain (PagalWorld.com) 320Kbps.mp3
+Sep 22 12:50 : update: added /Photo.mp3
+Sep 22 12:50 : update: added /04 Khuda Bhi (Mohit Chauhan) Ek Paheli Leela 320Kbps.mp3
+Sep 22 12:50 : update: added /Hoton Se Choolo - Jagjit Singh.mp3
+Sep 22 12:50 : update: added /Remembering Lata Mangeshkar.mp3
+Sep 22 12:50 : update: added /02 Paniyon Sa - Satyameva Jayate.mp3
+Sep 22 12:50 : update: added /Filhall.mp3
+Sep 22 12:50 : update: added /01_MUJHE TERI MOHABBAT KA.mp3
+Sep 22 12:50 : update: added /Mareez_E_Ishq_Full_Video_ZiD_Mannara__Karanvir___Arijit_Singh___Sharib_Toshi.mp3
+Sep 22 12:50 : update: added /01 Naino Ne Baandhi - Gold.mp3
+Sep 22 12:50 : update: added /Teri_Galliyan_Slowed_Down_Reverb.mp3
+Sep 22 12:50 : update: added /Lut Gaye - Jubin Nautiyal.mp3
+Sep 22 12:50 : update: added /Teri_Mitti.mp3
+Sep 22 12:50 : update: added /Pehli Nazar Mein Race 320 Kbps.mp3
+Sep 22 12:50 : update: added /Na Ja - Pav Dharia.mp3
+Sep 22 12:50 : update: added /Jo Bhi Main Rockstar 320 Kbps.mp3
+Sep 22 12:50 : update: added /Gali_Mein_Aaj_Chand_Nikla___Full_HD_Audio___Alka_Yagnik___Zakhm___Evergreen_Romantic_Songs.mp3
+Sep 22 12:50 : update: added /Teri Mitti.mp3
+Sep 22 12:50 : update: added /Ishq-Ki-Gali.mp3
+Sep 22 12:50 : update: added /Psycho Saiyaan - Saaho - Hindi.mp3
+Sep 22 12:50 : update: added /OSanam__Lofi___Lyrics____Lucky_Ali___Textaudio_Lyrics___Indian_Lofi.mp3
+Sep 22 12:50 : update: added /Jo_Bhi_Kasmein_Raaz_Bipasha_Basu_Dino_Morea_Udit_Narayan_Alka_Yagnik.mp3
+Sep 22 12:50 : update: added /Kab Se Kab Tak - Gully Boy.mp3
+Sep 22 12:50 : update: added /Dil_Ka_Kya_Karein_Saaheb___Jeet_Songs__HD____Tabu___Sunny_Deol___Kavita_Krishnamurthy.mp3
+Sep 22 12:50 : update: added /Chhaliya Tashan 320 Kbps.mp3
+Sep 22 12:50 : update: added /03 - Qaafirana - Kedarnath (2018).mp3
+Sep 22 12:50 : update: added /Khwaja Mere Khwaja Jodhaa Akbar 320 Kbps.mp3
+Sep 22 12:50 : update: added /Lamberghini.mp3
+Sep 22 12:50 : update: added /Sach-Keh-Raha-Hai.mp3
+Sep 22 12:50 : update: added /01 - Bekhayali - Downloadming.SE.mp3
+Sep 22 12:50 : update: added /Main Ishq Uska - Vaada 320 Kbps.mp3
+Sep 22 12:50 : update: added /04 Ishq Na Karna Ishq Na Karna - Phir Bewafaai.mp3
+Sep 22 12:50 : update: added /Thoda Thoda Pyaar Stebin Ben 320 Kbps.mp3
+Sep 22 12:50 : update: added /Jaan Ban Gaye - Khuda Haafiz.mp3
+Sep 22 12:50 : update: added /LAAL_ISHQ___Full_Audio_Song___Deepika_Padukone___Ranveer_Singh___Goliyon_Ki_Raasleela_Ram_leela.mp3
+Sep 22 12:50 : update: added /AKS 2007 - Jhoot Nahin Bolna.mp3
+Sep 22 12:50 : update: added /03-Chahun-Main-Ya-Naa-(SongsOne.Com).mp3
+Sep 22 12:50 : update: added /Sham__LoFi_Remake__Aisha___JAZ_Scape_Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /Aakrosh - Saude Bazi (Encore).mp3
+Sep 22 12:50 : update: added /funniest_skit_on_college_life.mp3
+Sep 22 12:50 : update: added /03 Hauli Hauli - De De Pyaar De.mp3
+Sep 22 12:50 : update: added /Namaste London - Main Jahan.mp3
+Sep 22 12:50 : update: added /Alag_Aasmaan_LoFi_Lyrics_Anuv_Jain_Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /Dil Galti Kar Baitha Hai Feat. Mouni Roy Jubin Nautiyal 320 Kbps.mp3
+Sep 22 12:50 : update: added /Awarapan 2007 - Mahiya.mp3
+Sep 22 12:50 : update: added /Dance Pe Chance Rab Ne Bana Di Jodi 320 Kbps.mp3
+Sep 22 12:50 : update: added /Dil_Ka_Kya_Karein_Saaheb_Jeet_Songs.mp3
+Sep 22 12:50 : update: added /TRIBUTE_TO_SSR_Phir_Kabhi_x_Qaafirana_x_Jaan_Nisaar.mp3
+Sep 22 12:50 : update: added /02 - Do Dil Mil Rahe Hain(MyMp3Song.Com).mp3
+Sep 22 12:50 : update: added /Saawariya - Jab Se Tere Naina.mp3
+Sep 22 12:50 : update: added /Dil-Ibaadat-20(SongsMp3.Com).mp3
+Sep 22 12:50 : update: added /Bom Diggy - DJ Lemon.mp3
+Sep 22 12:50 : update: added /Moh_Moh_Ke_Dhaage_LoFi_Lyrics_Papon_WORMONO_Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /Main Jis Din Bhulaa Du Rochak Kohli 320 Kbps.mp3
+Sep 22 12:50 : update: added /Sajna Ve.mp3
+Sep 22 12:50 : update: added /Dil_Chura_Liya_Qayamat.mp3
+Sep 22 12:50 : update: added /AKS 2007 - Tera Mera Milna.mp3
+Sep 22 12:50 : update: added /03 - Tujhe Kitna Chahne Lage - Downloadming.SE.mp3
+Sep 22 12:50 : update: added /Aa Jao Meri Tamanna Ajab Prem Ki Ghazab Kahani 320 Kbps.mp3
+Sep 22 12:50 : update: added /Tum Dil Ki Dhadkan Mein - Dhadkan 320 Kbps.mp3
+Sep 22 12:50 : update: added /Sajde Ki Ye Hai Lakhoin - Khatta Meetha 320 Kbps.mp3
+Sep 22 12:50 : update: added /Buddhu-Sa-Mann_@hindigana.mp3
+Sep 22 12:50 : update: added /Guzarish Ghajini 320 Kbps.mp3
+Sep 22 12:50 : update: added /Tera Hone Laga Hoon Ajab Prem Ki Ghazab Kahani 320 Kbps.mp3
+Sep 22 12:50 : update: added /Chithi Na Koi Sandesh (From Dushman) - Jagjit Singh.mp3
+Sep 22 12:50 : update: added /04 - Jaan Nisaar (Arijit) -Kedarnath (2018).mp3
+Sep 22 12:50 : update: added /Blue Eyes.mp3
+Sep 22 12:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 22 12:50 : update: added /Chhod-Aaye-Hum-Hariharan-K.K.-Suresh-Wadkar-Vinod-Sehgal (3).m4a
+Sep 22 12:50 : update: added /Bawara_Mann_Jubin_Nautiyal_Neeti_Mohan.mp3
+Sep 22 12:50 : update: added /Kabhi_Jo_Badal_BarseDil_De_Diya.mp3
+Sep 22 12:50 : update: added /Main_Rang_Sharbaton_Ka__Lofi___JAZ_Scape__Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /Baarish__LoFi___Lyrics___Cryptic___Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /Uncha Lamba Kad Welcome 320 Kbps.mp3
+Sep 22 12:50 : update: added /Badshah - Proper Patola.mp3
+Sep 22 12:50 : update: added /Soni De Nakhre Partner 320 Kbps.mp3
+Sep 22 12:50 : update: added /Alone__Official_Music_Video_.mp3
+Sep 22 12:50 : update: added /Sandese Aate Hain.mp3
+Sep 22 12:50 : update: added /Aaoge_Jab_Tum__LoFi.mp3
+Sep 22 12:50 : update: added /Remember_The_Name__Official_Video_.mp3
+Sep 22 12:50 : update: added /04 - Mujh Mein Tu(MyMp3Song.Com).mp3
+Sep 22 12:50 : update: added /Odhani_Odh_Ke_Nachu_Lyrical_Video_Song__Tere_Naam__Salman_Khan,_Bhoomika_Chawla(128k).mp3
+Sep 22 12:50 : update: added /Haule Haule Rab Ne Bana Di Jodi 320 Kbps.mp3
+Sep 22 12:50 : update: added /Made In India - Guru Randhawa - DJ Lemon.mp3
+Sep 22 12:50 : update: added /___Justin_Bieber___I_Don_t_Care__Official_Lyric_Video_.mp3
+Sep 22 12:50 : update: added /Toh Phir Aao Awarapan 320 Kbps.mp3
+Sep 22 12:50 : update: added /har_dil_jo_pyar_karega_sad_version.mp3
+Sep 22 12:50 : update: added /Humnava Mere Jubin Nautiyal 320 Kbps.mp3
+Sep 22 12:50 : update: added /Luka Chuppi - Rang De Basanti 320 Kbps.mp3
+Sep 22 12:50 : update: added /Fanaa 2006 - Mere Haath Main.mp3
+Sep 22 12:50 : update: added /Ek Sanam Chahiye Aashiqui Ke Liye.mp3
+Sep 22 12:50 : update: added /05 Notebook Epilouge.mp3
+Sep 22 12:50 : update: added /Alcoholic (The Shaukeens) Yo Yo Honey Singh 320Kbps.mp3
+Sep 22 12:50 : update: added /02 Jitni Dafa - Parmanu 320Kbps.mp3
+Sep 22 12:50 : update: added /04 Zinda - Bharat.mp3
+Sep 22 12:50 : update: added /Saibo Shor In The City Original Motion Picturetrack 320 Kbps.mp3
+Sep 22 12:50 : update: added /Chamma Chamma - Fraud Saiyaan.mp3
+Sep 22 12:50 : update: added /Serhat_Durmus_La_C_lin_Obiymy_.mp3
+Sep 22 12:50 : update: added /Kasoor_Lofi_Lyrics_Prateek_Kuhad__Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /Dua_Shanghai_Squashup_Aftermorning.mp3
+Sep 22 12:50 : update: added /02 Sapna Jahan (Brothers) Sonu Nigam 320Kbps.mp3
+Sep 22 12:50 : update: added /Mera Rang De.mp3
+Sep 22 12:50 : update: added /Isq Risk Mere Brother Ki Dulhan 320 Kbps.mp3
+Sep 22 12:50 : update: added /OSO 2007 - Aankhon Mein Teri Ajab Si.mp3
+Sep 22 12:50 : update: added /Kabhi Yaadon Mein - Arijit Singh 320Kbps.mp3
+Sep 22 12:50 : update: added /Bhumro - Notebook.mp3
+Sep 22 12:50 : update: added /Make Some Noise For The Desi Boyz Pritam 320 Kbps.mp3
+Sep 22 12:50 : update: added /Shubhaarumbh.mp3
+Sep 22 12:50 : update: added /Nadaan Parindey Rockstar 320 Kbps.mp3
+Sep 22 12:50 : update: added /02 Bolna - Arijit Singh 190Kbps.mp3
+Sep 22 12:50 : update: added /06 - Tera Ban Jaunga - Downloadming.SE.mp3
+Sep 22 12:50 : update: added Bhakti/Radhe_Krishna_Ki_Jyoti_Alaukik_ll_Best_Krishna_Bhajan(128k).m4a
+Sep 22 12:50 : update: added Bhakti/Hanuman_Ji_Aarti_Aarti_Keejei_Hanuman_Lala.m4a
+Sep 22 12:50 : update: added Bhakti/Duniya_Rachne_Wale_Ko,_Ram_Na_Milenge_Hanuman.m4a
+Sep 22 12:50 : update: added Bhakti/Jai_Jai_Mansa_Mata_I_Mansa_Devi_Aarti_I_SHIVANI_CHANANA_I_Full_HD.m4a
+Sep 22 12:50 : update: added Bhakti/Ram_Amritwani_By_Anuradha_Paudwal_Full_Audio_Song_Juke_Box128k.m4a
+Sep 22 12:50 : update: added Bhakti/Anjali_Jain,_Vandana.m4a
+Sep 22 12:50 : update: added Bhakti/Ambe_Tu_Hai_Jagdambe_Kali__काली_माँ.m4a
+Sep 22 12:50 : update: added Bhakti/Kabir_Amritwani,Debashish.mp3
+Sep 22 12:50 : update: added Bhakti/Shyam_Teri_Bansi__Very_Beautiful.m4a
+Sep 22 12:50 : update: added Bhakti/Hum_Katha_Sunate_Lyrical_Video128k.m4a
+Sep 22 12:50 : update: added Bhakti/Hey_Dukh_Bhanjan_Maruti.m4a
+Sep 22 12:50 : update: added Bhakti/Sawali_Surat_pe_dil_Mohan128k.m4a
+Sep 22 12:50 : update: added Bhakti/Shri_Ram_Chandra_Kripalu_with_Lyrics.m4a
+Sep 22 12:50 : update: added Bhakti/पाचौई__सम्पूर्ण_रामायण__Ravi_Rae.m4a
+Sep 22 12:50 : update: added Bhakti/Shree_Krishna_Govind_Hare_Murari__Krishna_Bhajan__Maanya_Arora.mp3
+Sep 22 12:50 : update: added Bhakti/RADHE_RADHE_BARSANE_WALI.m4a
+Sep 22 12:50 : update: added Bhakti/Sukh_Karta_Dukh_Harta__Ganpati_Aarti__Sukhkarta_Dukhharta.m4a
+Sep 22 12:50 : update: added Bhakti/Aarti_Ambe_Tu_Hai_Jagdambe_Kali_With_Lyrics_By_Anuradha_Paudwal.m4a
+Sep 22 12:50 : update: added Bhakti/Hanuman_Chalisa__Hanuman_Da_Damdaar__Sneha_Pandit,Taher_Shabbir128k.m4a
+Sep 22 12:50 : update: added Bhakti/Bhor_Bhai_Din_Chad_Gaya_Meri_Ambe_Ambe_Maa_Aarti__Mata_Ki_Aarti.m4a
+Sep 22 12:50 : update: added Bhakti/Jai_Santoshi_Mata_Aarti_By_Anuradha_Paudwal_Full_Video_Song_Aartiyan128k.m4a
+Sep 22 12:50 : update: added Bhakti/Mata_Laxmi_Aarti_in_Hindi__Om_Jai_Laxmi_Mata.m4a
+Sep 22 12:50 : update: added Bhakti/Gayatri_Mantra_108_times_Anuradha_Paudwal_I_Full_Audio_Song_I_T.m4a
+Sep 22 12:50 : update: added Bhakti/KARMA_YOGA_CONVERSATION_OF_KRISHNA_&_ARJUN.m4a
+Sep 22 12:50 : update: added Bhakti/Jai_Ambe_Gauri_[Full_Song]_-_Aartiyan(128k).m4a
+Sep 22 12:50 : update: added Bhakti/Kabhi_Ram_Banke_Kabhi_Shyam_Banke_I.m4a
+Sep 22 12:50 : update: added Bhakti/Durga_Amritwani_By_Anuradha_Paudwal_I_Audio_Song_Juke_Box128k.m4a
+Sep 22 12:50 : update: added Bhakti/Saraswati_Mata_Aarti_.m4a
+Sep 22 12:50 : update: added /Dhan Te Nan Aaja Aaja Kaminey 320 Kbps.mp3
+Sep 22 12:50 : update: added /Zumba_Fitness_Cheap_Thrills_by_Nikaz_Chikaz.mp3
+Sep 22 12:50 : update: added /02 Akh Lad Jave - Loveratri.mp3
+Sep 22 12:50 : update: added /Hue_Bechain_Ek_Haseena_Thi.mp3
+Sep 22 12:50 : update: added /Kabira___Slowed_Down___Reverbed___asthethic_songs___Lofi__night.mp3
+Sep 22 12:50 : update: added /Allah Maaf Kare Desi Boyz 320 Kbps.mp3
+Sep 22 12:50 : update: added /Sohnea 2 Miss Pooja  Millind Gaba .mp3
+Sep 22 12:50 : update: added /O Saki Saki - Batla House.mp3
+Sep 22 12:50 : update: added /Ye Tune Kya Kiya.mp3
+Sep 22 12:50 : update: added /Tha Kar Ke Golmaal Returns 320 Kbps.mp3
+Sep 22 12:50 : update: added /07 Zaroori Tha -Hamari Adhuri Kahani- Rahat Fateh 320Kbps.mp3
+Sep 22 12:50 : update: added /Is This Love Kismat Konnection 320 Kbps.mp3
+Sep 22 12:50 : update: added /Main Jis Din Bhulaa Du - Jubin Nautiyal.mp3
+Sep 22 12:50 : update: added /Tujhko Jo Paaya - Crook 320 Kbps.mp3
+Sep 22 12:50 : update: added /Shukran Allah Kurbaan 320 Kbps.mp3
+Sep 22 12:50 : update: added /08 - Har Kisi Ko (Version 2).mp3
+Sep 22 12:50 : update: added /Tere Pyar Mein Main - Jaspinder Narula, Roop Kumar Rathod.mp3
+Sep 22 12:50 : update: added SpotiFlyer/Mood_off/Serhat_Durmus___La_C_lin__Obiymy_.mp3
+Sep 22 12:50 : update: added SpotiFlyer/Mood_off/DHARIA___Sugar___Brownies__by_Monoir___Official_Video_.mp3
+Sep 22 12:50 : update: added /02 - Tum Jo Aaye-(MyMp3Singer.com).mp3
+Sep 22 12:50 : update: added /01 Sooraj Dooba Hain Yaaron - Roy (Arijit Singh) 192Kbps.mp3
+Sep 22 12:50 : update: added /Duniyaa.mp3
+Sep 22 12:50 : update: added /Baarish.mp3
+Sep 22 12:50 : update: added /Rishte Naate De Dana Dan 320 Kbps.mp3
+Sep 22 12:50 : update: added /Sochenge Tumhe Pyar.mp3
+Sep 22 12:50 : update: added /05 Kaise Hua - Kabir Singh.mp3
+Sep 22 12:50 : update: added /Sauda Hai Dil Ka Ye Aakrosh 320 Kbps.mp3
+Sep 22 12:50 : update: added /02 Itni Si Baat Hain - Azhar (Arijit Singh) 320Kbps.mp3
+Sep 22 12:50 : update: added /02. Bangla Gaadi Jhumke Kangna.mp3
+Sep 22 12:50 : update: added /Ik Pal - Parey Hut Love.mp3
+Sep 22 12:50 : update: added /08 - Pehla Pyaar - Downloadming.SE.mp3
+Sep 22 12:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 22 12:50 : update: added /Aaj-Jane-Ki-Zid-Na-Karo-Farida-Khanum.m4a
+Sep 22 12:50 : update: added /Subha Hone Na De Desi Boyz 320 Kbps.mp3
+Sep 22 12:50 : update: added /02 - Soniyo-(MyMp3Singer.com).mp3
+Sep 22 12:50 : update: added /Main_Rang_Sharbaton_Ka_Lofi_JAZ_Scape_Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /Kaun_Tujhe_Lofi_M_S_DHOI_THE_UNTOLD_STORY_NEELESH_Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /Aas Pass Hai Khuda Anjaana Anjaani 320 Kbps.mp3
+Sep 22 12:50 : update: added /Dil Mera Chahe Manish Sharma 320 Kbps.mp3
+Sep 22 12:50 : update: added /Milo Na Milo Love Story 2050 320 Kbps.mp3
+Sep 22 12:50 : update: added /Love Mashup 2019  DJ Vkey Mumbai.mp3
+Sep 22 12:50 : update: added /O Re Piya Aaja Nachle 320 Kbps.mp3
+Sep 22 12:50 : update: added /Sandese Aate Hai-Ke Ghar Kab Aaoge.mp3
+Sep 22 12:50 : update: added /Tum_Mile_Full_Video.mp3
+Sep 22 12:50 : update: added /Duniyaa_Lofi_Akhil_GOURAV.mp3
+Sep 22 12:50 : update: added /Hum Ne Ek Shaam - Hariharan.mp3
+Sep 22 12:50 : update: added /02 - Hum Pyaar Hain Tumhare-(MyMp3Singer.com).mp3
+Sep 22 12:50 : update: added /07 - Yeh Aaina - Downloadming.SE.mp3
+Sep 22 12:50 : update: added /Kali Kali Zulfon Ke - Madhur Sharma.mp3
+Sep 22 12:50 : update: added /Uska Hi Banana (1920 Evil Returns).mp3
+Sep 22 12:50 : update: added /Pehla_Nasha_Lofi_Lyrics_Udit_Narayans.mp3
+Sep 22 12:50 : update: added /Umrao Jaan-Salaam Salaam.mp3
+Sep 22 12:50 : update: added /Tumhare Siva - Tum Bin 320 Kbps.mp3
+Sep 22 12:50 : update: added /Genda Phool Delhi 6 320 Kbps.mp3
+Sep 22 12:50 : update: added /The Train - Beete Lamhe.mp3
+Sep 22 12:50 : update: added /Pardesi Pardesi.mp3
+Sep 22 12:50 : update: added /Dil Tod Ke 128 Kbps.mp3
+Sep 22 12:50 : update: added /The_Spectre.mp3
+Sep 22 12:50 : update: added /HEARTBREAK_MASHUP.mp3
+Sep 22 12:50 : update: added /Noor E Khuda - We Are Family 320 Kbps.mp3
+Sep 22 12:50 : update: added /welcome-tera sarafa.mp3
+Sep 22 12:50 : update: added /Tujhe Bhula Diya Phir - Anjaana Anjaani 320 Kbps.mp3
+Sep 22 12:50 : update: added /Tune Jo Na Kaha (New York) - Mohit Chauhan - 320Kbps.mp3
+Sep 22 12:50 : update: added /The Train - Mausam.mp3
+Sep 22 12:50 : update: added /OSanam_Lofi_Lyrics_Lucky_Ali_Textaudio_Lyrics_Indian_Lofi.mp3
+Sep 22 12:50 : update: added /Main Tera Dhadkan Teri Ajab Prem Ki Ghazab Kahani 320 Kbps.mp3
+Sep 22 12:50 : update: added /Dil_Chura_Liya___4K_Video___Ajay_Devgan___Neha_Dhupia___Qayamat___90_s_Bollywood_Romantic_Songs.mp3
+Sep 22 12:50 : update: added /Character Dheela Ishq Ke Naam Ready 320 Kbps.mp3
+Sep 22 12:50 : update: added /02 - Bismil (Haider) [SongsMp3.Com].mp3
+Sep 22 12:50 : update: added /Aaj Ke Naam - Haider - (2014) [SongsMp3.Com].mp3
+Sep 22 12:50 : update: added /Prem Ki Naiyya Ajab Prem Ki Ghazab Kahani 320 Kbps.mp3
+Sep 22 12:50 : update: added /06 Tera Ban Jaunga - Kabir Singh.mp3
+Sep 22 12:50 : update: added /Jeeta Tha Jiske Liye.mp3
+Sep 22 12:50 : update: added /Dil_Ka_Rishta_Lyrical_-_Dil_Ka_Rishta__Aishwariya_Rai,_Arjun_Rampal,_Priyanshu__Alka,_Udit,_Kumar(256k).mp3
+Sep 22 12:50 : update: added /I Am In Love - Once Upon A Time In Mumbaai 320 Kbps.mp3
+Sep 22 12:50 : update: added /13 AYE WATAN TERE LIYE {KARMA}.mp3
+Sep 22 12:50 : update: added /See_You_Again_ft__Charlie_Puth__Official_Video__Furious_7_Soundtrack.mp3
+Sep 22 12:50 : update: added /Dooriyan Love Aaj Kal 320 Kbps.mp3
+Sep 22 12:50 : update: added /Perfect_Full_Audio_Song_Gurinder.mp3
+Sep 22 12:50 : update: added /RAB_NA_KARE_KI_YE_ZINDAGI_KISI_KO_DAGA_NA_DE(128k).mp3
+Sep 22 12:50 : update: added /Ishq Sufiyana (Female) The Dirty Picture.mp3
+Sep 22 12:50 : update: added /Dil Maang Raha Hai Mohlat Tere Sath.mp3
+Sep 22 12:50 : update: added /Tu Meri Dost Hain Yuvvraaj 320 Kbps.mp3
+Sep 22 12:50 : update: added /Barsaat Ke Mausam Mein - Kumar Sanu, Roop Kumar Rathod.mp3
+Sep 22 12:50 : update: added /Kisi_Nazar_Ko_Tera_Intezar_Full_Song___Aitbaar___Raj_Babbar__Dimple_Kapadia__Suresh_Oberoi.mp3
+Sep 22 12:50 : update: added /Dil Kho Gaya - Udit Narayan, Anuradha Paudwal.mp3
+Sep 22 12:50 : update: added /04 Ve Maahi - Kesari.mp3
+Sep 22 12:50 : update: added /Watan Walo (IndianSoundtrack Version) - Roop Kumar Rathod.mp3
+Sep 22 12:50 : update: added /Rabba Main Toh Mar Gaya Oye Mausam 320 Kbps.mp3
+Sep 22 12:50 : update: added /Tune+Zindgi+Me+Aake-(Fun2desi.Com).mp3
+Sep 22 12:50 : update: added /02_-_Samjhawan_Arijit_Singh_(Humpty_Sharma_Ki_Dulhania)(PlayMaza.Com).mp3
+Sep 22 12:50 : update: added /Aaya Re Jashnn 320 Kbps.mp3
+Sep 22 12:50 : update: added /@hindimusic_best - The Love Mashup (2020).mp3
+Sep 22 12:50 : update: added /Kabir Singh  Tujhe Kitna Chahne Lage (Reprise)  Twin Strings.mp3
+Sep 22 12:50 : update: added /Awarapan 2007 - Toh Phir Aao.mp3
+Sep 22 12:50 : update: added /04 Tera Chehra - Sanam Teri Kasam (Arijit Singh) 320Kbps.mp3
+Sep 22 12:50 : update: added /01 Galliyan - Ek Villain (PagalWorld.com) 320Kbps.mp3
+Sep 22 12:50 : update: added /Na_Ja_(Official_Video)_Pav_Dharia__SOLO__New_Punjabi_Songs_2018__White_Hill_Music(256k).mp3
+Sep 22 12:50 : update: added /Baarish_Lete_Aana_Lofi.mp3
+Sep 22 12:50 : update: added /02 Meherbani - The Shaukeens -PagalWorld.com- - 320Kbps.mp3
+Sep 22 12:50 : update: added /Aankhon_Mein_Aansoon_Nadeem__Palak__Yaseer.mp3
+Sep 22 12:50 : update: added /Call_center_funny_diloge_with_baranasi_chacha.mp3
+Sep 22 12:50 : update: added /Senorita Zindagi Na Milegi Dobara 320 Kbps.mp3
+Sep 22 12:50 : update: added /Koi Fariyad - Jagjit Singh - 320Kbps (Original).mp3
+Sep 22 12:50 : update: added /Saadda Haq Featuring Orianthi Panagaris On Guitars Rockstar 320 Kbps.mp3
+Sep 22 12:50 : update: added /Char Baj Gaye Party Abhi Baaki Hai F.a.l.t.u 320 Kbps.mp3
+Sep 22 12:50 : update: added /Gale Lag Ja De Dana Dan 320 Kbps.mp3
+Sep 22 12:50 : update: added /Subhanallah_Lofi_Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /Dupatta Tera Nau Rang Da Partner 320 Kbps.mp3
+Sep 22 12:50 : update: added /Baarish Ban Jaana Payal Dev 320 Kbps.mp3
+Sep 22 12:50 : update: added /Ale Golmaal 3 320 Kbps.mp3
+Sep 22 12:50 : update: added /Tu Bin Bataye - Rang De Basanti 320 Kbps.mp3
+Sep 22 12:50 : update: added /Tujhse_Naraaz_Nahin_Zindagi_LoFi.mp3
+Sep 22 12:50 : update: added /Aaj_jaane_ki_zid_na_karo__LoFi.mp3
+Sep 22 12:50 : update: added /Tera_Chehra_Official_Video_Song_Sanam_Teri_Kasam___Harshvardhan__Mawra___Arijit_Singh__Himesh.mp3
+Sep 22 12:50 : update: added /Love Mashup 2018  DJ Vkey Mumbai.mp3
+Sep 22 12:50 : update: added /Baarish_LoFi_Lyrics_Cryptic_Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /WL 2006 - Tu Jo Nahin.mp3
+Sep 22 12:50 : update: added /Tere Mast Mast Do Nain - Dabangg 320 Kbps.mp3
+Sep 22 12:50 : update: added /Chiggy Wiggy Blue 320 Kbps.mp3
+Sep 22 12:50 : update: added /Dil_Mera_Chahe_2017___.mp3
+Sep 22 12:50 : update: added /02. Noor E Khuda.mp3
+Sep 22 12:50 : update: added /03 Teri Mitti - Kesari(1).mp3
+Sep 22 12:50 : update: added /Kho_Gaye_Hum_Kahan_Lyrics_Harrlin_Flip_Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /03 Phir Mulaaqat - Cheat India.mp3
+Sep 22 12:50 : update: added /Om Mangalam Kambakkht Ishq 320 Kbps.mp3
+Sep 22 12:50 : update: added /welcome-uncha lamba kad.mp3
+Sep 22 12:50 : update: added /Bahara - I Hate Luv Storys 320 Kbps.mp3
+Sep 22 12:50 : update: added /01 - Rabba Main Toh Mar Gaya Oye - MusicBadshah.Com.mp3
+Sep 22 12:50 : update: added /04 - Kitni Hasrat Hai Hamein - MusicBadshah.Com.mp3
+Sep 22 12:50 : update: added /Arijit Singh - Nashe Si Chadh Gayi.mp3
+Sep 22 12:50 : update: added /Tujh Mein Rab Dikhta Hai Rab Ne Bana Di Jodi 320 Kbps.mp3
+Sep 22 12:50 : update: added /06 - Rooth Kar Hum-(MyMp3Singer.com).mp3
+Sep 22 12:50 : update: added /@hindimusic_best - Main Ishq Uska.mp3
+Sep 22 12:50 : update: added /09 Tujhe Kitna Chahein Aur - Jubin.mp3
+Sep 22 12:50 : update: added /Meri Aashiqui Jubin Nautiyal 320 Kbps.mp3
+Sep 22 12:50 : update: added /Tu Mera Hero Desi Boyz 320 Kbps.mp3
+Sep 22 12:50 : update: added /Channa Mereya.mp3
+Sep 22 12:50 : update: added /Ek_Radha_Ek_Meera___Mujra___Mandakini_Rajiv_Kapoor___Ram_Teri_Ganga_Maili___Bollywood_Love_Songs_HD.mp3
+Sep 22 12:50 : update: added /01. Hosh Walon Ko Khabar Kya.mp3
+Sep 22 12:50 : update: added /Hale Dil Murder 2 320 Kbps.mp3
+Sep 22 12:50 : update: added /Emosanal Attyachaar Brass Band Version Dev D 320 Kbps.mp3
+Sep 22 12:50 : update: added /02 - Jiya Dhadak Dhadak Jaye-(MyMp3Singer.com).mp3
+Sep 22 12:50 : update: added /Aapke Pyaar Mein Hum.mp3
+Sep 22 12:50 : update: added /Oh Girl Youre Mine Housefull 320 Kbps.mp3
+Sep 22 12:50 : update: added /Awargi---Yeh-Dil-Yeh-Pagal-Dil-Mera-Ghulam-Ali.mp3
+Sep 22 12:50 : update: added /The_Love_Mashup_TERE_BINSAKHIYAA.mp3
+Sep 22 12:50 : update: added /Diamond_Heart__feat__Sophia_Somajo_.mp3
+Sep 22 12:50 : update: added /Pee_Loon_Ishq_Sufiyana_Mixtape_Neha_Kakkar_Sreerama_Bhushan_Kumar_Ahmed_K_Abhijit_V.mp3
+Sep 22 12:50 : update: added /AN 2007 - O Re Piya.mp3
+Sep 22 12:50 : update: added /PEE_LOON.mp3
+Sep 22 12:50 : update: added /01 Asli Hip Hop - Gully Boy.mp3
+Sep 22 12:50 : update: added /Munni Badnaam Hui Darling (Female) - Dabangg 320 Kbps.mp3
+Sep 22 12:50 : update: added /Bheegi Si Bhaagi Si - Raajneeti 320 Kbps.mp3
+Sep 22 12:50 : update: added /Tum Jo Aaye Once Upon A Time In Mumbaai 320 Kbps.mp3
+Sep 22 12:50 : update: added /Lambi Judai Jannat Original Motion Picturetrack 320 Kbps.mp3
+Sep 22 12:50 : update: added /Masakali Delhi 6 320 Kbps.mp3
+Sep 22 12:50 : update: added /02 Ijazat - One Night Stand (Arijit Singh) 320Kbps.mp3
+Sep 22 12:50 : update: added /Dil_Tod_ke_Jane_Wale_kk_Ishq_Ke_Parindey.mp3
+Sep 22 12:50 : update: added /Tum Dil Ki Dhadkan Mein.mp3
+Sep 22 12:50 : update: added /02. Tumse Hi.mp3
+Sep 22 12:50 : update: added /05 Meri Aashiqui (Aashiqui 2).mp3
+Sep 22 12:50 : update: added /02 Dil Mein Ho Tum - Cheat India.mp3
+Sep 22 12:50 : update: added /Mujhe Raat Din Bas.mp3
+Sep 22 12:50 : update: added /03 - Tum Hi Ho-A2 (Sky Hip Hop Mix)(DJGoogle.in)(DjGol.com).mp3
+Sep 22 12:50 : update: added /Teri_Galliyan___Slowed_Down___Reverb___Ek_Villain___Night_Songs__Asthetic___RouteScale.mp3
+Sep 22 12:50 : update: added /Tere Liye.mp3
+Sep 22 12:50 : update: added /Faded.mp3
+Sep 22 12:50 : update: added /04 Mere Sohneya - Kabir Singh.mp3
+Sep 22 12:50 : update: added /02 Tum Todo Na - Male-PagalWorld.Com--320Kbps.mp3
+Sep 22 12:50 : update: added /Zara Sa Jannat Original Motion Picturetrack 320 Kbps.mp3
+Sep 22 12:50 : update: added /02 Banjaara - Ek Villain (PagalWorld.com) 320Kbps.mp3
+Sep 22 12:50 : update: added /Sabrina_Carpenter_Farruko__On_My_Way.mp3
+Sep 22 12:50 : update: added /Wake Up Sid! Shankar Mahadevan 320 Kbps.mp3
+Sep 22 12:50 : update: added /Phir_le_aya_dil__LoFi__Lyrics__Arijit_Singh_p_r_a_k_h_a_r__Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /Dasi Na Mere Baare - Goldy Desi Crew - 320Kbps.mp3
+Sep 22 12:50 : update: added /Palak Muchhal - Kaun Tujhe.mp3
+Sep 22 12:50 : update: added /OSO 2007 - Dard-e-Disco.mp3
+Sep 22 12:50 : update: added /Tumse Kitna - Company 320 Kbps.mp3
+Sep 22 12:50 : update: added /Humein Tumse Hua Hai Pyar Hum Kya Ka.mp3
+Sep 22 12:50 : update: added /Agar_Tum_Saath_Ho.mp3
+Sep 22 12:50 : update: added /Manja.mp3
+Sep 22 12:50 : update: added /Hamne_Tumko_Dil_Ye_De_Diya_Gunaah_Alka_Yagnik_Babul_Supriyo.mp3
+Sep 22 12:50 : update: added /Aye Khuda Murder 2 320 Kbps.mp3
+Sep 22 12:50 : update: added /Sun_Saiba_Sun___Mandakini___Rajiv_Kapoor___Ram_Teri_Ganga_Maili___Bollywood_Hit_Love_Songs__HD_.mp3
+Sep 22 12:50 : update: added /Gal Mitthi Mitthi - Songs.pk - 320Kbps.mp3
+Sep 22 12:50 : update: added /Aksar Is Duniya Mein - Dhadkan 320 Kbps.mp3
+Sep 22 12:50 : update: added /02 Tose Naina [Mickey Virus].mp3
+Sep 22 12:50 : update: added /Phir Mohabbat Murder 2 320 Kbps.mp3
+Sep 22 12:50 : update: added /I Love You Bodyguard 320 Kbps.mp3
+Sep 22 12:50 : update: added /Piya O Re Piya   Atif Aslam n Shreya Ghoshal -192Kbps-.mp3
+Sep 22 12:50 : update: added /32 BHARAT KA RAHNEWALA HOON - INH109537210.mp3
+Sep 22 12:50 : update: added /Apne Sonu Nigam 320 Kbps.mp3
+Sep 22 12:50 : update: added /02.Aaja+Tujko+Pukare+Mere+Geet+Re-(Fun2Desi.Com).mp3
+Sep 22 12:50 : update: added /Taxi No. 9211-Ek Nazar Mein Bhi.mp3
+Sep 22 12:50 : update: added /03 - Dulhe Ka Sehra-(MyMp3Singer.com).mp3
+Sep 22 12:50 : update: added /02 - Mere Haath Mein-(MyMp3Singer.com).mp3
+Sep 22 12:50 : update: added /Tere Naina - My Name Is Khan 320 Kbps.mp3
+Sep 22 12:50 : update: added /Nazrein Karam Jashnn 320 Kbps.mp3
+Sep 22 12:50 : update: added /Maine_Dil_Se_Kaha.mp3
+Sep 22 12:50 : update: added /Jo_Bhi_Kasmein___Raaz___Bipasha_Basu___Dino_Morea___Udit_Narayan___Alka_Yagnik.mp3
+Sep 22 12:50 : update: added /Lamberghini_The_Doorbeen_Speed_Records.mp3
+Sep 22 12:50 : update: added /Awarapan 2007 - Tera Mera Rishta.mp3
+Sep 22 12:50 : update: added /Ajj Din Chadheya Love Aaj Kal 320 Kbps.mp3
+Sep 22 12:50 : update: added /03 Zaroorat - Ek Villain 320Kbps.mp3
+Sep 22 12:50 : update: added /Ghar More Pardesiya - Kalank.mp3
+Sep 22 12:50 : update: added /Zara-Zara.mp3
+Sep 22 12:50 : update: added /Bas Ek Kinng Singh Is Kinng 320 Kbps.mp3
+Sep 22 12:50 : update: added /03 - Dil Ka Rishta-(MyMp3Singer.com).mp3
+Sep 22 12:50 : update: added /___See_You_Again_ft__Charlie_Puth__Official_Video__Furious_7_Soundtrack.mp3
+Sep 22 12:50 : update: added /Bepanah Pyaar - Yasser Desai.mp3
+Sep 22 12:50 : update: added /In Dino (Reprise) - Roop Kumar Rathod, Pritam Chakraborty.mp3
+Sep 22 12:50 : update: added /Ek Aur Bismil - Haider - (2014) [SongsMp3.Com].mp3
+Sep 22 12:50 : update: added /Tu mile dil khile  HD - Kumar Sanu  Alka Yagnik.mp3
+Sep 22 12:50 : update: added /Chammak Challo Ra One 320 Kbps.mp3
+Sep 22 12:50 : update: added /Tu Jaane Na Ajab Prem Ki Ghazab Kahani 320 Kbps.mp3
+Sep 22 12:50 : update: added /Humko-Pyaar-Hua-Chal-Chale (SongsMp3.Com).mp3
+Sep 22 12:50 : update: added /Jee Karda Singh Is Kinng 320 Kbps.mp3
+Sep 22 12:50 : update: added /Alan_Walker___Diamond_Heart__Lyrics__ft__Sophia_Somajo.mp3
+Sep 22 12:50 : update: added /Saathiyaa Singham 320 Kbps.mp3
+Sep 22 12:50 : update: added /Rula Ke Gaya Ishq.mp3
+Sep 22 12:50 : update: added /Tera Fitoor (PagalWorld.co)_Arijit Singh (PagalWorld.co).mp3
+Sep 22 12:50 : update: added /Vishal Mishra - Kaise Hua.mp3
+Sep 22 12:50 : update: added /Guru Randhawa - Morni Banke.mp3
+Sep 22 12:50 : update: added /Phir Se Ud Chala Rockstar 320 Kbps.mp3
+Sep 22 12:50 : update: added /Mera Kuchh Samaan - Asha Bhosle.mp3
+Sep 22 12:50 : update: added /Mein Chali Mein Chali Dekho Pyar Ki Gali.mp3
+Sep 22 12:50 : update: added /Arunita____________Dil_Cheez_Kya_Hai___________Rekha_______Special_Gift___Indian_Idol_Season_12.mp3
+Sep 22 12:50 : update: added /Perfect__Official_Music_Video_.mp3
+Sep 22 12:50 : update: added /04 Awari - Ek Villain (PagalWorld.com) 320Kbps.mp3
+Sep 22 12:50 : update: added /02 - Allah Ke Bande Hansde-(MyMp3Singer.com).mp3
+Sep 22 12:50 : update: added /Tere Naina Chandni Chowk To China 320 Kbps.mp3
+Sep 22 12:50 : update: added /Imran_Khan_-_Satisfya_(Official_Music_Video)(128k).mp3
+Sep 22 12:50 : update: added /Salaam__Full_Song_Umrao_Jaan___Aishwarya_Rai.mp3
+Sep 22 12:50 : update: added /Salaam Aaya - Veer 320 Kbps.mp3
+Sep 22 12:50 : update: added /Kabir_Singh_Bekhayali_Shahid_Kapoor.mp3
+Sep 22 12:50 : update: added /Wo_lamhe_wo_baatein_atif_aslam(128k).mp3
+Sep 22 12:50 : update: added /Long Drive - Mika Singh.mp3
+Sep 22 12:50 : update: added /Chaudhary - Amit Trivedi feat Mame Khan, Coke Studio @ MTV Season 2-320k.mp3
+Sep 22 12:50 : update: added /Dhak Dhak Karne Laga - Udit Narayan.mp3
+Sep 22 12:50 : update: added /Maula_Mere_Maula__LoFi_Lyrics_AnwarTextaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /Tum_Jo_Aaye_.mp3
+Sep 22 12:50 : update: added /Jab Se Tere Naina Saawariya 320 Kbps.mp3
+Sep 22 12:50 : update: added /Kabhi Yaadon Mein Aaun - (amlijatt.in).mp3
+Sep 22 12:50 : update: added /05 Haal - E - Dil (Male) - Sanam Teri Kasam 190Kbps.mp3
+Sep 22 12:50 : update: added /The Killer - Teri Yaadon Mein.mp3
+Sep 22 12:50 : update: added /Aashiq Mujhe Aashiq - Roop Kumar Rathod, Alka Yagnik.mp3
+Sep 22 12:50 : update: added /Humnava_Mere_Song_Jubin_Nautiyal.mp3
+Sep 22 12:50 : update: added /01 Best of Bollywood 2018 Mashup - DJ Shadow Dubai X DJ Ansh.mp3
+Sep 22 12:50 : update: added /02 Jeena Jeena - Badlapur  Atif Aslam  190Kbps.mp3
+Sep 22 12:50 : update: added /Woh_Lamhe_Atif_Aslam_Emraan_Hashmi.mp3
+Sep 22 12:50 : update: added /Aye Khuda Paathshaala 320 Kbps.mp3
+Sep 22 12:50 : update: added /WL 2006 - Kya Mujhe Pyar Hai.mp3
+Sep 22 12:50 : update: added /Tum Jo Aaye Jindagi - Once Upon A Time In Mumbaai 320 Kbps.mp3
+Sep 22 12:50 : update: added /Aa Jao Meri Tamanna (Ajab Prem Ki Ghajab Kahani).mp3
+Sep 22 12:50 : update: added /Beete Lamhein The Train 320 Kbps.mp3
+Sep 22 12:50 : update: added /Lag_Jaa_Gale__LoFi.mp3
+Sep 22 12:50 : update: added /To Chaloon.mp3
+Sep 22 12:50 : update: added /DHARIA_Sugar_Brownies_by_Monoir_Official_Video_.mp3
+Sep 22 12:50 : update: added /Dil_De_Diya_Hai_Jaan_Tumhe_Denge_-_Unplugged_Cover___Rahul_Jain___Masti.mp3
+Sep 22 12:50 : update: added /Chunar (ABCD 2) Arijit Singh 190Kbps.mp3
+Sep 22 12:50 : update: added /Mera_Mann_Lo_fi_Nautanki_Saala_JAZ_Scape__Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /Love Aaj Kal Mashup - DJ Kiran Kamath.mp3
+Sep 22 12:50 : update: added /Te Amo Dum Maaro Dum 320 Kbps.mp3
+Sep 22 12:50 : update: added /04 - Ishq Chupta Nahi-(MyMp3Singer.com).mp3
+Sep 22 12:50 : update: added /Maula Mere Maula Anwar 320 Kbps.mp3
+Sep 22 12:50 : update: added /02 Apna Time Aayega - Gully Boy.mp3
+Sep 22 12:50 : update: added /02_-_Tere_Naina_Maar_Hi_Daalenge(PagalWorlds.in).mp3
+Sep 22 12:50 : update: added /02 Har Kasam Tod Di Aaj Tumne - Phir Bewafaai.mp3
+Sep 22 12:50 : update: added /Dil_Mein_Ho_Tum_Cover_WHY_CHEAT.mp3
+Sep 22 12:50 : update: added /Tum_Mile_Full_Video___Title_Track_Emraan_Hashmi_Soha_Ali_Pritam_Neeraj_Shridhar_Kumaar.mp3
+Sep 22 12:50 : update: added /03 Mera Pyar Tera Pyar - Jalebi.mp3
+Sep 22 12:50 : update: added /03 - Tu Ne Jo Na Kaha(MyMp3Song.mp3
+Sep 22 12:50 : update: added /02 Sapna Jahan (Brothers) 192Kbps.mp3
+Sep 22 12:50 : update: added /Vaada Hai Ye - Vaada 320 Kbps.mp3
+Sep 22 12:50 : update: added /Mahiya Awarapan 320 Kbps.mp3
+Sep 22 12:50 : update: added /Phir Bhi Dil Hai Hindustani.mp3
+Sep 22 12:50 : update: added /RAB_NA_KARE_KE_YE_ZINDAGI_KABHI_KISI_KO_DAGA_DE_[EXTENDED_VERSION]_1080P_3D_WITH.mp3
+Sep 22 12:50 : update: added /Na Ja - Official Music Video  Ayush Mishra.mp3
+Sep 22 12:50 : update: added /Aahun Aahun Love Aaj Kal 320 Kbps.mp3
+Sep 22 12:50 : update: added /Kisise Tum Pyaar Karo - Andaaz (2003) Full Video Song _HD_.mp3
+Sep 22 12:50 : update: added /Be_Intehaan_LoFi_Lyrics_Atif_Aslam.mp3
+Sep 22 12:50 : update: added /Tum Bin - Tum Bin 320 Kbps.mp3
+Sep 22 12:50 : update: added /Chal Wahan Jaate Hain (Arijit Singh) 320Kbps.mp3
+Sep 22 12:50 : update: added /04 - Mere Sohneya - Downloadming.SE.mp3
+Sep 22 12:50 : update: added /Bapu Zimidar - Jassi Gill - 320Kbps.mp3
+Sep 22 12:50 : update: added /Kabhi Kabhi Aditi Zindagi Jaane Tu.. Ya Jaane Na 320 Kbps.mp3
+Sep 22 12:50 : update: added /01 Bekhayali - Kabir Singh.mp3
+Sep 22 12:50 : update: added /08 Har Kisi Ko (Version 2) - Boss -PagalWorld.com-.mp3
+Sep 22 12:50 : update: added /06 - Kasam Kha Ke Kaho-(MyMp3Singer.com).mp3
+Sep 22 12:50 : update: added /Hume Tumse Pyaar Kitna - Female.mp3
+Sep 22 12:50 : update: added /01 Chak De India.mp3
+Sep 22 12:50 : update: added /Guru Randhawa - High Rated Gabru.mp3
+Sep 22 12:50 : update: added /Tu Hi Meri Shab Hai - Gangster 320Kbps.mp3
+Sep 22 12:50 : update: added /Live_Stream_.mp3
+Sep 22 12:50 : update: added /02 Tu Itni Khoobsurat Hai - Barkhaa  (Rahat Fateh Ali Khan) 320Kbps.mp3
+Sep 22 12:50 : update: added /Hume Tumse Pyaar Kitna - Title Song.mp3
+Sep 22 12:50 : update: added /Gulon Mein Rang Bhare - Haider - (2014) [SongsMp3.Com].mp3
+Sep 22 12:50 : update: added /Tere_Liye.mp3
+Sep 22 12:50 : update: added /Panchhi Nadiyan Pawan Ke Jhonke With Dialogue - Refugee 320 Kbps.mp3
+Sep 22 12:50 : update: added /Vele - Songs.pk - 320Kbps.mp3
+Sep 22 12:50 : update: added /01 - Tu Hi Rab Tu Hi Dua.mp3
+Sep 22 12:50 : update: added /Mangal Murti Ramdulare - Roop Kumar Rathod.mp3
+Sep 22 12:50 : update: added /Tera Mera Rishta Awarapan 320 Kbps.mp3
+Sep 22 12:50 : update: added /06 - Tumse Achcha Kaun Hai-(MyMp3Singer.com).mp3
+Sep 22 12:50 : update: added /Meri_Zindagi_Hai_Tu_Slowed_Reverb_Jubin_Nautiyal.mp3
+Sep 22 12:50 : update: added /Zaroori Tha.mp3
+Sep 22 12:50 : update: added /Kali Kali Zulfon Ke Phande Na Dalo - Ustad Nusrat Fateh Ali Khan - OSA Official HD.mp3
+Sep 22 12:50 : update: added /06 Haal - E - Dil (Female) - Sanam Teri Kasam (Neeti Mohan) 320Kbps.mp3
+Sep 22 12:50 : update: added /Unke Nashe Mein Shootout At Lokhandwala 320 Kbps.mp3
+Sep 22 12:50 : update: added /Memories_Lofi_Mashup_DJ_Harsh_Sharma.mp3
+Sep 22 12:50 : update: added /Kaise Mujhe Ghajini 320 Kbps.mp3
+Sep 22 12:50 : update: added /Kali Kali Zulfon Ke Phande Na Song Nusrat Fateh Ali Khan.mp3
+Sep 22 12:50 : update: added /High Rated Gabru.mp3
+Sep 22 12:50 : update: added /06 - Tujhe Yaad Na Meri Aayee-(MyMp3Singer.com).mp3
+Sep 22 12:50 : update: added /03_-_Manali_Trance(MyMp3Song.Com).mp3
+Sep 22 12:50 : update: added /01 Tu Jo Hain (Mr. X) Ankit Tiwari 190Kbps.mp3
+Sep 22 12:50 : update: added /Dil Leke Darde Dil Wanted 320 Kbps.mp3
+Sep 22 12:50 : update: added /Namaste London - Rafta Rafta.mp3
+Sep 22 12:50 : update: added /Mere Bina - Crook 320 Kbps.mp3
+Sep 22 12:50 : update: added English/EMINEM/23. 'Till I Collapse (feat. Nate Dogg).mp3
+Sep 22 12:50 : update: added English/EMINEM/16. Lock It Up (feat. Anderson .Paak).mp3
+Sep 22 12:50 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Sep 22 12:50 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Sep 22 12:50 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Sep 22 12:50 : update: added English/EMINEM/17 Under the Influence.flac
+Sep 22 12:50 : update: added English/EMINEM/29. Mockingbird.mp3
+Sep 22 12:50 : update: added English/EMINEM/11. Stepdad (Intro).mp3
+Sep 22 12:50 : update: added English/EMINEM/10. Yah Yah (feat. Royce Da 5'9', Black Thought, Q-Tip, and dEnAuN).mp3
+Sep 22 12:50 : update: added English/EMINEM/10. Kamikaze.mp3
+Sep 22 12:50 : update: added English/EMINEM/13. Marsh.mp3
+Sep 22 12:50 : update: added English/EMINEM/12. The Monster.mp3
+Sep 22 12:50 : update: added English/EMINEM/06. Em Calls Paul (Skit).mp3
+Sep 22 12:50 : update: added English/EMINEM/22. Killshot.mp3
+Sep 22 12:50 : update: added English/EMINEM/13. Venom (Music From the Motion Picture).mp3
+Sep 22 12:50 : update: added English/EMINEM/03. You Gon’ Learn (feat. Royce Da 5'9' and White Gold).mp3
+Sep 22 12:50 : update: added English/EMINEM/11. In Too Deep.mp3
+Sep 22 12:50 : update: added English/EMINEM/29. Renegade.mp3
+Sep 22 12:50 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Sep 22 12:50 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Sep 22 12:50 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Sep 22 12:50 : update: added English/EMINEM/10 I'm Back.flac
+Sep 22 12:50 : update: added English/EMINEM/32. Lucky You (feat. Joyner Lucas).mp3
+Sep 22 12:50 : update: added English/EMINEM/06. The Real Slim Shady.mp3
+Sep 22 12:50 : update: added English/EMINEM/30. Sing For The Moment.mp3
+Sep 22 12:50 : update: added English/EMINEM/07 The Way I Am.flac
+Sep 22 12:50 : update: added English/EMINEM/24. Fast Lane.mp3
+Sep 22 12:50 : update: added English/EMINEM/06. Lose Yourself.mp3
+Sep 22 12:50 : update: added English/EMINEM/11. Nice Guy (feat. Jessie Reyez).mp3
+Sep 22 12:50 : update: added English/EMINEM/15. Unaccommodating.mp3
+Sep 22 12:50 : update: added English/EMINEM/16. Cleanin Out My Closet.mp3
+Sep 22 12:50 : update: added English/EMINEM/19. I Will (feat. Kxng Crooked, Royce Da 5'9', and Joell Ortiz).mp3
+Sep 22 12:50 : update: added English/EMINEM/08. Darkness.mp3
+Sep 22 12:50 : update: added English/EMINEM/18. Guilty Conscience.mp3
+Sep 22 12:50 : update: added English/EMINEM/07. Without Me.mp3
+Sep 22 12:50 : update: added English/EMINEM/04. Berzerk.mp3
+Sep 22 12:50 : update: added English/EMINEM/05. River (feat. Ed Sheeran).mp3
+Sep 22 12:50 : update: added English/EMINEM/17. White America.mp3
+Sep 22 12:50 : update: added English/EMINEM/08 The Real Slim Shady.flac
+Sep 22 12:50 : update: added English/EMINEM/06. In Too Deep.mp3
+Sep 22 12:50 : update: added English/EMINEM/09. Fall.mp3
+Sep 22 12:50 : update: added English/EMINEM/17. Farewell.mp3
+Sep 22 12:50 : update: added English/EMINEM/18. My Name Is.mp3
+Sep 22 12:50 : update: added English/EMINEM/02. Greatest.mp3
+Sep 22 12:50 : update: added English/EMINEM/05. Normal.mp3
+Sep 22 12:50 : update: added English/EMINEM/13. Role Model.mp3
+Sep 22 12:50 : update: added English/EMINEM/14. Never Love Again.mp3
+Sep 22 12:50 : update: added English/EMINEM/12. Good Guy (feat. Jessie Reyez).mp3
+Sep 22 12:50 : update: added English/EMINEM/04. My Name Is.mp3
+Sep 22 12:50 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Sep 22 12:50 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Sep 22 12:50 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Sep 22 12:50 : update: added English/EMINEM/13 Drug Ballad.flac
+Sep 22 12:50 : update: added English/EMINEM/03. Lucky You (feat. Joyner Lucas).mp3
+Sep 22 12:50 : update: added English/EMINEM/22. Homicide.mp3
+Sep 22 12:50 : update: added English/EMINEM/25. 8 Mile (Soundtrack Version).mp3
+Sep 22 12:50 : update: added English/EMINEM/26. Brain Damage.mp3
+Sep 22 12:50 : update: added English/EMINEM/03. Godzilla.mp3
+Sep 22 12:50 : update: added English/EMINEM/08. Venom.mp3
+Sep 22 12:50 : update: added English/EMINEM/12. Stepdad.mp3
+Sep 22 12:50 : update: added English/EMINEM/01. The Ringer.mp3
+Sep 22 12:50 : update: added English/EMINEM/01. 8 Mile.mp3
+Sep 22 12:50 : update: added English/EMINEM/08. No Regrets.mp3
+Sep 22 12:50 : update: added English/EMINEM/15. Brain Damage.mp3
+Sep 22 12:50 : update: added English/EMINEM/26. No Love (feat. Lil Wayne).mp3
+Sep 22 12:50 : update: added English/EMINEM/15 Bitch Please II.flac
+Sep 22 12:50 : update: added English/EMINEM/21. Berzerk.mp3
+Sep 22 12:50 : update: added English/EMINEM/31. The Monster (feat. Rihanna).mp3
+Sep 22 12:50 : update: added English/EMINEM/20. Not Afraid.mp3
+Sep 22 12:50 : update: added English/EMINEM/24. Without Me.mp3
+Sep 22 12:50 : update: added English/EMINEM/10. Walk On Water (feat. Beyoncé).mp3
+Sep 22 12:50 : update: added English/EMINEM/02. Unaccommodating (feat. Young M.A).mp3
+Sep 22 12:50 : update: added English/EMINEM/11. Forgot About Dre (feat. Dr. Dre).mp3
+Sep 22 12:50 : update: added English/EMINEM/27. The Real Slim Shady.mp3
+Sep 22 12:50 : update: added English/EMINEM/07. Stepping Stone.mp3
+Sep 22 12:50 : update: added English/EMINEM/28. Just Don't Give A Fuck.mp3
+Sep 22 12:50 : update: added English/EMINEM/01. Darkness.mp3
+Sep 22 12:50 : update: added English/EMINEM/18 Criminal.flac
+Sep 22 12:50 : update: added English/EMINEM/16 Kim.flac
+Sep 22 12:50 : update: added English/EMINEM/14. River (feat. Ed Sheeran).mp3
+Sep 22 12:50 : update: added English/EMINEM/30. Hailie's Song.mp3
+Sep 22 12:50 : update: added English/EMINEM/03 Stan.flac
+Sep 22 12:50 : update: added English/EMINEM/25. Fall.mp3
+Sep 22 12:50 : update: added English/EMINEM/21. Untouchable.mp3
+Sep 22 12:50 : update: added English/EMINEM/09. Stan (feat. Dido).mp3
+Sep 22 12:50 : update: added English/EMINEM/09. Leaving Heaven (feat. Skylar Grey).mp3
+Sep 22 12:50 : update: added English/EMINEM/18. No Regrets (feat. Don Toliver).mp3
+Sep 22 12:50 : update: added English/EMINEM/19. The Way I Am.mp3
+Sep 22 12:50 : update: added English/EMINEM/07. Godzilla (feat. Juice WRLD).mp3
+Sep 22 12:50 : update: added English/EMINEM/05. Love The Way You Lie (feat. Rihanna).mp3
+Sep 22 12:50 : update: added English/EMINEM/08. Not Alike (feat. Royce da 5'9_).mp3
+Sep 22 12:50 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Sep 22 12:50 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Sep 22 12:50 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Sep 22 12:50 : update: added English/EMINEM/11 Marshall Mathers.flac
+Sep 22 12:50 : update: added English/EMINEM/15. Little Engine.mp3
+Sep 22 12:50 : update: added English/EMINEM/Eminem_-_Higher_Emvidowealth.com.mp3
+Sep 22 12:50 : update: added English/EMINEM/03. Just Lose It.mp3
+Sep 22 12:50 : update: added English/EMINEM/02. Lose Yourself.mp3
+Sep 22 12:50 : update: added English/EMINEM/05. Those Kinda Nights (feat. Ed Sheeran).mp3
+Sep 22 12:50 : update: added English/EMINEM/20. Role Model.mp3
+Sep 22 12:50 : update: added English/EMINEM/04. Paul (Skit).mp3
+Sep 22 12:50 : update: added English/EMINEM/12. Rap God.mp3
+Sep 22 12:50 : update: added English/EMINEM/07. Guilty Conscience (feat. Dr. Dre).mp3
+Sep 22 12:50 : update: added English/EMINEM/02. Kamikaze.mp3
+Sep 22 12:50 : update: added English/Adele - Rolling in the Deep.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/44. Simple Minds - Don't You (Forget About Me).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/22. The Weeknd, Kendrick Lamar - Pray For Me.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/65. Roxette - It Must Have Been Love (From.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/42. Bonnie Tyler - Holding Out For A Hero.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/79. The 5.6.7.8's - Woo Hoo.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/51. Dick Dale & the Del-Tones - Misirlou.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/48. Randy Newman - You've Got a Friend in Me.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/98. Glenn Frey - The Heat Is On (From "Beverly Hills Cop" Soundtrack).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/54. Barbra Streisand - The Way We Were.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/11. Keala Settle, The Greatest Showman Ensemble - This Is Me.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/18. Bryan Adams - (Everything I Do) I Do It For You.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/33. Bruce Springsteen - Streets of Philadelphia (Single Edit).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/78. Little Richard - Long Tall Sally.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/71. Donna Summer - Hot Stuff (Single Version).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/07. Whitney Houston - I Will Always Love You.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/59. Pharrell Williams - Happy.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/14. Steppenwolf - Born To Be Wild (Single Version).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/24. Ray Parker Jr. - Ghostbusters.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/73. David Bowie - Magic Dance (7" Version).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/100. Pixies - Where Is My Mind?.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/43. Duran Duran - A View to a Kill.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/27. The Righteous Brothers - Unchained Melody.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/35. Public Enemy - Fight The Power.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/06. Bill Medley, Jennifer Warnes - (I've Had) The Time of My Life.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/17. Billy Ocean - When the Going Gets Tough, The Tough Get Going.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/64. Tina Turner - We Don't Need Another Hero (Thunderdome).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/36. Isaac Hayes - Theme From "Shaft".mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/60. Tegan and Sara, The Lonely Island - Everything Is AWESOME!!! (feat. The Lonely Island).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/56. Jon Bon Jovi - Blaze Of Glory (From "Young Guns II" Soundtrack).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/23. Harold Faltermeyer - Axel F (From "Beverly Hills Cop" Soundtrack).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/49. Louis Prima, Phil Harris, Bruce Reitherman - I Wan'na Be Like You (The Monkey Song).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/29. Carly Simon - Nobody Does It Better.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/34. Coolio, L.V. - Gangsta's Paradise (feat. L.V.).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/61. Underworld - Born Slippy (Nuxx).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/03. John Travolta, Olivia Newton-John - You're The One That I Want (From “Grease”).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/72. Common & John Legend - Glory (From the Motion Picture Selma).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/74. UB40 - (I Can't Help) Falling In Love With You.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/46. Aerosmith - I Don't Want to Miss a Thing (From "Armageddon" Soundtrack).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/52. The Beatles - Help! (Remastered 2009).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/32. Bjork and David Arnold - Play Dead.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/45. Starship - Nothing's Gonna Stop Us Now.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/21. Eminem - Lose Yourself (Soundtrack Version).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/77. Elvis Presley - Jailhouse Rock.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/25. Cyndi Lauper - The Goonies 'r' Good Enough (From "The Goonies" Soundtrack).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/76. George Baker Selection - Little Green Bag (Single Edit).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/53. Burt Bacharach, The Duo - Raindrops Keep Fallin' On My Head.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/39. Harry Nilsson - Everybody's Talkin'.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/63. Tears for Fears - Everybody Wants To Rule The World.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/02. Kenny Loggins - Footloose (From "Footloose").mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/15. Survivor - Eye of the Tiger.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/67. Gary Jules - Mad World.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/05. Bee Gees - Stayin' Alive (From "Saturday Night Fever" Soundtrack).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/69. Guns N' Roses - You Could Be Mine.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/70. Kenny Loggins - Danger Zone (From "Top Gun" Original Soundtrack).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/40. Stealers Wheel - Stuck In The Middle With You.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/10. Elton John - Circle of Life.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/62. The Cardigans - Lovefool.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/57. Joe Cocker - You Can Leave Your Hat On.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/26. Berlin - Take My Breath Away.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/41. Iggy Pop - Lust For Life.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/81. The Beach Boys - Kokomo.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/80. Los Lobos - La Bamba.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/50. Roy Orbison - Oh, Pretty Woman.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/13. Paul McCartney & Wings - Live And Let Die.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/58. Christina Aguilera, Lil' Kim, Mýa, P!nk - Lady Marmalade (From "Moulin Rouge" Soundtrack).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/55. Bette Midler - Wind Beneath My Wings.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/66. Madonna - Don't Cry for Me Argentina.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/09. Idina Menzel - Let It Go (From "Frozen"-Soundtrack Version).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/75. Philip Oakey, Giorgio Moroder - Together In Electric Dreams (Remastered - From "Electric Dreams" Original Motion Picture Soundtrack).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/28. Dusty Springfield - Son Of A Preacher Man.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/37. Bobby Womack - Across 110th Street.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/38. Ben E. King - Stand By Me.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/20. Destiny's Child - Independent Women, Pt. I (#1's Edit).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/30. R. Kelly - I Believe I Can Fly.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/08. Ryan Gosling, Emma Stone - City Of Stars (From "La La Land" Soundtrack).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/01. Huey Lewis And The News - The Power Of Love.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/47. Christina Perri - A Thousand Years.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/99. Kavinsky - Nightcall.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/04. Simon & Garfunkel - Mrs. Robinson (Single Mix).mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/12. Dolly Parton - 9 to 5.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/31. Adele - Skyfall.mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/68. Ellie Goulding - Love Me Like You Do (From "Fifty Shades Of Grey").mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/19. James Horner, Céline Dion - My Heart Will Go On (Love Theme from "Titanic").mp3
+Sep 22 12:50 : update: added English/VA - 100 Greatest Songs from the Movies (2021) Mp3 320kbps [PMEDIA] ⭐️/16. Irene Cara - Fame.mp3
+Sep 22 12:50 : update: added English/Adele - Set Fire To The Rain (Live at The Royal Albert Hall).mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/04. Justin Bieber - What Do You Mean_.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/06. Avicii - Wake Me Up (Radio Edit).mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/09. Mike Posner - I Took A Pill In Ibiza (Seeb Remix).mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/25. Justin Bieber - Sorry.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/14. will.i.am - Scream & Shout (feat. Britney Spears).mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/26. Maroon 5 - Girls Like You (feat. Cardi B).mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/05. Psy - Gangnam Style (강남스타일).mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/42. Psy - Gentleman.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/39. Angèle - Balance ton quoi.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/12. Mabel - Don't Call Me Up.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/43. Anna Kendrick - Cups (Pitch Perfect’s “When I’m Gone”) (Pop Version).mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/31. Swedish House Mafia - One (Your Name) (Radio Edit) (feat. Pharrell Williams).mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/11. Taio Cruz - Break Your Heart.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/23. Ellie Goulding - Burn.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/24. Jessie J - Price Tag (feat. B.o.B).mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/34. Marshmello - Happier.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/22. Jonas Brothers - Sucker.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/08. Imagine Dragons - On Top Of The World.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/29. Kiesza - Hideaway.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/40. Iggy Azalea - Black Widow (feat. RITA ORA).mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/33. Hooverphonic - Romantic.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/30. Kungs - This Girl (Kungs Vs. Cookin' On 3 Burners).mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/32. Emeli Sandé - Next To Me.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/37. Jax Jones - You Don't Know Me (Radio Edit).mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/01. Luis Fonsi - Despacito.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/10. Robin Thicke - Blurred Lines (Physical Version) (feat. T.I. & Pharrell Williams).mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/41. Far East Movement - Like A G6 (feat. The Cataracs & Dev).mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/03. Shawn Mendes - There's Nothing Holdin' Me Back.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/20. OneRepublic - Counting Stars.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/13. Jennifer Lopez - On The Floor (Radio Edit) (feat. Pitbull).mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/46. Tourist LeMC - Horizon (feat. Wally).mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/21. John Newman - Love Me Again.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/16. Black Eyed Peas - The Time (Dirty Bit).mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/19. Lorde - Royals.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/02. Maroon 5 - Sugar.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/07. Lady Gaga - Born This Way.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/35. Years & Years - Breathe.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/28. Felix Jaehn - Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson).mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/44. Ellie Goulding - Lights (Single Version).mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/17. DJ Snake - Let Me Love You (feat. Justin Bieber).mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/45. Major Lazer - Lean On (feat. DJ Snake & MØ).mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/38. Capital Cities - Safe And Sound.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/36. Bastille - Pompeii.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/18. DNCE - Cake By The Ocean.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/27. Stromae - Papaoutai.mp3
+Sep 22 12:50 : update: added English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/15. LMFAO - Sexy And I Know It.mp3
+Sep 22 12:50 : update: added English/[MP3DOWNLOAD.TO] Ed Sheeran - Photograph • Me Before You-320k.mp3
+Sep 22 12:50 : update: added English/Adele - I Can't Make You Love Me (Live) Itunes Festival 2011 HD.mp3
+Sep 22 12:50 : update: added English/Let-Me-Down-Slowly_320(PaglaSongs).mp3
+Sep 22 12:50 : update: added /Ranjha__Lo_fi___Shershaah___HIMANXU_Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /Tum Ho - Rockstar 320 Kbps.mp3
+Sep 22 12:50 : update: added /Pehli Baar Dil Ye - Hum Ho Gaye Aap Ke - 320Kbps.mp3
+Sep 22 12:50 : update: added /Tere_Hi_Hum_Lo_fi_Prateek_Kuhad_Lost_In_Vibes_Flip_Textaudio_Lyrics.mp3
+Sep 22 12:50 : update: added /02 Tujhe Kitna Chahne Lage - Kabir Singh.mp3
+Sep 22 12:50 : update: added /Mauja Hi Mauja Jab We Met 320 Kbps.mp3
+Sep 22 12:50 : update: added /Khwab Dekhe Sexy Lady Race 320 Kbps.mp3
+Sep 22 12:50 : update: added /Gali Mein Aaj Chand - (amlijatt.in).mp3
+Sep 22 12:50 : update: added /Zara_Zara__Lofi.mp3
+Sep 22 12:50 : update: added /03. Tere Bina Zindagi Se Koi Shikwa.mp3
+Sep 22 12:50 : update: added /Yeh Dhuan Dhuan - Roop Kumar Rathod, Shreya Ghoshal.mp3
+Sep 22 12:50 : update: added /Dil_Chahte_Ho__Jubin_Nautiyal,_Mandy_Takhar__Payal_Dev,__A.M.Turaz__Navjit_Buttar__Bhushan_Kumar(128k).mp3
+Sep 22 12:50 : update: added /Javed-Mohsin - Pal.mp3
+Sep 22 12:50 : update: added /Bhool Bhulaiyaa Pritam 320 Kbps.mp3
+Sep 22 12:50 : update: added /Midnight_Memories_Mashup_2021_Slowed_Reverb_Mashup__.mp3
+Sep 22 12:50 : update: added /Umrao Jaan-Mein Na Mil.mp3
+Sep 22 12:50 : update: added /Imran_Khan_-_Amplifier_(Official_Music_Video)(128k).mp3
+Sep 22 18:02 : update: removing Bhakti/Aarti_Ambe_Tu_Hai_Jagdambe_Kali_With_Lyrics_By_Anuradha_Paudwal.m4a
+Sep 22 18:02 : update: removing Bhakti/पाचौई__सम्पूर्ण_रामायण__Ravi_Rae.m4a
+Sep 22 18:02 : update: removing Bhakti/Sukh_Karta_Dukh_Harta__Ganpati_Aarti__Sukhkarta_Dukhharta.m4a
+Sep 22 18:02 : update: removing Bhakti/Shyam_Teri_Bansi__Very_Beautiful.m4a
+Sep 22 18:02 : update: removing Bhakti/Shri_Ram_Chandra_Kripalu_with_Lyrics.m4a
+Sep 22 18:02 : update: removing Bhakti/Shree_Krishna_Govind_Hare_Murari__Krishna_Bhajan__Maanya_Arora.mp3
+Sep 22 18:02 : update: removing Bhakti/Sawali_Surat_pe_dil_Mohan128k.m4a
+Sep 22 18:02 : update: removing Bhakti/Saraswati_Mata_Aarti_.m4a
+Sep 22 18:02 : update: removing Bhakti/Ram_Amritwani_By_Anuradha_Paudwal_Full_Audio_Song_Juke_Box128k.m4a
+Sep 22 18:02 : update: removing Bhakti/RADHE_RADHE_BARSANE_WALI.m4a
+Sep 22 18:02 : update: removing Bhakti/Radhe_Krishna_Ki_Jyoti_Alaukik_ll_Best_Krishna_Bhajan(128k).m4a
+Sep 22 18:02 : update: removing Bhakti/Mata_Laxmi_Aarti_in_Hindi__Om_Jai_Laxmi_Mata.m4a
+Sep 22 18:02 : update: removing Bhakti/KARMA_YOGA_CONVERSATION_OF_KRISHNA_&_ARJUN.m4a
+Sep 22 18:02 : update: removing Bhakti/Kabir_Amritwani,Debashish.mp3
+Sep 22 18:02 : update: removing Bhakti/Kabhi_Ram_Banke_Kabhi_Shyam_Banke_I.m4a
+Sep 22 18:02 : update: removing Bhakti/Jai_Santoshi_Mata_Aarti_By_Anuradha_Paudwal_Full_Video_Song_Aartiyan128k.m4a
+Sep 22 18:02 : update: removing Bhakti/Jai_Jai_Mansa_Mata_I_Mansa_Devi_Aarti_I_SHIVANI_CHANANA_I_Full_HD.m4a
+Sep 22 18:02 : update: removing Bhakti/Jai_Ambe_Gauri_[Full_Song]_-_Aartiyan(128k).m4a
+Sep 22 18:02 : update: removing Bhakti/Hum_Katha_Sunate_Lyrical_Video128k.m4a
+Sep 22 18:02 : update: removing Bhakti/Hey_Dukh_Bhanjan_Maruti.m4a
+Sep 22 18:02 : update: removing Bhakti/Hanuman_Ji_Aarti_Aarti_Keejei_Hanuman_Lala.m4a
+Sep 22 18:02 : update: removing Bhakti/Hanuman_Chalisa__Hanuman_Da_Damdaar__Sneha_Pandit,Taher_Shabbir128k.m4a
+Sep 22 18:02 : update: removing Bhakti/Gayatri_Mantra_108_times_Anuradha_Paudwal_I_Full_Audio_Song_I_T.m4a
+Sep 22 18:02 : update: removing Bhakti/Durga_Amritwani_By_Anuradha_Paudwal_I_Audio_Song_Juke_Box128k.m4a
+Sep 22 18:02 : update: removing Bhakti/Duniya_Rachne_Wale_Ko,_Ram_Na_Milenge_Hanuman.m4a
+Sep 22 18:02 : update: removing Bhakti/Bhor_Bhai_Din_Chad_Gaya_Meri_Ambe_Ambe_Maa_Aarti__Mata_Ki_Aarti.m4a
+Sep 22 18:02 : update: removing Bhakti/Anjali_Jain,_Vandana.m4a
+Sep 22 18:02 : update: removing Bhakti/Ambe_Tu_Hai_Jagdambe_Kali__काली_माँ.m4a
+Sep 22 18:03 : update: removing English/EMINEM/10 I'm Back.flac
+Sep 22 18:03 : update: removing English/EMINEM/17 Under the Influence.flac
+Sep 22 18:03 : update: removing English/EMINEM/01. Darkness.mp3
+Sep 22 18:03 : update: removing English/EMINEM/29. Renegade.mp3
+Sep 22 18:03 : update: removing English/EMINEM/16 Kim.flac
+Sep 22 18:03 : update: removing English/EMINEM/18 Criminal.flac
+Sep 22 18:03 : update: removing English/EMINEM/09. Leaving Heaven (feat. Skylar Grey).mp3
+Sep 23 16:20 : config: option 'device' on line 15 was not recognized
+Sep 23 16:20 : exception: Failed to open /home/akshay/.config/mpd/playlists: No such file or directory
+Sep 23 16:40 : exception: Failed to open /home/akshay/.config/mpd/playlists: No such file or directory
+Sep 23 16:40 : player: played "___Justin_Bieber___I_Don_t_Care__Official_Lyric_Video_.mp3"
+Sep 23 16:41 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Sep 23 16:41 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Sep 23 16:41 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Sep 23 16:41 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Sep 23 16:41 : player: played "Matargashti.mp3"
+Sep 29 17:44 : config: option 'device' on line 15 was not recognized
+Sep 29 17:50 : player: played "Matargashti.mp3"
+Sep 29 17:52 : exception: Failed to open /home/akshay/.config/mpd/playlists: No such file or directory
+Sep 29 17:56 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/02. Maroon 5 - Sugar.mp3"
+Sep 29 17:59 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/03. Shawn Mendes - There's Nothing Holdin' Me Back.mp3"
+Sep 29 18:03 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/03. Shawn Mendes - There's Nothing Holdin' Me Back.mp3"
+Sep 29 18:07 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/03. Shawn Mendes - There's Nothing Holdin' Me Back.mp3"
+Sep 29 18:10 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/04. Justin Bieber - What Do You Mean_.mp3"
+Sep 29 18:14 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/05. Psy - Gangnam Style (강남스타일).mp3"
+Sep 29 18:14 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/06. Avicii - Wake Me Up (Radio Edit).mp3"
+Sep 30 01:48 : config: option 'device' on line 15 was not recognized
+Sep 30 01:52 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/06. Avicii - Wake Me Up (Radio Edit).mp3"
+Sep 30 01:57 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/07. Lady Gaga - Born This Way.mp3"
+Sep 30 01:57 : output: Failed to play on "pulse audio" (pulse): suspended
+Sep 30 01:59 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/08. Imagine Dragons - On Top Of The World.mp3"
+Sep 30 02:03 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/09. Mike Posner - I Took A Pill In Ibiza (Seeb Remix).mp3"
+Sep 30 02:07 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/10. Robin Thicke - Blurred Lines (Physical Version) (feat. T.I. & Pharrell Williams).mp3"
+Sep 30 09:34 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/11. Taio Cruz - Break Your Heart.mp3"
+Sep 30 09:37 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/12. Mabel - Don't Call Me Up.mp3"
+Sep 30 09:40 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/13. Jennifer Lopez - On The Floor (Radio Edit) (feat. Pitbull).mp3"
+Sep 30 09:45 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/14. will.i.am - Scream & Shout (feat. Britney Spears).mp3"
+Sep 30 09:49 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/15. LMFAO - Sexy And I Know It.mp3"
+Sep 30 09:54 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/16. Black Eyed Peas - The Time (Dirty Bit).mp3"
+Sep 30 09:57 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/17. DJ Snake - Let Me Love You (feat. Justin Bieber).mp3"
+Sep 30 10:01 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/18. DNCE - Cake By The Ocean.mp3"
+Sep 30 10:04 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/19. Lorde - Royals.mp3"
+Sep 30 10:08 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/20. OneRepublic - Counting Stars.mp3"
+Sep 30 10:13 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/21. John Newman - Love Me Again.mp3"
+Sep 30 10:16 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/22. Jonas Brothers - Sucker.mp3"
+Sep 30 10:19 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/23. Ellie Goulding - Burn.mp3"
+Sep 30 10:23 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/24. Jessie J - Price Tag (feat. B.o.B).mp3"
+Sep 30 10:26 : output: Failed to play on "pulse audio" (pulse): suspended
+Sep 30 10:26 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/25. Justin Bieber - Sorry.mp3"
+Sep 30 10:29 : output: Failed to play on "pulse audio" (pulse): suspended
+Sep 30 10:30 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/26. Maroon 5 - Girls Like You (feat. Cardi B).mp3"
+Sep 30 10:34 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/27. Stromae - Papaoutai.mp3"
+Sep 30 10:37 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/28. Felix Jaehn - Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson).mp3"
+Sep 30 10:42 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/29. Kiesza - Hideaway.mp3"
+Sep 30 10:45 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/30. Kungs - This Girl (Kungs Vs. Cookin' On 3 Burners).mp3"
+Sep 30 10:47 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/31. Swedish House Mafia - One (Your Name) (Radio Edit) (feat. Pharrell Williams).mp3"
+Sep 30 10:51 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/32. Emeli Sandé - Next To Me.mp3"
+Sep 30 10:54 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/33. Hooverphonic - Romantic.mp3"
+Sep 30 10:58 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/34. Marshmello - Happier.mp3"
+Sep 30 11:01 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/35. Years & Years - Breathe.mp3"
+Sep 30 11:05 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/36. Bastille - Pompeii.mp3"
+Sep 30 11:09 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/37. Jax Jones - You Don't Know Me (Radio Edit).mp3"
+Sep 30 11:12 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/38. Capital Cities - Safe And Sound.mp3"
+Sep 30 11:15 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/39. Angèle - Balance ton quoi.mp3"
+Sep 30 11:19 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/40. Iggy Azalea - Black Widow (feat. RITA ORA).mp3"
+Sep 30 11:22 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/41. Far East Movement - Like A G6 (feat. The Cataracs & Dev).mp3"
+Sep 30 11:25 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/42. Psy - Gentleman.mp3"
+Sep 30 11:28 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/43. Anna Kendrick - Cups (Pitch Perfect’s “When I’m Gone”) (Pop Version).mp3"
+Sep 30 11:31 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/44. Ellie Goulding - Lights (Single Version).mp3"
+Sep 30 11:34 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/45. Major Lazer - Lean On (feat. DJ Snake & MØ).mp3"
+Sep 30 11:38 : player: played "English/Various Artists - Best of 10s (2021) Mp3 320kbps [PMEDIA] ⭐️/46. Tourist LeMC - Horizon (feat. Wally).mp3"
+Sep 30 11:41 : player: played "SpotiFlyer/Mood_off/DHARIA___Sugar___Brownies__by_Monoir___Official_Video_.mp3"
+Sep 30 11:44 : player: played "SpotiFlyer/Mood_off/Serhat_Durmus___La_C_lin__Obiymy_.mp3"
+Sep 30 11:47 : player: played "arash-broken-angel-feat-helena-full-english-version-lyrics.mp3"
+Sep 30 11:53 : player: played "Arunita____________Dil_Cheez_Kya_Hai___________Rekha_______Special_Gift___Indian_Idol_Season_12.mp3"
+Sep 30 11:59 : player: played "aye_mere_watan_ke_logo.mp3"
+Sep 30 12:05 : player: played "Aye-dil aye-dil.mp3"
+Sep 30 12:08 : player: played "Baarish__LoFi___Lyrics___Cryptic___Textaudio_Lyrics.mp3"
+Sep 30 12:11 : player: played "Baarish_Lete_Aana_Lofi.mp3"
+Sep 30 12:14 : player: played "Baarish_LoFi_Lyrics_Cryptic_Textaudio_Lyrics.mp3"
+Sep 30 12:17 : player: played "Baarish_Reverb_Iss_darde_dil_ki_sifarish.mp3"
+Sep 30 12:22 : player: played "Balam_Pichkari.mp3"
+Sep 30 12:24 : player: played "Bawara_Mann_Jubin_Nautiyal_Neeti_Mohan.mp3"
+Sep 30 12:27 : player: played "Be_Intehaan_LoFi_Lyrics_Atif_Aslam.mp3"
+Sep 30 12:28 : player: played "Call_center_funny_diloge_with_baranasi_chacha.mp3"
+Sep 30 12:35 : player: played "Chaudhary - Amit Trivedi feat Mame Khan, Coke Studio @ MTV Season 2-320k.mp3"
+Sep 30 12:41 : player: played "Deewani_Mastani_Full_Video_Song___Bajirao_Mastani.mp3"
+Sep 30 12:46 : player: played "Des Rangila.mp3"
+Sep 30 12:49 : player: played "DHARIA_Sugar_Brownies_by_Monoir_Official_Video_.mp3"
+Sep 30 12:53 : player: played "Diamond_Heart__feat__Sophia_Somajo_.mp3"
+Sep 30 12:58 : player: played "Dil_Chahte_Ho__Jubin_Nautiyal,_Mandy_Takhar__Payal_Dev,__A.M.Turaz__Navjit_Buttar__Bhushan_Kumar(128k).mp3"
+Sep 30 13:04 : player: played "Dil_Chura_Liya___4K_Video___Ajay_Devgan___Neha_Dhupia___Qayamat___90_s_Bollywood_Romantic_Songs.mp3"
+Sep 30 13:10 : player: played "Dil_Chura_Liya_Qayamat.mp3"
+Sep 30 13:13 : player: played "Dil_De_Diya_Hai_Jaan_Tumhe_Denge_-_Unplugged_Cover___Rahul_Jain___Masti.mp3"
+Sep 30 13:19 : player: played "Dil_Ibaadat_Slowed_KK.mp3"
+Sep 30 14:05 : player: played "Dil_Ka_Kya_Karein_Saaheb___Jeet_Songs__HD____Tabu___Sunny_Deol___Kavita_Krishnamurthy.mp3"
+Sep 30 14:12 : player: played "Dil_Ka_Kya_Karein_Saaheb_Jeet_Songs.mp3"
+Sep 30 14:18 : player: played "Dil_Ka_Rishta_Lyrical_-_Dil_Ka_Rishta__Aishwariya_Rai,_Arjun_Rampal,_Priyanshu__Alka,_Udit,_Kumar(256k).mp3"
+Sep 30 14:21 : player: played "Dil_Mein_Ho_Tum_Cover_WHY_CHEAT.mp3"
+Sep 30 14:26 : player: played "Dil_Mera_Chahe__Full_Song____Nafe_Khan___Sumi___Manish___Hindi_Song_2017___.mp3"
+Sep 30 14:32 : player: played "Dil_Mera_Chahe_2017___.mp3"
+Sep 30 14:36 : player: played "Dil_Tod_ke_Jane_Wale_kk_Ishq_Ke_Parindey.mp3"
+Sep 30 14:38 : player: played "Duniyaa_Lofi_Akhil_GOURAV.mp3"
+Sep 30 14:42 : player: played "Ek_Ajnabee_Haseena_Se_Kya_Hua_Tera_Wada.mp3"
+Sep 30 14:47 : player: played "Ek_Radha_Ek_Meera___Mujra___Mandakini_Rajiv_Kapoor___Ram_Teri_Ganga_Maili___Bollywood_Love_Songs_HD.mp3"
+Sep 30 14:50 : player: played "Faded.mp3"
+Sep 30 14:55 : player: played "funniest_skit_on_college_life.mp3"
+Sep 30 15:00 : player: played "Gali_Mein_Aaj_Chand_Nikla___Full_HD_Audio___Alka_Yagnik___Zakhm___Evergreen_Romantic_Songs.mp3"
+Sep 30 15:05 : player: played "Ghagra.mp3"
+Sep 30 17:14 : player: played "Remembering Lata Mangeshkar.mp3"
+Sep 30 17:19 : player: played "Saans_-_Full_Song__Jab_Tak_Hai_Jaan__Shah_Rukh_Khan__Katrina_Kaif__Shreya_Ghoshal__A._R._Rahman(256k).mp3"
+Sep 30 17:23 : player: played "Sabrina_Carpenter_Farruko__On_My_Way.mp3"
+Sep 30 17:28 : player: played "Sajde___Full_Song_Kill_Dil_Ranveer_Pr_Ehsaan_Loy__Gulzar.mp3"
+Sep 30 17:33 : player: played "Salaam__Full_Song_Umrao_Jaan___Aishwarya_Rai.mp3"
+Sep 30 17:37 : player: played "Sawan_Aaya_Hai_FULL_VIDEO_Song__Arijit_Singh__Bipasha_Basu__Imran_Abbas_Naqvi(256k).mp3"
+Sep 30 17:41 : player: played "See_You_Again_ft__Charlie_Puth__Official_Video__Furious_7_Soundtrack.mp3"
+Sep 30 17:43 : player: played "Serhat_Durmus_La_C_lin_Obiymy_.mp3"
+Sep 30 17:47 : player: played "Set Fire to the Rain.mp3"
+Sep 30 17:51 : player: played "Sham__LoFi_Remake__Aisha___JAZ_Scape_Textaudio_Lyrics.mp3"
+Sep 30 17:54 : player: played "Sham_LoFi_Remake_Aisha_JAZ_Scape_Textaudio_Lyrics.mp3"
+Sep 30 17:59 : player: played "Sohnea__Full_Song_Miss_Pooja_Feat__Millind_Gaba___Latest_Punjabi_Songs_2017___.mp3"
+Sep 30 18:01 : player: played "Subhanallah_Lofi_Textaudio_Lyrics.mp3"
+Sep 30 18:05 : player: played "Sun_meri_shehzadi_Slowed_Down_Reverb_Saaton_Janam_Mein_Tere____Night_Song.mp3"
+Sep 30 18:10 : player: played "Sun_Saiba_Sun___Mandakini___Rajiv_Kapoor___Ram_Teri_Ganga_Maili___Bollywood_Hit_Love_Songs__HD_.mp3"
+Sep 30 18:11 : output: Failed to play on "pulse audio" (pulse): suspended
+Sep 30 19:00 : player: played "Suraj_Hua_Maddham_Full_Video_-_K3GShah_Rukh_Khan,_Kajol_Sonu_Nigam,_Alka_Yagnik(256k).mp3"
+Sep 30 19:04 : player: played "Tera_Chehra_Official_Video_Song_Sanam_Teri_Kasam___Harshvardhan__Mawra___Arijit_Singh__Himesh.mp3"
+Sep 30 19:06 : player: played "Tere_Bina__Lofi_Lyrics_A_R_Rahman_Harrlin_Flip_Textaudio_Lyrics.mp3"
+Sep 30 19:09 : player: played "Tere_Hi_Hum_Lo_fi_Prateek_Kuhad_Lost_In_Vibes_Flip_Textaudio_Lyrics.mp3"
+Sep 30 19:14 : player: played "Tere_Liye.mp3"
+Sep 30 19:21 : player: played "Teri_Galliyan___Slowed_Down___Reverb___Ek_Villain___Night_Songs__Asthetic___RouteScale.mp3"
+Sep 30 19:27 : player: played "Teri_Galliyan_Slowed_Down_Reverb.mp3"
+Sep 30 19:30 : output: Failed to play on "pulse audio" (pulse): suspended
+Sep 30 19:30 : player: played "Teri_Mitti.mp3"
+Oct 13 05:31 : config: option 'device' on line 15 was not recognized
+Oct 13 05:36 : player: played "Teri_Mitti.mp3"
+Oct 13 05:41 : player: played "The Breakup Mashup 2  DJ Mans  Sunix Thakor.mp3"
+Oct 13 05:47 : player: played "The_Love_Mashup__TERE_BIN_SAKHIYAAN_DARIYAA_ZAALIMA_QAAFIRANA_TERI_ORE_____SAURABH_KALSI.mp3"
+Oct 13 05:52 : player: played "The_Love_Mashup_TERE_BINSAKHIYAA.mp3"
+Oct 13 05:58 : player: played "The_Love_Mashup.mp3"
+Oct 13 06:01 : player: played "The_Spectre.mp3"
+Oct 13 06:09 : player: played "To_Chalun_Full_HD_Video_Song__Border__Sunny_Deol,_Sunil_Shetty,_Akshaye_Khanna__90's_Hindi_Hits(256k).mp3"
+Oct 13 06:13 : player: played "TRIBUTE_TO_SSR_Phir_Kabhi_x_Qaafirana_x_Jaan_Nisaar.mp3"
+Oct 13 06:19 : player: played "Tu_Hi_Haqeeqat_Pritam_Javed_Ali_Shadab.mp3"
+Oct 13 06:21 : player: played "Tujhe_Kitna_Chahne_Lage_lofi__Lyrics.mp3"
+Oct 13 06:24 : player: played "Tujhse_Naraaz_Nahin_Zindagi_LoFi.mp3"
+Oct 13 06:28 : player: played "Tum_Jo_Aaye_.mp3"
+Oct 13 06:34 : player: played "Tum_Mile_Full_Video___Title_Track_Emraan_Hashmi_Soha_Ali_Pritam_Neeraj_Shridhar_Kumaar.mp3"
+Oct 13 06:40 : player: played "Tum_Mile_Full_Video.mp3"
+Oct 13 06:46 : player: played "Tumse_Bhi_Zyada__Slowed___Reverb____Arijit_Singh.mp3"
+Oct 13 06:50 : player: played "Valentine_Mashup_2019_Zee_Music.mp3"
+Oct 13 06:54 : player: played "Valentines_Mashup_2019_KEDROCK_SD.mp3"
+Oct 13 06:59 : player: played "Wo_lamhe_wo_baatein_atif_aslam(128k).mp3"
+Oct 13 07:04 : player: played "Woh_Lamhe_Atif_Aslam_Emraan_Hashmi.mp3"
+Oct 13 07:20 : player: played "Ye Jo Halka Halka Saroor Hai - Ustad Nusrat Fateh Ali Khan - OSA Official HD Video.mp3"
+Oct 13 07:20 : player: played "Yeh Dil Ye Pagal Dil Mera (Awargi) _ Shaam-E-Ghazal _ Ghulam Ali _ Mohsin Naqvi _ Romantic Ghazal.mp3"
+Oct 13 07:20 : player: played "Yeh Dil Yeh Paagal Dil (Live In India _ 1980).mp3"
+Oct 13 07:23 : player: played "Yeh_Dil_Deewana_Song_Cover_By_Gurnazar.mp3"
+Oct 13 07:26 : player: played "Zara_Zara__Lofi.mp3"
+Oct 13 07:32 : player: played "Zaroorat_Slowed_Reverb__Ek_Villain_Mithoon.mp3"
+Oct 13 07:36 : player: played "Zumba_Fitness_Cheap_Thrills_by_Nikaz_Chikaz.mp3"
+Oct 13 07:38 : player: played "52 Gaj Ka Daman - Renuka Panwar.mp3"
+Oct 13 07:44 : player: played "Awaara 7 Khoon Maaf 320 Kbps.mp3"
+Oct 13 08:00 : player: played "Pehli Baar Dil Ye - Hum Ho Gaye Aap Ke - 320Kbps.mp3"
+Oct 13 08:06 : player: played "O Re Piya Aaja Nachle 320 Kbps.mp3"
+Oct 13 08:26 : player: played "AN 2007 - O Re Piya.mp3"
+Oct 13 08:32 : player: played "Sauda Hai Dil Ka Ye Aakrosh 320 Kbps.mp3"
+Oct 13 08:45 : player: played "Aakrosh - Saude Bazi (Encore).mp3"
+Oct 13 09:20 : player: played "03. Tere Bina Zindagi Se Koi Shikwa.mp3"
+Oct 13 09:26 : player: played "AKS 2007 - Tera Mera Milna.mp3"
+Oct 13 09:39 : player: played "AKS 2007 - Jhoot Nahin Bolna.mp3"
+Oct 13 09:42 : player: played "01_MUJHE TERI MOHABBAT KA.mp3"
+Oct 13 10:08 : config: option 'device' on line 15 was not recognized
+Oct 13 10:12 : player: played "01_MUJHE TERI MOHABBAT KA.mp3"
+Oct 13 10:19 : player: played "Aap Mujhe Achche Lagne Lage - Aap Mujhe Achche Lagne Lage 320 Kbps.mp3"
+Oct 13 10:24 : player: played "Aashiq Mujhe Aashiq - Roop Kumar Rathod, Alka Yagnik.mp3"
+Oct 13 10:30 : player: played "Ek Sanam Chahiye Aashiqui Ke Liye.mp3"
+Oct 13 10:35 : player: played "03-Chahun-Main-Ya-Naa-(SongsOne.Com).mp3"
+Oct 13 10:40 : player: played "Aawara Shaam Hai Meet Bros 320 Kbps.mp3"
+Oct 13 10:46 : player: played "Humein Tumse Hua Hai Pyar Hum Kya Ka.mp3"
+Oct 13 10:51 : player: played "Chunar (ABCD 2) Arijit Singh 190Kbps.mp3"
+Oct 13 10:53 : player: played "02 Sun Saathiya (ABCD 2) Divya Kumar 190kbps.mp3"
+Oct 13 10:58 : player: played "O Bekhabar O Bekadar - Action Replayy 320 Kbps.mp3"
+Oct 13 11:03 : player: played "Channa Mereya.mp3"
+Oct 13 11:06 : player: played "Dua_Shanghai_Squashup_Aftermorning.mp3"
+Oct 13 11:13 : player: played "05 - Abhi Mujh Mein Kahin.mp3"
+Oct 13 11:18 : player: played "06 - Deva Shree Ganesha.mp3"
+Oct 13 11:23 : player: played "01 Soch Na Sake - Version 1 Airlift (Arijit Singh) 320Kbps.mp3"
+Oct 13 11:27 : player: played "Aa Jao Meri Tamanna Ajab Prem Ki Ghazab Kahani 320 Kbps.mp3"
+Oct 13 11:32 : player: played "Main Tera Dhadkan Teri Ajab Prem Ki Ghazab Kahani 320 Kbps.mp3"
+Oct 13 11:36 : player: played "Prem Ki Naiyya Ajab Prem Ki Ghazab Kahani 320 Kbps.mp3"
+Oct 13 11:41 : player: played "Tera Hone Laga Hoon Ajab Prem Ki Ghazab Kahani 320 Kbps.mp3"
+Oct 13 11:47 : player: played "Tu Jaane Na Ajab Prem Ki Ghazab Kahani 320 Kbps.mp3"
+Oct 13 11:51 : player: played "Aa Jao Meri Tamanna (Ajab Prem Ki Ghajab Kahani).mp3"
+Oct 13 11:55 : player: played "Kisise Tum Pyaar Karo - Andaaz (2003) Full Video Song _HD_.mp3"
+Oct 13 12:01 : player: played "Aas Pass Hai Khuda Anjaana Anjaani 320 Kbps.mp3"
+Oct 13 12:06 : player: played "Tujhe Bhula Diya Phir - Anjaana Anjaani 320 Kbps.mp3"
+Oct 13 12:09 : player: played "Anwars Confession Into The Black Pankaj Awasthi 320 Kbps.mp3"
+Oct 13 12:17 : player: played "Javeda Zindagi Tose Naina Lage Anwar 320 Kbps.mp3"
+Oct 13 12:23 : player: played "Maula Mere Maula Anwar 320 Kbps.mp3"
+Oct 13 12:29 : player: played "Maula Mere Maula.mp3"
+Oct 13 12:36 : player: played "Apne Sonu Nigam 320 Kbps.mp3"
+Oct 13 12:41 : player: played "Mahiya Awarapan 320 Kbps.mp3"
+Oct 13 12:46 : player: played "Tera Mera Rishta Awarapan 320 Kbps.mp3"
+Oct 13 12:52 : player: played "Toh Phir Aao Awarapan 320 Kbps.mp3"
+Oct 13 12:57 : player: played "Awarapan 2007 - Mahiya.mp3"
+Oct 13 13:02 : player: played "Awarapan 2007 - Toh Phir Aao.mp3"
+Oct 13 13:08 : player: played "Awarapan 2007 - Tera Mera Rishta.mp3"
+Oct 13 13:13 : player: played "02 Itni Si Baat Hain - Azhar (Arijit Singh) 320Kbps.mp3"
+Oct 13 13:16 : player: played "Baarish Ban Jaana Payal Dev 320 Kbps.mp3"
+Oct 13 13:22 : player: played "Khuda Jaane Bachna Ae Haseeno 320 Kbps.mp3"
+Oct 13 13:28 : player: played "Zaroori Tha.mp3"
+Oct 13 13:35 : player: played "Na Milo Kahin Pyar - Badal 320 Kbps.mp3"
+Oct 13 14:50 : player: played "Guru Randhawa - Morni Banke.mp3"
+Oct 13 14:54 : player: played "02 Tu Itni Khoobsurat Hai - Barkhaa  (Rahat Fateh Ali Khan) 320Kbps.mp3"
+Oct 13 14:57 : player: played "O Saki Saki - Batla House.mp3"
+Oct 13 15:01 : player: played "Arijit Singh - Nashe Si Chadh Gayi.mp3"
+Oct 13 15:05 : player: played "Bepanah Pyaar - Yasser Desai.mp3"
+Oct 13 15:10 : output: Failed to play on "pulse audio" (pulse): suspended
+Oct 13 15:10 : player: played "Ashq-Na-Ho-Holiday_Bestwap.mp3"
+Oct 13 15:10 : output: Failed to play on "pulse audio" (pulse): suspended
+Oct 13 15:15 : player: played "Dhak Dhak Karne Laga - Udit Narayan.mp3"
+Oct 13 15:23 : player: played "04 - Ishq Chupta Nahi-(MyMp3Singer.com).mp3"
+Oct 13 15:25 : player: played "04 Zinda - Bharat.mp3"
+Oct 13 15:31 : player: played "BB-Bhool Bhulaiyaa.mp3"
+Oct 13 15:37 : player: played "BB-Labon Ko.mp3"
+Oct 13 15:42 : player: played "Bhool Bhulaiyaa Pritam 320 Kbps.mp3"
+Oct 13 15:44 : player: played "Chiggy Wiggy Blue 320 Kbps.mp3"
+Oct 26 11:42 : config: option 'device' on line 15 was not recognized
+Oct 26 11:47 : player: played "Gal Mitthi Mitthi - Songs.pk - 320Kbps.mp3"
+Nov 02 13:20 : config: option 'device' on line 15 was not recognized
+Nov 02 13:25 : player: played "Dagabaaz Re.mp3"
+Nov 02 13:29 : player: played "Made In India - Guru Randhawa - DJ Lemon.mp3"
+Nov 02 13:32 : output: Failed to play on "pulse audio" (pulse): suspended
+Nov 02 13:33 : player: played "Bom Diggy - DJ Lemon.mp3"
+Nov 02 14:21 : player: played "01 - Tu Hi Rab Tu Hi Dua.mp3"
+Nov 02 14:26 : player: played "Dasi Na Mere Baare - Goldy Desi Crew - 320Kbps.mp3"
+Nov 02 14:30 : player: played "Gale Lag Ja De Dana Dan 320 Kbps.mp3"
+Nov 02 14:35 : player: played "Rishte Naate De Dana Dan 320 Kbps.mp3"
+Nov 02 14:39 : player: played "03 Hauli Hauli - De De Pyaar De.mp3"
+Nov 02 14:45 : player: played "Sochenge Tumhe Pyar.mp3"
+Nov 02 14:51 : player: played "Teri Umeed Tera Intezar.mp3"
+Nov 02 14:54 : player: played "Genda Phool Delhi 6 320 Kbps.mp3"
+Nov 02 15:55 : player: played "Mere Bina - Crook 320 Kbps.mp3"
+Nov 02 15:58 : player: played "Tujhko Jo Paaya - Crook 320 Kbps.mp3"
+Nov 02 16:03 : player: played "Chori Kiya Re Jiya Male Dabangg 320 Kbps.mp3"
+Nov 02 16:10 : player: played "Dasi Na Mere Baare - Goldy Desi Crew - 320Kbps.mp3"
+Nov 02 16:15 : player: played "Dhadak 2018 - Dhadak Title Song.mp3"
+Nov 02 16:20 : player: played "Abhi Kuch Dino Se Dil Toh Baccha Hai Ji 320 Kbps.mp3"
+Nov 03 10:43 : player: played "04 - Mera mulk mera desh @ Fmw11.com.mp3"
+Nov 03 10:44 : config: option 'device' on line 15 was not recognized
+Nov 03 10:51 : player: played "Te Amo Dum Maaro Dum 320 Kbps.mp3"
+Nov 03 10:57 : player: played "EDKL - Solah Baras Ki Bali.mp3"
+Nov 03 11:01 : player: played "02 Hue Bechain (Palak Muchhal) 320Kbps.mp3"
+Nov 03 11:05 : player: played "05 Aankhon Mein Aansoo (Yasser Desai) 190Kbps.mp3"
+Nov 03 11:10 : player: played "04 Khuda Bhi (Mohit Chauhan) Ek Paheli Leela 320Kbps.mp3"
+Nov 03 11:13 : player: played "Ek Pyar Ka Nagma Hai - Aishwarya 320Kbps.mp3"
+Nov 03 11:18 : player: played "01 Galliyan - Ek Villain (PagalWorld.com) 320Kbps.mp3"
+Nov 03 11:54 : player: played "02 Banjaara - Ek Villain ( PagalWorld.com ).mp3"
+Nov 03 12:00 : player: played "02 Banjaara - Ek Villain (PagalWorld.com) 320Kbps.mp3"
+Nov 03 12:06 : player: played "03 Zaroorat - Ek Villain 320Kbps.mp3"
+Nov 03 12:11 : player: played "04 Awari - Ek Villain (PagalWorld.com) 320Kbps.mp3"
+Nov 03 15:00 : player: played "05 Hamdard - Ek Villain (PagalWorld.com) 320Kbps.mp3"
+Nov 04 10:35 : config: option 'device' on line 15 was not recognized
+Nov 04 10:41 : player: played "Tu Hi Meri Shab Hai - Gangster 320Kbps.mp3"
+Nov 04 10:45 : player: played "Char Baj Gaye Party Abhi Baaki Hai F.a.l.t.u 320 Kbps.mp3"
+Nov 04 10:50 : player: played "02 - Mere Haath Mein-(MyMp3Singer.com).mp3"
+Nov 04 10:55 : player: played "Fanaa 2006 - Mere Haath Main.mp3"
+Nov 04 11:00 : player: played "Filhaal2 Mohabbat B Praak 320 Kbps.mp3"
+Nov 04 11:04 : player: played "Filhall.mp3"
+Nov 04 11:07 : player: played "Chamma Chamma - Fraud Saiyaan.mp3"
+Nov 04 11:13 : player: played "Gangster 2006 - Ya Ali.mp3"
+Nov 04 11:19 : player: played "Gangster 2006 - Tu Hi Meri Shab Hai.mp3"
+Nov 04 11:24 : player: played "Tera Fitoor (PagalWorld.co)_Arijit Singh (PagalWorld.co).mp3"
+Nov 04 11:30 : player: played "Guzarish Ghajini 320 Kbps.mp3"
+Nov 04 11:36 : player: played "Kaise Mujhe Ghajini 320 Kbps.mp3"
+Nov 04 11:39 : player: played "Dil Maang Raha Hai Mohlat Tere Sath.mp3"
+Nov 04 11:43 : player: played "01 Naino Ne Baandhi - Gold.mp3"
+Nov 04 11:48 : player: played "Ale Golmaal 3 320 Kbps.mp3"
+Nov 04 11:50 : player: played "Tha Kar Ke Golmaal Returns 320 Kbps.mp3"
+Nov 05 21:18 : config: option 'device' on line 15 was not recognized
+Nov 06 07:24 : player: played "Tha Kar Ke Golmaal Returns 320 Kbps.mp3"
+Nov 07 05:16 : config: option 'device' on line 15 was not recognized
+Nov 07 05:20 : player: played "Tha Kar Ke Golmaal Returns 320 Kbps.mp3"
+Nov 07 05:23 : player: played "02 Apna Time Aayega - Gully Boy.mp3"
+Nov 07 05:26 : player: played "Kab Se Kab Tak - Gully Boy.mp3"
+Nov 07 05:28 : player: played "01 Asli Hip Hop - Gully Boy.mp3"
+Nov 07 05:34 : player: played "06 - Rooth Kar Hum-(MyMp3Singer.com).mp3"
+Nov 07 05:40 : player: played "Barso Re Guru 320 Kbps.mp3"
+Nov 07 05:45 : player: played "Tere Bina Guru 320 Kbps.mp3"
+Nov 07 05:52 : player: played "02 - Hum Pyaar Hain Tumhare-(MyMp3Singer.com).mp3"
+Nov 07 05:57 : player: played "Gulon Mein Rang Bhare - Haider - (2014) [SongsMp3.Com].mp3"
+Nov 07 06:01 : player: played "Ek Aur Bismil - Haider - (2014) [SongsMp3.Com].mp3"
+Nov 07 06:03 : player: played "So Jao - Haider - (2014) [SongsMp3.Com].mp3"
+Nov 07 06:08 : player: played "Do Jahan - Haider - (2014) [SongsMp3.Com].mp3"
+Nov 07 06:12 : player: played "Aaj Ke Naam - Haider - (2014) [SongsMp3.Com].mp3"
+Nov 07 06:18 : player: played "02 - Bismil (Haider) [SongsMp3.Com].mp3"
+Nov 07 06:24 : player: played "03 - Khul Kabhi (Haider)  [SongsMp3.Com].mp3"
+Nov 07 06:29 : player: played "Baarish.mp3"
+Nov 07 06:34 : player: played "07 Zaroori Tha -Hamari Adhuri Kahani- Rahat Fateh 320Kbps.mp3"
+Nov 07 06:40 : player: played "Tune+Zindgi+Me+Aake-(Fun2desi.Com).mp3"
+Nov 07 06:47 : player: played "Ye+Dosti+Tere+Dam+Se+Hai-(Fun2desi.Com).mp3"
+Nov 07 06:51 : player: played "Tere Pyar Mein Main - Jaspinder Narula, Roop Kumar Rathod.mp3"
+Nov 07 06:55 : player: played "Oh Girl Youre Mine Housefull 320 Kbps.mp3"
+Nov 07 07:02 : player: played "02 - Do Dil Mil Rahe Hain(MyMp3Song.Com).mp3"
+Nov 07 07:07 : player: played "03 - Tu Ne Jo Na Kaha(MyMp3Song.mp3"
+Nov 07 07:11 : player: played "Hume Tumse Pyaar Kitna - Female.mp3"
+Nov 07 07:14 : player: played "Hume Tumse Pyaar Kitna - Title Song.mp3"
+Nov 07 07:14 : player: played "Humnava Mere Jubin Nautiyal 320 Kbps.mp3"
+Nov 08 04:27 : config: option 'device' on line 15 was not recognized
+Nov 08 04:31 : player: played "Ek Aur Bismil - Haider - (2014) [SongsMp3.Com].mp3"
+Nov 08 04:33 : player: played "So Jao - Haider - (2014) [SongsMp3.Com].mp3"
+Nov 08 04:37 : player: played "Do Jahan - Haider - (2014) [SongsMp3.Com].mp3"
+Nov 08 04:42 : player: played "Aaj Ke Naam - Haider - (2014) [SongsMp3.Com].mp3"
+Nov 08 04:48 : player: played "02 - Bismil (Haider) [SongsMp3.Com].mp3"
+Nov 08 04:54 : player: played "03 - Khul Kabhi (Haider)  [SongsMp3.Com].mp3"
+Nov 08 04:59 : player: played "Baarish.mp3"
+Nov 08 05:04 : player: played "07 Zaroori Tha -Hamari Adhuri Kahani- Rahat Fateh 320Kbps.mp3"
+Nov 08 05:09 : player: played "Tune+Zindgi+Me+Aake-(Fun2desi.Com).mp3"
+Nov 08 05:17 : player: played "Ye+Dosti+Tere+Dam+Se+Hai-(Fun2desi.Com).mp3"
+Nov 08 05:21 : player: played "Tere Pyar Mein Main - Jaspinder Narula, Roop Kumar Rathod.mp3"
+Nov 08 05:25 : player: played "Oh Girl Youre Mine Housefull 320 Kbps.mp3"
+Nov 08 05:31 : player: played "02 - Do Dil Mil Rahe Hain(MyMp3Song.Com).mp3"
+Nov 08 05:37 : player: played "03 - Tu Ne Jo Na Kaha(MyMp3Song.mp3"
+Nov 08 05:41 : player: played "Hume Tumse Pyaar Kitna - Female.mp3"
+Nov 08 05:44 : player: played "Hume Tumse Pyaar Kitna - Title Song.mp3"
+Nov 08 05:50 : player: played "Humnava Mere Jubin Nautiyal 320 Kbps.mp3"
+Nov 08 05:54 : player: played "02_-_Samjhawan_Arijit_Singh_(Humpty_Sharma_Ki_Dulhania)(PlayMaza.Com).mp3"
+Nov 08 06:00 : player: played "02 Tum Todo Na - Male-PagalWorld.Com--320Kbps.mp3"
+Nov 08 06:04 : player: played "06 Tum Todo Na - Female-PagalWorld.Com--320Kbps.mp3"
+Nov 08 06:10 : player: played "Bahara - I Hate Luv Storys 320 Kbps.mp3"
+Nov 08 06:16 : player: played "Mera Kuchh Samaan - Asha Bhosle.mp3"
+Nov 08 06:23 : player: played "Watan Walo (IndianSoundtrack Version) - Roop Kumar Rathod.mp3"
+Nov 08 06:29 : player: played "Kasam Khaake Kaho (MastiMag.com).mp3"
+Nov 08 06:33 : player: played "Dil Tod Ke 128 Kbps.mp3"
+Nov 08 07:07 : player: played "Dil To Bachcha Hai - Ishqiya 320 Kbps.mp3"
+Nov 08 07:10 : player: played "Kabhi Kabhi Aditi Zindagi Jaane Tu.. Ya Jaane Na 320 Kbps.mp3"
+Nov 08 07:14 : player: played "Jab Teri Yaad Aayegi - I Shoj Kytrak.mp3"
+Nov 08 07:20 : player: played "02. Tumse Hi.mp3"
+Nov 08 07:26 : player: played "06. Aaoge Jab Tum.mp3"
+Nov 08 07:30 : player: played "Mauja Hi Mauja Jab We Met 320 Kbps.mp3"
+Nov 08 07:35 : player: played "02_-_Tere_Naina_Maar_Hi_Daalenge(PagalWorlds.in).mp3"
+Nov 08 07:39 : player: played "03 Mera Pyar Tera Pyar - Jalebi.mp3"
+Nov 08 07:44 : player: played "Javed-Mohsin - Pal.mp3"
+Nov 08 07:47 : output: Failed to play on "pulse audio" (pulse): suspended
+Nov 08 07:52 : player: played "Haan Tu Hain Jannat Original Motion Picturetrack 320 Kbps.mp3"
+Nov 08 10:19 : player: played "Judai Jannat Original Motion Picturetrack 320 Kbps.mp3"
+Nov 10 12:19 : config: option 'device' on line 15 was not recognized
+Nov 10 12:24 : player: played "Judai Jannat Original Motion Picturetrack 320 Kbps.mp3"
+Nov 10 13:06 : player: played "Lambi Judai Jannat Original Motion Picturetrack 320 Kbps.mp3"
+Nov 10 18:41 : player: played "Zara Sa Jannat Original Motion Picturetrack 320 Kbps.mp3"
+Nov 10 21:33 : player: played "02 - Jannat 2 - Tera Deedar Hua.mp3"
+Nov 11 04:52 : config: option 'device' on line 15 was not recognized
+Nov 11 10:22 : player: played "02 - Jannat 2 - Tera Deedar Hua.mp3"
+Nov 11 15:29 : config: option 'device' on line 15 was not recognized
+Nov 11 15:54 : player: played "Aakrosh - Saude Bazi (Encore).mp3"
+Nov 11 16:31 : player: played "Dasi Na Mere Baare - Goldy Desi Crew - 320Kbps.mp3"
+Nov 11 16:50 : exception: Failed to open /home/akshay/.config/mpd/playlists: No such file or directory
+Nov 11 22:02 : player: played "Matargashti.mp3"
+Nov 11 22:24 : config: option 'device' on line 15 was not recognized
+Nov 11 22:27 : player: played "Matargashti.mp3"
+Nov 11 22:30 : player: played "Maula_Mere_Maula__LoFi_Lyrics_AnwarTextaudio_Lyrics.mp3"
+Nov 11 22:37 : player: played "Memories_Lofi_Mashup_DJ_Harsh_Sharma.mp3"
+Nov 11 22:41 : player: played "Mera_Mann_Lo_fi_Nautanki_Saala_JAZ_Scape__Textaudio_Lyrics.mp3"
+Nov 11 22:44 : player: played "mera-pyar-tera-pyar-full-song-arijit-singh-varun-rhea-jalebi.mp3"
+Nov 11 22:49 : player: played "Mere_Bina_Full_Video_Crook_Emraan_Hashmi_Neha_Sharma_Nikhil_D_Souza.mp3"
+Nov 11 22:52 : player: played "Mere_Nishaan_Full_Song_Oh_My_God_Akshay_Kumar_Paresh_Rawaln.mp3"
+Nov 11 22:56 : player: played "Meri_Zindagi_Hai_Tu_Slowed_Reverb_Jubin_Nautiyal.mp3"
+Nov 11 23:10 : player: played "Midnight_Memories_Mashup_2021___Slowed_Reverb_Mashup__.mp3"
+Nov 12 08:19 : config: option 'device' on line 15 was not recognized
+Nov 12 08:23 : player: played "Midnight_Memories_Mashup_2021___Slowed_Reverb_Mashup__.mp3"
+Nov 12 08:29 : player: played "Midnight_Memories_Mashup_2021_Slowed_Reverb_Mashup__.mp3"
+Nov 12 08:32 : player: played "Mitwa_LoFi_Lyrics_Yash_Kshirsagar___Textaudio_Lyrics.mp3"
+Nov 12 08:37 : player: played "Moh_Moh_Ke_Dhaage_LoFi_Lyrics_Papon_WORMONO_Textaudio_Lyrics.mp3"
+Nov 12 08:38 : output: Failed to play on "pulse audio" (pulse): suspended
+Nov 12 09:33 : player: played "Sohnea__Full_Song_Miss_Pooja_Feat__Millind_Gaba___Latest_Punjabi_Songs_2017___.mp3"
+Nov 12 09:34 : player: played "Yeh Dil Ye Pagal Dil Mera (Awargi) _ Shaam-E-Ghazal _ Ghulam Ali _ Mohsin Naqvi _ Romantic Ghazal.mp3"
+Nov 12 09:54 : player: played "Dil Leke Darde Dil Wanted 320 Kbps.mp3"
+Nov 12 09:59 : player: played "Noor E Khuda - We Are Family 320 Kbps.mp3"
+Nov 12 10:00 : config: option 'device' on line 15 was not recognized
+Nov 12 10:03 : player: played "Teri Ore Singh Is Kinng 320 Kbps.mp3"
+Nov 12 10:08 : player: played "Saathiyaa Singham 320 Kbps.mp3"
+Nov 12 10:13 : player: played "English/[MP3DOWNLOAD.TO] Ed Sheeran - Photograph • Me Before You-320k.mp3"
+Nov 12 10:17 : player: played "English/Adele - I Can't Make You Love Me (Live) Itunes Festival 2011 HD.mp3"
+Nov 12 10:20 : player: played "English/Adele - Rolling in the Deep.mp3"
+Nov 12 10:24 : player: played "English/Let-Me-Down-Slowly_320(PaglaSongs).mp3"
+Nov 12 10:25 : player: played "English/EMINEM/02. Unaccommodating (feat. Young M.A).mp3"
+Nov 12 10:25 : player: played "English/EMINEM/03. You Gon’ Learn (feat. Royce Da 5'9' and White Gold).mp3"
+Nov 12 10:25 : player: played "English/EMINEM/05. Those Kinda Nights (feat. Ed Sheeran).mp3"
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Nov 12 10:25 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Nov 12 10:25 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Nov 12 10:25 : exception: Failed to decode English/EMINEM/11 Marshall Mathers.flac
+Nov 12 10:25 : player: played "English/EMINEM/06. In Too Deep.mp3"
+Nov 12 10:25 : player: played "English/EMINEM/11 Marshall Mathers.flac"
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Nov 12 10:25 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Nov 12 10:25 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Nov 12 10:25 : exception: Failed to decode English/EMINEM/11 Marshall Mathers.flac
+Nov 12 10:25 : player: played "English/EMINEM/11 Marshall Mathers.flac"
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Nov 12 10:25 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Nov 12 10:25 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Nov 12 10:25 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Nov 12 10:25 : exception: Failed to decode English/EMINEM/13 Drug Ballad.flac
+Nov 12 10:25 : player: played "English/EMINEM/13 Drug Ballad.flac"
+Nov 12 10:26 : player: played "English/EMINEM/15. Little Engine.mp3"
+Nov 12 10:26 : player: played "English/EMINEM/16. Lock It Up (feat. Anderson .Paak).mp3"
+Nov 12 10:27 : player: played "English/EMINEM/17. Farewell.mp3"
+Nov 12 10:27 : player: played "English/EMINEM/18. Guilty Conscience.mp3"
+Nov 12 10:27 : player: played "English/EMINEM/18. No Regrets (feat. Don Toliver).mp3"
+Nov 12 10:28 : player: played "English/EMINEM/19. I Will (feat. Kxng Crooked, Royce Da 5'9', and Joell Ortiz).mp3"
+Nov 12 10:32 : player: played "English/EMINEM/Eminem_-_Higher_Emvidowealth.com.mp3"
+Nov 12 10:38 : player: played "English/EMINEM/01. 8 Mile.mp3"
+Nov 12 10:43 : player: played "English/EMINEM/02. Kamikaze.mp3"
+Nov 12 10:47 : player: played "English/EMINEM/03. Just Lose It.mp3"
+Nov 12 10:51 : player: played "English/EMINEM/04. Berzerk.mp3"
+Nov 12 10:55 : player: played "English/EMINEM/05. Love The Way You Lie (feat. Rihanna).mp3"
+Nov 12 11:00 : player: played "English/EMINEM/06. Lose Yourself.mp3"
+Nov 12 11:04 : player: played "English/EMINEM/07. Guilty Conscience (feat. Dr. Dre).mp3"
+Nov 12 11:08 : player: played "English/EMINEM/08. Venom.mp3"
+Nov 12 11:15 : player: played "English/EMINEM/09. Stan (feat. Dido).mp3"
+Nov 12 11:20 : player: played "English/EMINEM/10. Walk On Water (feat. Beyoncé).mp3"
+Nov 12 11:24 : player: played "English/EMINEM/11. Forgot About Dre (feat. Dr. Dre).mp3"
+Nov 12 11:30 : player: played "English/EMINEM/12. Rap God.mp3"
+Nov 12 11:33 : player: played "English/EMINEM/13. Role Model.mp3"
+Nov 12 11:37 : player: played "English/EMINEM/14. River (feat. Ed Sheeran).mp3"
+Nov 12 11:41 : player: played "English/EMINEM/15. Brain Damage.mp3"
+Nov 12 14:00 : player: played "Kasoor_Lofi_Lyrics_Prateek_Kuhad__Textaudio_Lyrics.mp3"
+Nov 12 14:03 : player: played "Kaun_Tujhe_Lofi_M_S_DHOI_THE_UNTOLD_STORY_NEELESH_Textaudio_Lyrics.mp3"
+Nov 12 14:05 : player: played "Khaabon_ke_Parinday_Lofi_lyrics_Peaceslayer_Music_Textaudio_Lyrics.mp3"
+Nov 12 14:07 : player: played "Kho_Gaye_Hum_Kahan_Lyrics_Harrlin_Flip_Textaudio_Lyrics.mp3"
+Nov 12 14:14 : player: played "Kisi_Nazar_Ko_Tera_Intezar_Full_Song___Aitbaar___Raj_Babbar__Dimple_Kapadia__Suresh_Oberoi.mp3"
+Nov 12 14:16 : player: played "Kyon_Papon_Harrlin_Flip.mp3"
+Nov 12 14:23 : player: played "LAAL_ISHQ___Full_Audio_Song___Deepika_Padukone___Ranveer_Singh___Goliyon_Ki_Raasleela_Ram_leela.mp3"
+Nov 12 14:25 : player: played "Lag_Jaa_Gale__LoFi.mp3"
+Nov 12 14:29 : player: played "Lagi_Aaj_Sawan_Ki___Full_Song___Chandni___Vinod_Khanna__Sridevi___Suresh_Wadkar__Anupama_Deshpande.mp3"
+Nov 12 15:00 : player: played "Lamberghini_The_Doorbeen_Speed_Records.mp3"
+Nov 12 19:40 : player: played "Main_Rang_Sharbaton_Ka__Lofi___JAZ_Scape__Textaudio_Lyrics.mp3"
+Nov 12 22:10 : config: option 'device' on line 15 was not recognized
+Nov 13 04:52 : player: played "Main_Rang_Sharbaton_Ka__Lofi___JAZ_Scape__Textaudio_Lyrics.mp3"
+Nov 13 04:56 : player: played "Main_Rang_Sharbaton_Ka_Lofi_JAZ_Scape_Textaudio_Lyrics.mp3"
+Nov 13 05:01 : player: played "Maine_Dil_Se_Kaha.mp3"
+Nov 13 05:04 : player: played "Mareez_E_Ishq_Full_Video_ZiD_Mannara__Karanvir___Arijit_Singh___Sharib_Toshi.mp3"
+Nov 13 05:10 : player: played "Matargashti.mp3"
+Nov 13 05:12 : player: played "Maula_Mere_Maula__LoFi_Lyrics_AnwarTextaudio_Lyrics.mp3"
+Nov 13 05:20 : player: played "Memories_Lofi_Mashup_DJ_Harsh_Sharma.mp3"
+Nov 13 05:24 : player: played "Mera_Mann_Lo_fi_Nautanki_Saala_JAZ_Scape__Textaudio_Lyrics.mp3"
+Nov 13 05:27 : player: played "mera-pyar-tera-pyar-full-song-arijit-singh-varun-rhea-jalebi.mp3"
+Nov 13 05:32 : player: played "Mere_Bina_Full_Video_Crook_Emraan_Hashmi_Neha_Sharma_Nikhil_D_Souza.mp3"
+Nov 13 05:35 : player: played "Mere_Nishaan_Full_Song_Oh_My_God_Akshay_Kumar_Paresh_Rawaln.mp3"
+Nov 13 08:42 : player: played "Saans_-_Full_Song__Jab_Tak_Hai_Jaan__Shah_Rukh_Khan__Katrina_Kaif__Shreya_Ghoshal__A._R._Rahman(256k).mp3"
+Nov 13 08:45 : player: played "Sabrina_Carpenter_Farruko__On_My_Way.mp3"
+Nov 13 08:50 : player: played "Sajde___Full_Song_Kill_Dil_Ranveer_Pr_Ehsaan_Loy__Gulzar.mp3"
+Nov 13 08:55 : player: played "Salaam__Full_Song_Umrao_Jaan___Aishwarya_Rai.mp3"
+Nov 13 08:59 : player: played "Sawan_Aaya_Hai_FULL_VIDEO_Song__Arijit_Singh__Bipasha_Basu__Imran_Abbas_Naqvi(256k).mp3"
+Nov 13 09:38 : player: played "See_You_Again_ft__Charlie_Puth__Official_Video__Furious_7_Soundtrack.mp3"
+Nov 13 09:45 : player: played "Sham__LoFi_Remake__Aisha___JAZ_Scape_Textaudio_Lyrics.mp3"
+Nov 13 09:48 : player: played "Sham_LoFi_Remake_Aisha_JAZ_Scape_Textaudio_Lyrics.mp3"
+Nov 13 09:53 : player: played "Sohnea__Full_Song_Miss_Pooja_Feat__Millind_Gaba___Latest_Punjabi_Songs_2017___.mp3"
+Nov 13 09:55 : player: played "Subhanallah_Lofi_Textaudio_Lyrics.mp3"
+Nov 13 09:59 : player: played "Sun_meri_shehzadi_Slowed_Down_Reverb_Saaton_Janam_Mein_Tere____Night_Song.mp3"
+Nov 13 10:04 : player: played "Sun_Saiba_Sun___Mandakini___Rajiv_Kapoor___Ram_Teri_Ganga_Maili___Bollywood_Hit_Love_Songs__HD_.mp3"
+Nov 13 10:11 : player: played "Tere_Hi_Hum_Lo_fi_Prateek_Kuhad_Lost_In_Vibes_Flip_Textaudio_Lyrics.mp3"
+Nov 13 10:17 : player: played "Tere_Liye.mp3"
+Nov 13 10:23 : player: played "Teri_Mitti.mp3"
+Nov 13 10:29 : player: played "The Breakup Mashup 2  DJ Mans  Sunix Thakor.mp3"
+Nov 13 10:38 : player: played "TRIBUTE_TO_SSR_Phir_Kabhi_x_Qaafirana_x_Jaan_Nisaar.mp3"
+Nov 13 10:43 : player: played "Tu_Hi_Haqeeqat_Pritam_Javed_Ali_Shadab.mp3"
+Nov 13 10:46 : player: played "Tujhe_Kitna_Chahne_Lage_lofi__Lyrics.mp3"
+Nov 13 10:49 : player: played "Tujhse_Naraaz_Nahin_Zindagi_LoFi.mp3"
+Nov 13 10:52 : player: played "Tum_Jo_Aaye_.mp3"
+Nov 13 10:58 : player: played "Tum_Mile_Full_Video___Title_Track_Emraan_Hashmi_Soha_Ali_Pritam_Neeraj_Shridhar_Kumaar.mp3"
+Nov 13 11:04 : player: played "Tum_Mile_Full_Video.mp3"
+Nov 13 11:08 : player: played "Valentine_Mashup_2019_Zee_Music.mp3"
+Nov 13 11:12 : player: played "Valentines_Mashup_2019_KEDROCK_SD.mp3"
+Nov 13 11:17 : output: Failed to play on "pulse audio" (pulse): suspended
+Nov 13 11:17 : player: played "Wo_lamhe_wo_baatein_atif_aslam(128k).mp3"
+Nov 13 14:31 : player: played "Woh_Lamhe_Atif_Aslam_Emraan_Hashmi.mp3"
+Nov 13 14:48 : player: played "Ye Jo Halka Halka Saroor Hai - Ustad Nusrat Fateh Ali Khan - OSA Official HD Video.mp3"
+Nov 13 14:48 : player: played "Yeh Dil Ye Pagal Dil Mera (Awargi) _ Shaam-E-Ghazal _ Ghulam Ali _ Mohsin Naqvi _ Romantic Ghazal.mp3"
+Nov 13 14:48 : player: played "Yeh Dil Yeh Paagal Dil (Live In India _ 1980).mp3"
+Nov 13 14:50 : player: played "Yeh_Dil_Deewana_Song_Cover_By_Gurnazar.mp3"
+Nov 13 14:53 : player: played "Zara_Zara__Lofi.mp3"
+Nov 13 15:00 : player: played "Zaroorat_Slowed_Reverb__Ek_Villain_Mithoon.mp3"
+Nov 13 16:45 : player: played "Ye Jo Halka Halka Saroor Hai - Ustad Nusrat Fateh Ali Khan - OSA Official HD Video.mp3"
+Nov 13 16:45 : player: played "Yeh Dil Ye Pagal Dil Mera (Awargi) _ Shaam-E-Ghazal _ Ghulam Ali _ Mohsin Naqvi _ Romantic Ghazal.mp3"
+Nov 13 16:45 : player: played "Yeh Dil Yeh Paagal Dil (Live In India _ 1980).mp3"
+Nov 13 16:48 : player: played "Yeh_Dil_Deewana_Song_Cover_By_Gurnazar.mp3"
+Nov 13 16:51 : player: played "Zara_Zara__Lofi.mp3"
+Nov 13 16:57 : player: played "Zaroorat_Slowed_Reverb__Ek_Villain_Mithoon.mp3"
+Nov 13 17:01 : player: played "Zumba_Fitness_Cheap_Thrills_by_Nikaz_Chikaz.mp3"
+Nov 13 17:04 : player: played "52 Gaj Ka Daman - Renuka Panwar.mp3"
+Nov 13 17:09 : player: played "Awaara 7 Khoon Maaf 320 Kbps.mp3"
+Nov 13 17:15 : player: played "Pehli Baar Dil Ye - Hum Ho Gaye Aap Ke - 320Kbps.mp3"
+Nov 13 17:21 : player: played "O Re Piya Aaja Nachle 320 Kbps.mp3"
+Nov 13 17:27 : player: played "AN 2007 - O Re Piya.mp3"
+Nov 13 17:33 : player: played "Sauda Hai Dil Ka Ye Aakrosh 320 Kbps.mp3"
+Nov 13 17:39 : player: played "Aakrosh - Saude Bazi (Encore).mp3"
+Nov 13 17:47 : player: played "03. Tere Bina Zindagi Se Koi Shikwa.mp3"
+Nov 13 18:02 : output: Failed to play on "pulse audio" (pulse): suspended
+Nov 13 20:13 : player: played "Sauda Hai Dil Ka Ye Aakrosh 320 Kbps.mp3"
+Nov 14 08:19 : output: Failed to play on "pulse audio" (pulse): suspended
+Nov 14 08:43 : player: played "Remembering Lata Mangeshkar.mp3"
+Nov 14 09:49 : player: played "Saans_-_Full_Song__Jab_Tak_Hai_Jaan__Shah_Rukh_Khan__Katrina_Kaif__Shreya_Ghoshal__A._R._Rahman(256k).mp3"
+Nov 14 10:01 : player: played "Sajde___Full_Song_Kill_Dil_Ranveer_Pr_Ehsaan_Loy__Gulzar.mp3"
+Nov 14 11:08 : player: played "Ye Jo Halka Halka Saroor Hai - Ustad Nusrat Fateh Ali Khan - OSA Official HD Video.mp3"
+Nov 14 11:08 : exception: Failed to open /home/akshay/.config/mpd/playlists: No such file or directory
+Nov 14 11:39 : player: played "Kali Kali Zulfon Ke Phande Na Dalo - Ustad Nusrat Fateh Ali Khan - OSA Official HD.mp3"
+Nov 14 12:23 : player: played "Kali Kali Zulfon Ke Phande Na Song Nusrat Fateh Ali Khan.mp3"
+Nov 14 12:26 : player: played "Kasoor_Lofi_Lyrics_Prateek_Kuhad__Textaudio_Lyrics.mp3"
+Nov 14 12:30 : player: played "Kaun_Tujhe_Lofi_M_S_DHOI_THE_UNTOLD_STORY_NEELESH_Textaudio_Lyrics.mp3"
+Nov 14 12:31 : player: played "Khaabon_ke_Parinday_Lofi_lyrics_Peaceslayer_Music_Textaudio_Lyrics.mp3"
+Nov 14 12:33 : player: played "Kho_Gaye_Hum_Kahan_Lyrics_Harrlin_Flip_Textaudio_Lyrics.mp3"
+Nov 14 12:40 : player: played "LAAL_ISHQ___Full_Audio_Song___Deepika_Padukone___Ranveer_Singh___Goliyon_Ki_Raasleela_Ram_leela.mp3"
+Nov 14 12:42 : player: played "Lag_Jaa_Gale__LoFi.mp3"
+Nov 14 14:22 : player: played "English/EMINEM/01. 8 Mile.mp3"
+Nov 14 14:22 : player: played "32 BHARAT KA RAHNEWALA HOON - INH109537210.mp3"
+Nov 14 14:22 : exception: Not playing
+Nov 14 14:22 : exception: Not playing
+Nov 14 14:22 : exception: Not playing
+Nov 14 14:22 : exception: Not playing
+Nov 14 14:22 : exception: Not playing
+Nov 14 14:22 : exception: Not playing
+Nov 14 14:22 : exception: Not playing
+Nov 14 14:22 : exception: Not playing
+Nov 14 14:23 : exception: Not playing
+Nov 14 14:23 : exception: Not playing
+Nov 14 14:23 : exception: Not playing
+Nov 14 14:23 : exception: Not playing
+Nov 14 14:23 : exception: Not playing
+Nov 14 14:23 : exception: Not playing
+Nov 14 14:23 : exception: Not playing
+Nov 14 14:23 : exception: Not playing
+Nov 14 14:23 : exception: Not playing
+Nov 14 14:23 : exception: Not playing
+Nov 14 14:23 : exception: Not playing
+Nov 14 14:23 : exception: Not playing
+Nov 14 14:23 : exception: Not playing
+Nov 14 14:23 : exception: Not playing
+Nov 14 14:32 : player: played "1_Hour_Of_Night_Hindi_Lofi_Songs_To_Study.mp3"
+Nov 14 14:40 : player: played "13 AYE WATAN TERE LIYE {KARMA}.mp3"
+Nov 14 14:46 : player: played "32 BHARAT KA RAHNEWALA HOON - INH109537210.mp3"
+Nov 14 15:06 : player: played "Chaudhary - Amit Trivedi feat Mame Khan, Coke Studio @ MTV Season 2-320k.mp3"
+Nov 14 15:12 : player: played "Deewani_Mastani_Full_Video_Song___Bajirao_Mastani.mp3"
+Nov 14 15:17 : player: played "Des Rangila.mp3"
+Nov 14 15:21 : player: played "DHARIA_Sugar_Brownies_by_Monoir_Official_Video_.mp3"
+Nov 14 16:56 : player: played "Dil_Chahte_Ho__Jubin_Nautiyal,_Mandy_Takhar__Payal_Dev,__A.M.Turaz__Navjit_Buttar__Bhushan_Kumar(128k).mp3"
+Nov 14 17:01 : player: played "Dil_Chura_Liya___4K_Video___Ajay_Devgan___Neha_Dhupia___Qayamat___90_s_Bollywood_Romantic_Songs.mp3"
+Nov 14 18:38 : player: played "Dil_Ka_Rishta_Lyrical_-_Dil_Ka_Rishta__Aishwariya_Rai,_Arjun_Rampal,_Priyanshu__Alka,_Udit,_Kumar(256k).mp3"
+Nov 14 18:42 : player: played "Dil_Mein_Ho_Tum_Cover_WHY_CHEAT.mp3"
+Nov 14 18:47 : player: played "Dil_Mera_Chahe__Full_Song____Nafe_Khan___Sumi___Manish___Hindi_Song_2017___.mp3"
+Nov 14 18:53 : player: played "Dil_Mera_Chahe_2017___.mp3"
+Nov 14 18:57 : player: played "Dil_Tod_ke_Jane_Wale_kk_Ishq_Ke_Parindey.mp3"
+Nov 14 18:59 : player: played "Duniyaa_Lofi_Akhil_GOURAV.mp3"
+Nov 14 19:02 : player: played "Ek_Ajnabee_Haseena_Se_Kya_Hua_Tera_Wada.mp3"

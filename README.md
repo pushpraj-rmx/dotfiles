@@ -4,4 +4,4 @@ Therefore, I'll be uploading files manually after every big change.
 These files are not always synced.
 
 ### and 
-I use these files with dwm (window manager), in Arch Linux.
+I use these files with dwm (window manager), in Arch Linux. // no updates yet // reinitialized old repo
